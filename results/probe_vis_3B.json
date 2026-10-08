@@ -1,0 +1,3642 @@
+{
+ "summary": {
+  "model": "qwen2.5-vl-3b",
+  "with_image": true,
+  "parquet": "../data/raw/aokvqa_val.parquet",
+  "n_sampled": 200,
+  "n_usable": 200,
+  "drop_rate": 0.0,
+  "param_hit_rate": 0.68,
+  "minutes": 0.7
+ },
+ "records": [
+  {
+   "question_id": "22jbM6gDxdaMaunuzgrsBB",
+   "question": "What is in the motorcyclist's mouth?",
+   "answer": "nothing",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "cigarette"
+   ],
+   "rationales": [
+    "He's smoking while riding.",
+    "The motorcyclist has a lit cigarette in his mouth while he rides on the street.",
+    "The man is smoking."
+   ]
+  },
+  {
+   "question_id": "2Br4bJfKY7SQM9DECrqqeG",
+   "question": "What best describes the pool of water?",
+   "answer": "pond",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "muddy",
+    "dirty",
+    "murky water",
+    "pond",
+    "watering hole"
+   ],
+   "rationales": [
+    "The pool is dark brown.",
+    "It it brown and surrounded with mud.",
+    "The pool is dirty."
+   ]
+  },
+  {
+   "question_id": "2C8riXpRLX3CyM5jDz23m7",
+   "question": "What is the white substance on top of the cupcakes?",
+   "answer": "cream",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "icing",
+    "whipped cream",
+    "frosting",
+    "cream"
+   ],
+   "rationales": [
+    "This is frosting used to decorate and add more flavor to the cake",
+    "It's the icing.",
+    "Mayo is not sweet enough and butter and ice cream would melt."
+   ]
+  },
+  {
+   "question_id": "39CcpmwATuiwiZLZo3XMuv",
+   "question": "The cat is looking in what direction?",
+   "answer": "up",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "down",
+    "ahead"
+   ],
+   "rationales": [
+    "The cat is looking down.",
+    "The cat looks down.",
+    "The cat is looking at the water flow into the drain."
+   ]
+  },
+  {
+   "question_id": "3SKKn3bQ4xhiDpkesifdod",
+   "question": "The company producing the device in her hand is from what country?",
+   "answer": "usa",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "japan",
+    "sumsung",
+    "china"
+   ],
+   "rationales": [
+    "This is the wii game",
+    "The girl is using a wii which a product of nintendo which is a japanese company.",
+    "Japan produces this device."
+   ]
+  },
+  {
+   "question_id": "3X8TsFBRS7mBsBbyFDzRdb",
+   "question": "Which is not an ingredient of this dish?",
+   "answer": "wine",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "ketchup",
+    "salad",
+    "fish",
+    "ham",
+    "apple",
+    "marshmallow"
+   ],
+   "rationales": [
+    "There isn't anything that is deep red on the plate.",
+    "Pepperoni is there.",
+    "There is no dark round meat on this pizza so it is missing."
+   ]
+  },
+  {
+   "question_id": "3hvf4MjtcgpFznUWS5bbvj",
+   "question": "What sport are they mimicking?",
+   "answer": "baseball",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "baseball"
+   ],
+   "rationales": [
+    "They're playing baseball.",
+    "They are hitting the ball with a type of bat.",
+    "The baseball bat is hitting a ball."
+   ]
+  },
+  {
+   "question_id": "4H7KMfvPvCTSvtf8Uyp55D",
+   "question": "What is the orange container on the left near the man in the red shirt used for?",
+   "answer": "cooling",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "cooler",
+    "drinks",
+    "storage"
+   ],
+   "rationales": [
+    "They keep drinks in it.",
+    "That cooler is used to hold drinks and keep them cool with ice in them.",
+    "It's a cooler that is used to keep foods or beverages cold."
+   ]
+  },
+  {
+   "question_id": "4PvLY9C3GyARH3WSGYbYFq",
+   "question": "What kind of cuisine is this?",
+   "answer": "Asian",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "asian",
+    "asian cuisine",
+    "healthy",
+    "chicken lomein",
+    "chinese",
+    "stir fry"
+   ],
+   "rationales": [
+    "These have noodles and vegetables",
+    "It features noodles that are used in popular asian cuisine.",
+    "Asian cuisine features noodles."
+   ]
+  },
+  {
+   "question_id": "4j6bW4ChHncMKUnmnGAQQ2",
+   "question": "They are likely having pizza at what kind of event?",
+   "answer": "work",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "meeting",
+    "school event",
+    "party",
+    "working event",
+    "social",
+    "academic"
+   ],
+   "rationales": [
+    "The chairs and the relative ages of the people in the image is consistent with answer a.",
+    "The people are mostly about the same age.  they are sitting in desks.",
+    "The men look like students."
+   ]
+  },
+  {
+   "question_id": "5NysKUokKJcrFfUcBbr9Vo",
+   "question": "What is likely to have happened?",
+   "answer": "fall",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "wipeout",
+    "they fell",
+    "collusion",
+    "accident",
+    "people fell",
+    "collision"
+   ],
+   "rationales": [
+    "They look like they hit one another by accident or fell.",
+    "The people are on the ground.",
+    "The people are on the ground and look like they are in pain."
+   ]
+  },
+  {
+   "question_id": "5S32A279iAfRetbkeWJd77",
+   "question": "What vehicle is closest to the security guard?",
+   "answer": "car",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "scooter",
+    "silver",
+    "silver car",
+    "segway",
+    "two-wheeler",
+    "gray car"
+   ],
+   "rationales": [
+    "The segway, not any of the cars, is the closest to the security guard.",
+    "The vehicle with two wheels is being used by the security guard.",
+    "The security guard is resting his feet on a segway so it is the closest vehicle to him."
+   ]
+  },
+  {
+   "question_id": "5cNGmGcUxJP7rwHnc6BXrs",
+   "question": "The green object on the smaller boat is used as what?",
+   "answer": "anchor",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "flotation",
+    "bathroom",
+    "restroom",
+    "portapotty",
+    "toilet",
+    "outhouse"
+   ],
+   "rationales": [
+    "The green object is a portable toilet.",
+    "This small unit is used traditionally as a bathroom.",
+    "The object is for the bathroom."
+   ]
+  },
+  {
+   "question_id": "5wfUGvXtyEw22kABjGaHxT",
+   "question": "Which ingredient is the most flavorful?",
+   "answer": "Chicken",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "lemon juice",
+    "chicken",
+    "mushrooms",
+    "broccoli",
+    "pepper",
+    "parsley"
+   ],
+   "rationales": [
+    "The plate is not an ingredient. the broccoli and mushrooms are bland compared to the protein.",
+    "It is the seasoned part of the dish.",
+    "Vegetables are blander than fish which has a strong taste. there are a lot of spices on top which will increase the flavor."
+   ]
+  },
+  {
+   "question_id": "5z9Zmf4GRKoCa7igqv4Ef7",
+   "question": "What are these cases for?",
+   "answer": "travel",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "travel",
+    "parking",
+    "travelers clothes",
+    "traveling luggage",
+    "suitcase",
+    "traveling"
+   ],
+   "rationales": [
+    "There are several suitcases.",
+    "The bags are for storing clothing.",
+    "The cases contain clothes since people have packed for a trip."
+   ]
+  },
+  {
+   "question_id": "64yPpMFbTw3CnmTULYZWTp",
+   "question": "In which major city is the woman most likely sitting outdoors?",
+   "answer": "Paris",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "paris",
+    "france"
+   ],
+   "rationales": [
+    "This woman is most likely sitting outdoors in the city of paris in front of the eiffel tower.",
+    "One can tell it's paris since the eiffel tower is in the distance.",
+    "Eiffel tower is in back."
+   ]
+  },
+  {
+   "question_id": "6QuPF6pNBjs3DEXQh4AQt4",
+   "question": "Why do the cattle have their heads down to the ground?",
+   "answer": "eating",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "eating",
+    "to eat",
+    "grazing",
+    "feeding",
+    "eating hay",
+    "food"
+   ],
+   "rationales": [
+    "The cows are awake. there is food, not water, on the ground.",
+    "There are cows visibly extending their mouths and even tongues towards the hay in front of them. hay is something cows frequently eat and it appears to be intentionally placed by the tractor likely for this prupose.",
+    "Animals don't have thumbs for the most part and must put there face in it to eat."
+   ]
+  },
+  {
+   "question_id": "6SYTPwk8BEHMp486oLsFgw",
+   "question": "What state was the licence plate issues?",
+   "answer": "california",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "new york"
+   ],
+   "rationales": [
+    "The name of the state is written on the top of the license plate.",
+    "You can tell by the name on the plate as to where it is from.",
+    "The license plate has the words \"new york\" written on it."
+   ]
+  },
+  {
+   "question_id": "6bXnCzchqyDdBZcBGGNbmm",
+   "question": "What type of city district is this?",
+   "answer": "downtown",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "downtown",
+    "commercial",
+    "shopping",
+    "urban",
+    "hipster commercial"
+   ],
+   "rationales": [
+    "She is in a commercial area.",
+    "A person is on a sidewalk in a city area with businesses all around.",
+    "There are many stores here."
+   ]
+  },
+  {
+   "question_id": "6pLYuYn5suAGgoBgJ4Z6HC",
+   "question": "What is the activity being performed?",
+   "answer": "riding horse",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "riding horse",
+    "roman riding",
+    "balance",
+    "riding",
+    "horseback riding",
+    "horse riding"
+   ],
+   "rationales": [
+    "He is doing tricks for a competition",
+    "They are performing for crowd.",
+    "The activity is a show."
+   ]
+  },
+  {
+   "question_id": "7L2zGA6XFJrPCfLJCwBrww",
+   "question": "What are the zebras doing?",
+   "answer": "eating",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "grazing",
+    "eating"
+   ],
+   "rationales": [
+    "The zebras graze.",
+    "The zebras are grazing on some hay.",
+    "The zebras have their heads lowered to the ground so they can graze on the grass because they're hungry."
+   ]
+  },
+  {
+   "question_id": "7Wj97TEQc4fnsxvvsbnUXH",
+   "question": "Which food on the plate grows in the ground?",
+   "answer": "carrot",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "carrot",
+    "chicken",
+    "carrots"
+   ],
+   "rationales": [
+    "Carrots grow underground and are considered root vegetables.",
+    "The round orange slices featured in this dish are slices of carrot. the edible part of carrots are pulled out of the ground by their tops.",
+    "This is a root vegetable"
+   ]
+  },
+  {
+   "question_id": "7ZA9sk8eRjBsisqK4EgQM2",
+   "question": "What is in the photo above the TV?",
+   "answer": "picture",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "woman",
+    "profile",
+    "picture",
+    "tube",
+    "person",
+    "face"
+   ],
+   "rationales": [
+    "The woman on the portrait seems to be someone who mattered  in this household.",
+    "The photo above the tv is of a woman.",
+    "You can tell by the facial structure and hair what sex it is in the picture."
+   ]
+  },
+  {
+   "question_id": "7dxcZiZowsAK34QswVhXy3",
+   "question": "The temperature outside is likely what range?",
+   "answer": "cool",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "cold",
+    "cool range",
+    "temperate",
+    "chilly",
+    "hot"
+   ],
+   "rationales": [
+    "The man is wearing a jacket, cap, and gloves.",
+    "The temperature is hot.",
+    "Though it is bright outside in this picture the horseback riding man wears a winter cap and jacket so it is likely somewhat cold here."
+   ]
+  },
+  {
+   "question_id": "7jkWRB4pt8ZordP6wDAvbT",
+   "question": "What is the facade that the couple is being interviewed in likely designed to be?",
+   "answer": "Television",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "first meeting",
+    "microwave",
+    "relationship",
+    "television",
+    "talk show",
+    "tv show"
+   ],
+   "rationales": [
+    "The facade has a tv screen on it.",
+    "The dials on the right side and the speaker grill at the bottom indicate that this is modeled after an old-style radio.",
+    "The people are sitting inside of a booth that resembles a large pink tv set."
+   ]
+  },
+  {
+   "question_id": "8MMdCgrej5iBZ7PitRYrt3",
+   "question": "What kind of bag is this?",
+   "answer": "suitcase",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "suitcase",
+    "roll away",
+    "doll bag",
+    "backpack"
+   ],
+   "rationales": [
+    "The bag is large and fits other things",
+    "It is a large bag, and the shape and compartments show that it can be packed efficiently for a trip.",
+    "A large square bag is open and has compartments with zippers and netting."
+   ]
+  },
+  {
+   "question_id": "8PZriuWuwokXCriqVBZwSJ",
+   "question": "What is the train riding on?",
+   "answer": "railroad tracks",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "track",
+    "train",
+    "tracks",
+    "train tracks",
+    "rails"
+   ],
+   "rationales": [
+    "Trains run on tracks.",
+    "It moves along the train tracks.",
+    "The train is on tracks."
+   ]
+  },
+  {
+   "question_id": "8RDETmscMEEsHh6Sbekaa6",
+   "question": "What expression are these children making?",
+   "answer": "smile",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "smile",
+    "joy",
+    "smiling",
+    "happy",
+    "smiles"
+   ],
+   "rationales": [
+    "They're teeth are showing and the corners of their lips move up.",
+    "The kids are smiling.",
+    "The girls are very happy."
+   ]
+  },
+  {
+   "question_id": "8k5Wnk4jb9ZzTN8EHrqNS3",
+   "question": "What is the green box near the red stapler on the desk used to hold?",
+   "answer": "cotton swabs",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "tissues",
+    "tissue"
+   ],
+   "rationales": [
+    "The green box here is a tissue box and we can see tissues coming out the top of it.",
+    "The green box has a white object sticking out of it.  due to the square dimension of the box, it is probably hold tissues.",
+    "You can tell by the shape of the box and what is sticking out of it."
+   ]
+  },
+  {
+   "question_id": "8xMtKKAZ5RHWjwMgCuYjWV",
+   "question": "What kind of pizza is this?",
+   "answer": "margarita",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "margherita",
+    "cheese",
+    "margarita"
+   ],
+   "rationales": [
+    "This is what one of those particular pizzas end up looking like.",
+    "Google search indicates that it's this option.",
+    "There is a lot of cheese."
+   ]
+  },
+  {
+   "question_id": "99Ra8z27K9FLU2u5acKAqp",
+   "question": "What type of transportation is shown?",
+   "answer": "train",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "train",
+    "rail"
+   ],
+   "rationales": [
+    "The type of transport show in the image is a train. trains travel on tracks; and we can see these tracks being travelled along in the picture.",
+    "The transport is by rail.",
+    "There is a train moving down the tracks."
+   ]
+  },
+  {
+   "question_id": "99VEZ5bvSGBLWtkpJiAAXg",
+   "question": "What is the little girl doing?",
+   "answer": "eating",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "eating"
+   ],
+   "rationales": [
+    "The girl is eating out of a cereal bowl.",
+    "The girl is eating.",
+    "She has a spoon in her hand."
+   ]
+  },
+  {
+   "question_id": "9J5n2f4j4R4B9t3c6MPSi3",
+   "question": "Which food on the dish is a meat?",
+   "answer": "chicken",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "chicken",
+    "turkey"
+   ],
+   "rationales": [
+    "A close look at the plate shows that of the options, turkey is the only one that can be right.",
+    "A white meat is on a plate with vegetables.",
+    "This is turkey on the plate."
+   ]
+  },
+  {
+   "question_id": "9PGPr3vxBAb9jyWDiR9ous",
+   "question": "Who is the manufacturer of this laptop?",
+   "answer": "HP",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "hp",
+    "hewlett packard",
+    "hewitt packard"
+   ],
+   "rationales": [
+    "The logo is on the top and has 2 letters",
+    "On the back of this image we see the letters hp inscribed on a blue circle. this is the logo of the hp company.",
+    "The manufacturer name is visible on the machine's top cover."
+   ]
+  },
+  {
+   "question_id": "9m5dBgT3PJrhWRCDg9ee2z",
+   "question": "What type of vehicle is this?",
+   "answer": "bus",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "bus",
+    "passenger"
+   ],
+   "rationales": [
+    "The vehicle is a bus to transport people.",
+    "The other options don't match this scene at all.",
+    "The bus is filled with people."
+   ]
+  },
+  {
+   "question_id": "9v2zVc4N5db5pVtYvrVEeD",
+   "question": "What is placed inside this meter?",
+   "answer": "coins",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "coins",
+    "change",
+    "money"
+   ],
+   "rationales": [
+    "Money feeds meters.",
+    "This device is used to pay for parking. a slot for coins is visible.",
+    "This type of meter has a small slot large enough to insert quarters and smaller denominations of change into them."
+   ]
+  },
+  {
+   "question_id": "9wkHkHDXGGtbJwvLAcXSVs",
+   "question": "What appliance is shown?",
+   "answer": "Toaster",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "toaster",
+    "putting utensil"
+   ],
+   "rationales": [
+    "A toaster is shown.",
+    "There are two holes on top of the appliance. these are used to insert and remove bread.",
+    "There are slots in the top for bread"
+   ]
+  },
+  {
+   "question_id": "A3zGJC9ryU4EkHzywEGdJn",
+   "question": "What is in the glass?",
+   "answer": "wine",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "drink",
+    "wine",
+    "spoon",
+    "bruschetta",
+    "red wine"
+   ],
+   "rationales": [
+    "The liquid is the glass is a deep red color.  the shape and stem of the glass are typical of a wine glass.",
+    "This type of glass is made for holding wine, and the liquid is red.",
+    "Wine is in the glass."
+   ]
+  },
+  {
+   "question_id": "ACMY4KCmBjXQNimvG4dJhA",
+   "question": "How many women are in the picture?",
+   "answer": "4",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "four"
+   ],
+   "rationales": [
+    "There are four women in the photo.",
+    "There are four people standing and smiling for a photo. in front of them is a row of pizzas.",
+    "Two women are standing next to two other women."
+   ]
+  },
+  {
+   "question_id": "AR5jScMLqmYDjzmKHxKzMT",
+   "question": "What occasion are the bears probably sitting at the table enjoying?",
+   "answer": "Christmas",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "christmas",
+    "christmas dinner",
+    "dinner",
+    "holiday dinner"
+   ],
+   "rationales": [
+    "There's a christmas tree behind them so they are celebrating christmas.",
+    "They have a festive decoration and they are sitting at a dining table.",
+    "There's a christmas tree in the back. christmas is a holiday people celebrate."
+   ]
+  },
+  {
+   "question_id": "AhrmUB8LFNXLkpiLGaaAuY",
+   "question": "Why is his arm up in the air?",
+   "answer": "to hit ball",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "returning serve",
+    "serving",
+    "swinging",
+    "hitting ball",
+    "hit ball",
+    "tennis swing"
+   ],
+   "rationales": [
+    "The man is trying to reach the ball.",
+    "The player is reaching in order to serve the tennis ball.",
+    "He is waiting to hit the ball when it comes to him."
+   ]
+  },
+  {
+   "question_id": "AiqztJZtJ4dNX7XYnu8rYU",
+   "question": "What animal is next to the baby animal?",
+   "answer": "cow",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "cow",
+    "adult"
+   ],
+   "rationales": [
+    "The animal is a large cattle.",
+    "A large cow is standing next to a smaller one.",
+    "A large animal used for dairy milk is standing next to a baby."
+   ]
+  },
+  {
+   "question_id": "BUpdAEWaMUZK8AKRzy3vBQ",
+   "question": "Who might be helping the girl?",
+   "answer": "mother",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "parents",
+    "parent",
+    "her parent",
+    "mother",
+    "mom"
+   ],
+   "rationales": [
+    "She is using the oven.",
+    "The little girl is using an oven. parents typically supervise a child of this age, especially engaging in this type of activity.",
+    "The parents help."
+   ]
+  },
+  {
+   "question_id": "C5KFJtK2qiQ2gMC5WNsdnB",
+   "question": "What is the relationship of the people at the back to the man wearing an orange hat?",
+   "answer": "passenger",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "customers",
+    "passengers",
+    "customer",
+    "family",
+    "passangers",
+    "tourists/guide"
+   ],
+   "rationales": [
+    "That is how the man makes his living - by giving rides.",
+    "The people are customers paying the man in the hat.",
+    "The relationship is a customer."
+   ]
+  },
+  {
+   "question_id": "C9AXp35Pm8iw5MANqbWmyR",
+   "question": "What are these women controlling?",
+   "answer": "wii",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "game",
+    "wii",
+    "wii remote"
+   ],
+   "rationales": [
+    "The women play a game.",
+    "This is a nintendo wii remote and this is a gaming council.",
+    "They have wii remotes in their hands."
+   ]
+  },
+  {
+   "question_id": "CKj2DmTDPa2HMKUvU9d6RN",
+   "question": "What kind of bike is this?",
+   "answer": "vespa",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "scooter",
+    "e-bike",
+    "motor bike",
+    "moped",
+    "vespa"
+   ],
+   "rationales": [
+    "The bike is powered by a little engine.",
+    "It is a brand of moped",
+    "The bike is a vespa."
+   ]
+  },
+  {
+   "question_id": "CKoy38QkqTRSirL8yyeimY",
+   "question": "What type of dinnerware do the people seem to be using?",
+   "answer": "plate",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "plastic",
+    "disposable",
+    "plates",
+    "family wear",
+    "plastic picnicware",
+    "ceramic"
+   ],
+   "rationales": [
+    "They are eating with plastic",
+    "The people are using plastic plates.",
+    "The plates and forks are all plastic which means they are disposible and the other materials would not be."
+   ]
+  },
+  {
+   "question_id": "CTzwocs3uGc2GjPFZG425g",
+   "question": "Which territory is this area located?",
+   "answer": "england",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "france",
+    "britain",
+    "england",
+    "london",
+    "united states",
+    "united kingdom"
+   ],
+   "rationales": [
+    "There is a double decker bus",
+    "Double decker buses are common in england.",
+    "The bus is traveling on the left side of the road, the street signs are in english, and there is a red, white and blue flag visible which all lead towards this area being in england."
+   ]
+  },
+  {
+   "question_id": "Cr6fmmEARGDPSbQvpNN4xY",
+   "question": "How many guests have checked into this room?",
+   "answer": "1",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "zero",
+    "one",
+    "unknown",
+    "none",
+    "indeterminate"
+   ],
+   "rationales": [
+    "The room looks like it is clean and no one has messed up the covers.",
+    "There is an empty room with no one present currently.",
+    "The room looks untouched and recently cleaned."
+   ]
+  },
+  {
+   "question_id": "CrTrpTaqCFB2AYxne8FFyw",
+   "question": "What type of vehicles are sitting outside of the store?",
+   "answer": "motorcycles",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "motorcycle",
+    "motorcycles"
+   ],
+   "rationales": [
+    "There are motorcycles lined up together near seated people outdoors.",
+    "The type is the motorcycles.",
+    "You can see the motorcycles sitting outside the bar."
+   ]
+  },
+  {
+   "question_id": "CuqeFPuPUXRxjKnTomsz4x",
+   "question": "What is the number mentioned in the t shirt of the girl who is playing?",
+   "answer": "21",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "21",
+    "twenty one"
+   ],
+   "rationales": [
+    "The girl has a 2 and a 1 on her shirt.",
+    "That child has long hair",
+    "The number 1 is fully visible as the second digit. only part of the first digit is visible, but it seems to be a 2."
+   ]
+  },
+  {
+   "question_id": "DNGTUpUeLqmbKUNNns3kZs",
+   "question": "Which height he jumps?",
+   "answer": "high",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "six feet",
+    "high",
+    "4 feet",
+    "not question",
+    "above fence",
+    "ramp"
+   ],
+   "rationales": [
+    "The man is jumping 16 inches.",
+    "The height is 16 inches.",
+    "Because the skating deck helped him achieving his jumping stunt."
+   ]
+  },
+  {
+   "question_id": "DTAw9Vu8CLWbzUAg6m8okx",
+   "question": "What is on the laps of each of the women?",
+   "answer": "purse",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "handbag",
+    "bag",
+    "purses",
+    "bags",
+    "purse"
+   ],
+   "rationales": [
+    "Each woman has a purse.",
+    "The items in their laps are containers made of flexible materials and openings at their top, along with handles to carry them.",
+    "The laps have a bag."
+   ]
+  },
+  {
+   "question_id": "DcKwtSxfdjTch9RvAuEpNH",
+   "question": "What type of buildings are located here?",
+   "answer": "houses",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "residential",
+    "homes",
+    "houses",
+    "private homes",
+    "apartments"
+   ],
+   "rationales": [
+    "It looks like homes for people to live in and rest.",
+    "There are houses along the road",
+    "This man can be seen walking on a sidewalk in front of homes where others live."
+   ]
+  },
+  {
+   "question_id": "E6vGrKzLTzqabYt55Ksc2N",
+   "question": "Is the man going to the mountain in the background?",
+   "answer": "yes",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "no",
+    "absolutely no"
+   ],
+   "rationales": [
+    "He is in the back of the truck and it is heading away from the mountain.",
+    "The man is not.",
+    "A man is sitting in the back of a truck. he only has a pair of blue jeans and regular shoes and not spikey."
+   ]
+  },
+  {
+   "question_id": "E7LafAUEeJM9NiMjemXwRW",
+   "question": "What type of animals are on the grass?",
+   "answer": "zebras",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "zebras",
+    "zebra",
+    "zebra's"
+   ],
+   "rationales": [
+    "There are three zebras on the grass.",
+    "You can tell by the color and stripes what these animals are.",
+    "They have black and white stripes"
+   ]
+  },
+  {
+   "question_id": "EAYTJseBUauGLMkCTZdhtU",
+   "question": "Whos is sitting in the chair?",
+   "answer": "man and girl",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "man",
+    "girl man",
+    "dad",
+    "two people",
+    "people",
+    "father daughter"
+   ],
+   "rationales": [
+    "The man is sitting in the chair and the girl sits on his lap.",
+    "The girl and man sit.",
+    "A man in a tie is sitting in the chair.  the other person with him is young and has a dress on."
+   ]
+  },
+  {
+   "question_id": "EZr7FwVY2S7FggmHpHxCZK",
+   "question": "What material is the squared off building in the background made from?",
+   "answer": "concrete",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "rock",
+    "clay",
+    "concrete",
+    "stone",
+    "brick",
+    "iron"
+   ],
+   "rationales": [
+    "It is used widely in many countries.",
+    "The building is made from some sort of rock.",
+    "The material is clay."
+   ]
+  },
+  {
+   "question_id": "EbanZVDGxGTAinaVAiseKZ",
+   "question": "How many people can sit at the table?",
+   "answer": "5",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "four",
+    "chairs",
+    "six",
+    "five"
+   ],
+   "rationales": [
+    "There are four chairs at the table.",
+    "There are are four chairs on both sides of table and one on each end.",
+    "Is the closest answer but there is another chair at the end so one more could sit there too."
+   ]
+  },
+  {
+   "question_id": "EpwwuobLzGLWhnbXAjbw2x",
+   "question": "What does the electric street sign say?",
+   "answer": "Gold Plumbing",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "don't walk",
+    "plaza shuttle",
+    "stop",
+    "safty",
+    "dont walk"
+   ],
+   "rationales": [
+    "The words on the sign are lit up.",
+    "The sign says don't walk.",
+    "Not to walk when it is lit up."
+   ]
+  },
+  {
+   "question_id": "F92aSsSv7ZAtXnGBVREhqq",
+   "question": "They are likely sitting down to enjoy what meal of the day?",
+   "answer": "breakfast",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "breakfast"
+   ],
+   "rationales": [
+    "This meal is characterized by the types of food such as eggs which are traditionally consumed in the morning.",
+    "These food items such as fruit, bagel and omelette are typical of something you'd eat in the morning.",
+    "Amongst the foods seen on plates in this scene we see an omelet, bagels, waffles and cups of coffee. all of these food items are associated with the morning meal."
+   ]
+  },
+  {
+   "question_id": "FHmsKMqftMV2bbhT63TCep",
+   "question": "What is the cat playing with?",
+   "answer": "pen knife",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "knife",
+    "pocket knife",
+    "pocketknife",
+    "swiss knife"
+   ],
+   "rationales": [
+    "There is a blade sticking out of the iconic swiss item.",
+    "The cat has a knife.",
+    "The cat is playing with a swiss army knife that is open on the table."
+   ]
+  },
+  {
+   "question_id": "FNM9a4zAgBwoRawSUrMxPB",
+   "question": "What is on the umbrella?",
+   "answer": "whale",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "whales",
+    "water protestant",
+    "whale",
+    "hand image",
+    "fish"
+   ],
+   "rationales": [
+    "A drawing of a whale is on each panel of the pink umbrella being held above a little girl.",
+    "The umbrella has a whale.",
+    "The umbrella has a whale on it."
+   ]
+  },
+  {
+   "question_id": "FWokXQxyNdSctoKKriQTqh",
+   "question": "What is the weather like?",
+   "answer": "rainy",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "rainy",
+    "raining",
+    "rain"
+   ],
+   "rationales": [
+    "We can see recent precipitation on the top of the multitude of open umbrellas visible.",
+    "Moisture that drops from the clouds due to overload.",
+    "People are holding up a bunch of umbrellas. there is water coming off the top."
+   ]
+  },
+  {
+   "question_id": "FeTsEoSpyGhqi8ui4i8tTy",
+   "question": "What is the purpose of the two tallest structures?",
+   "answer": "construction",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "construct buildings",
+    "construction",
+    "crains",
+    "building",
+    "build",
+    "for reception"
+   ],
+   "rationales": [
+    "There are two tall structures extending above another building. they are used to capture signal for calling people.",
+    "These are towers that are used for mobile reception.",
+    "They are often use for tv and cellphone reception."
+   ]
+  },
+  {
+   "question_id": "Fv2hy4qfFdd847B3xEcPz3",
+   "question": "What type of terrain is beyond the table and grill?",
+   "answer": "dirt",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "dirt",
+    "grass",
+    "sands",
+    "flat ground",
+    "grassy"
+   ],
+   "rationales": [
+    "The area beyond the dirt area is a grass area.",
+    "It is green and maintained",
+    "In the far end there is a grassy area."
+   ]
+  },
+  {
+   "question_id": "GGnMBYFpNz6ukDqFQ7Cdgx",
+   "question": "What are they waiting to do when they stand next to the street?",
+   "answer": "cross street",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "cross",
+    "light change",
+    "ride bus"
+   ],
+   "rationales": [
+    "They are waiting to cross the street.",
+    "The people are trying to cross the street.",
+    "The people are at a crosswalk based on the lined on the pavement. when reaching a crosswalk people will stand safely on the sidewalk until permitted to cross as signaled by a walk icon on the light which now shows a red hand."
+   ]
+  },
+  {
+   "question_id": "GYERWEzeTRB8TqAZXguSbG",
+   "question": "What is the gray thing on the nearest motorcycle for?",
+   "answer": "cover",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "cover",
+    "protect bike",
+    "protection",
+    "protect motorcycle",
+    "rain protection",
+    "protective tarp"
+   ],
+   "rationales": [
+    "They have it covered so it doesn't get wet.",
+    "It is used to cover the motorbike from rain.",
+    "It keeps weather off of it"
+   ]
+  },
+  {
+   "question_id": "Gr2guph9meudkWEM6Gbpwr",
+   "question": "What energy is used to cook the turkey?",
+   "answer": "electricity",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "joyous",
+    "electric",
+    "electricity",
+    "gas",
+    "oven",
+    "heat"
+   ],
+   "rationales": [
+    "The oven is a gas oven.",
+    "The oven is powered by gas.",
+    "Gas is used."
+   ]
+  },
+  {
+   "question_id": "H7QnkgRHJJYQpjyyG3Szfc",
+   "question": "What is used to pick up the suitcases?",
+   "answer": "handle",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "handle",
+    "handles"
+   ],
+   "rationales": [
+    "The suitcases are all equipped with a strong metal handle.",
+    "The handle is used.",
+    "Traditionally these types of bags have handles so they can be carried."
+   ]
+  },
+  {
+   "question_id": "HJh9bXtpMyBNmsmBa6CH4p",
+   "question": "How many rooms/areas in the house are immediately visible in the photo?",
+   "answer": "3",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "two",
+    "four",
+    "three",
+    "one"
+   ],
+   "rationales": [
+    "There are two rooms.",
+    "C",
+    "The living room and kitchen are immediately visible."
+   ]
+  },
+  {
+   "question_id": "HM4obw9fQyb3aPheZjgtqq",
+   "question": "Why is the person's vest yellow?",
+   "answer": "fireman",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "visibility safety",
+    "visibility",
+    "safety visibility"
+   ],
+   "rationales": [
+    "The person standing in the road is wearing a bright yellow vest so cars can easily see him.",
+    "It is easy to see the color yellow.",
+    "The person wants to be visible."
+   ]
+  },
+  {
+   "question_id": "HVw3M6ynyrfGd6UNNGLDyS",
+   "question": "What area of the baseball field are the players almost colliding over as one blocks the other most likely?",
+   "answer": "base",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "3rd base",
+    "base",
+    "home plate"
+   ],
+   "rationales": [
+    "This is actually third base which is near home plate",
+    "Baseball players try hard to get to home plate or to block the other team from getting there.",
+    "They are trying to run to home plate."
+   ]
+  },
+  {
+   "question_id": "Hnor848pYZFWrEeYWfuYCF",
+   "question": "What is the white appliance on the counter used to make?",
+   "answer": "coffee",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "coffee",
+    "food",
+    "using"
+   ],
+   "rationales": [
+    "The white machine makes black coffee.",
+    "The appliance is a coffee machine.",
+    "There is only one appliance on top of the counter and it has a coffee pot attached."
+   ]
+  },
+  {
+   "question_id": "HtgRjokZ8ucLVCRGLEKkFS",
+   "question": "The child holding the controller has what design on their shirt?",
+   "answer": "nike",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "heart"
+   ],
+   "rationales": [
+    "A girl in a pink hoodie is holding a wii remote. she has a shape that is associated with valentines.",
+    "The girl holding the controller is in the front with a pink shirt. on that pink shirt there is answer a visible.",
+    "The child's shirt has a heart on it."
+   ]
+  },
+  {
+   "question_id": "HvqzXR3y2V29n55RRarBQA",
+   "question": "Why is the black net set up behind the batter?",
+   "answer": "to protect spectators",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "protection",
+    "to protect",
+    "safety",
+    "protect spectators",
+    "protect fans",
+    "flying balls"
+   ],
+   "rationales": [
+    "This helps catch any foul balls",
+    "The black net is up for safety.",
+    "Sometimes baseballs fly backwards into the audience when they are hit with the bat."
+   ]
+  },
+  {
+   "question_id": "J6Kwvdi26GWFDHeADMXSWW",
+   "question": "How are these balloons floating?",
+   "answer": "helium",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "helium",
+    "on air"
+   ],
+   "rationales": [
+    "The gas is lighter than air, meaning it causes items filled with it to float.",
+    "Helium makes balloons float when they're filled with it.",
+    "Helium is a gas that is lighter than air, so if it fills an item, like a balloon, it causes it to float."
+   ]
+  },
+  {
+   "question_id": "JG6LR7gqcbcDvbrwYiZbnj",
+   "question": "Why is the man in the green shirt holding his arms out?",
+   "answer": "balance",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "maintain balance",
+    "balance",
+    "playing",
+    "to balance"
+   ],
+   "rationales": [
+    "His arms will help him to balance himself.",
+    "The man in the green shirt is surfing. while surfing you have to make sure you don't fall.",
+    "This man is trying to keep himself upright on the surfboard he's riding."
+   ]
+  },
+  {
+   "question_id": "JJPVhVK8EvZNsddZMETh6v",
+   "question": "When does meter enforcement have their days off?",
+   "answer": "Sundays",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "weekends",
+    "saturday sunday",
+    "weekend"
+   ],
+   "rationales": [
+    "According to the label this meter is enforced 9am to 6pm m-f. we can conclude it is not enforced on saturday and sunday.",
+    "The meter is enforced on weekdays.",
+    "The enforcement is down on the weekend."
+   ]
+  },
+  {
+   "question_id": "JR77UNbyj38mU3p6Ku6Qn8",
+   "question": "What type cruciferous vegetable is topping this pie?",
+   "answer": "broccoli",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "broccoli",
+    "brocolli",
+    "lettuce",
+    "spinach"
+   ],
+   "rationales": [
+    "The cruciferous family includes vegetable with green leaves.  this includes broccoli which can be seen as a topping on the pie.",
+    "The broccoli is a topping.",
+    "There is some broccoli conifers on top of the pizza."
+   ]
+  },
+  {
+   "question_id": "JwnCRZQToshydgQiSHz6Qk",
+   "question": "What is the purpose of the masonry on the wall to the left of the kitchen?",
+   "answer": "fireplace",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "fireplace",
+    "protect fire",
+    "wash dishes",
+    "tv stand",
+    "display case"
+   ],
+   "rationales": [
+    "The purpose is a fireplace.",
+    "The top of the inside of the fireplace is clearly visible. the stone design was likely used to distinguish the fireplace from the rest of the room.",
+    "Traditionally fire places and fire pits need hearty material so they won't burn."
+   ]
+  },
+  {
+   "question_id": "KDt9uiMSWXdfqZg8DkfQYP",
+   "question": "What is this room for?",
+   "answer": "sleeping",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "sleeping",
+    "sleep"
+   ],
+   "rationales": [
+    "The mattress and bed frame present in this image with dressers tell us this is a bedroom mostly used for resting.",
+    "This is a bedroom that has a bed and some furniture. people tend to lay on this bed and drift off for awhile until next day.",
+    "This is a bedroom since a bed is there."
+   ]
+  },
+  {
+   "question_id": "KHUiovaE2ZgBkwbt2ADbaN",
+   "question": "Which of these emotions is the person least likely to be experiencing?",
+   "answer": "Excited",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "sadness",
+    "calmness",
+    "happy",
+    "joy",
+    "happiness",
+    "anger"
+   ],
+   "rationales": [
+    "There would be no reason to think that her mood is not a positive one.we can even see a faint smile.",
+    "The emotion is sadness.",
+    "Skiing is fun. she is skiing."
+   ]
+  },
+  {
+   "question_id": "KqEeneEUHVnoFj9nRYLS3u",
+   "question": "What color is in the center of the red flower?",
+   "answer": "yellow",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "yellow",
+    "cake",
+    "white",
+    "flower"
+   ],
+   "rationales": [
+    "The color is white.",
+    "The center of the flower matches the frosting on top of the cake.",
+    "The center is white."
+   ]
+  },
+  {
+   "question_id": "LHeFhpiVsUvAjwDNWJQPfZ",
+   "question": "What color is the background of the large clock?",
+   "answer": "White",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "orange",
+    "white",
+    "orange blue"
+   ],
+   "rationales": [
+    "Unless you are colorblind you can tell the background color.",
+    "The back of the clock is white.",
+    "The clock has a white face that is lit from behind."
+   ]
+  },
+  {
+   "question_id": "LduCAeBABsAgiTkxMrytDf",
+   "question": "What is the light green liquid in the glass and metal dispenser on the table far in the back left?",
+   "answer": "water",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "unknown",
+    "olive oil",
+    "relish",
+    "oil",
+    "alcohol"
+   ],
+   "rationales": [
+    "The light green liquid is used for drizzling on salads.",
+    "The liquid is olive oil.",
+    "Olive oil is in the dispenser."
+   ]
+  },
+  {
+   "question_id": "LjrjS6vsP3xXwot5D9eFiD",
+   "question": "What are the people doing in the water?",
+   "answer": "boating",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "rowing",
+    "canoeing",
+    "boating",
+    "kayaking",
+    "paddling",
+    "boat riding"
+   ],
+   "rationales": [
+    "Often people take kayaks down rivers.",
+    "The five people visible in the river in this image are all rowing in a long boat.",
+    "They are in a canoe going down the river"
+   ]
+  },
+  {
+   "question_id": "LqCNzoPHep3XKouS3eUAk6",
+   "question": "What is the person being viewed through?",
+   "answer": "window",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "window",
+    "train window"
+   ],
+   "rationales": [
+    "The transparent nature of the windows on this train lets us see the passengers inside.",
+    "The big opening is filled with glass which makes it a window.",
+    "The people are on a train and there is a clear glass that these women can be seen, these are called windows."
+   ]
+  },
+  {
+   "question_id": "LqQSkRfPRjbWBwDicmVt5h",
+   "question": "What is the first word on the trailer?",
+   "answer": "CLEAN",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "clean"
+   ],
+   "rationales": [
+    "The word is clean.",
+    "The first word before \"and dry\" is the word \"clean.\".",
+    "The trailer is used for cleaning."
+   ]
+  },
+  {
+   "question_id": "M24oDREQRXZxbPHeX82hTm",
+   "question": "Why would someone sit here?",
+   "answer": "eat",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "to eat",
+    "eating",
+    "eat",
+    "dinner"
+   ],
+   "rationales": [
+    "There is a table with food and drinks. this would not be a suitable place to work, drive, or paint.",
+    "There is a plate with food.",
+    "The table has food and drinks on it."
+   ]
+  },
+  {
+   "question_id": "M3yABkFk8uMPsVkecGAnZR",
+   "question": "What can be done with this utensil?",
+   "answer": "Stir food",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "cook soup",
+    "stirring",
+    "stir"
+   ],
+   "rationales": [
+    "The utensil stirs.",
+    "You can use it to mix the food that is being cooked.",
+    "This is a wooden spoon used for cooking to mix food up."
+   ]
+  },
+  {
+   "question_id": "N7m8txH8f6upMQuW8Ek8p8",
+   "question": "What type of outer clothing does the person who last sat here like to wear?",
+   "answer": "hat",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "shorts",
+    "hats",
+    "hat",
+    "light jacket"
+   ],
+   "rationales": [
+    "There is a hat visible on the bench. hats would not be present in this way unless a person had brought it and likely left it behind.",
+    "The only piece of clothing in he image is a hat.",
+    "The wear is hats."
+   ]
+  },
+  {
+   "question_id": "NQQEM9mH6viipfoP9kMC6v",
+   "question": "What are the people on the sidewalk likely to be?",
+   "answer": "pedestrians",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "married",
+    "tourists"
+   ],
+   "rationales": [
+    "These people are sight seeing. the horse moves slow so the people can look at their surroundings.",
+    "The people riding in a horse carriage are sight seeing.",
+    "They are there to visit and see the city."
+   ]
+  },
+  {
+   "question_id": "NaxFfMbXiDnFeK2TDQpBpL",
+   "question": "What institution often performs the function represented by the word on the main level of the ship nearest the camera?",
+   "answer": "research",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "colleges",
+    "scientists universities",
+    "coastguard",
+    "educational",
+    "university",
+    "coast guard"
+   ],
+   "rationales": [
+    "Usually universities do research.",
+    "The institution is educational.",
+    "The word is research. this function is often performed by universities."
+   ]
+  },
+  {
+   "question_id": "NkV76CMuvfSYK7MyjLeTKV",
+   "question": "What are the riders about to do now?",
+   "answer": "land",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "straighten out",
+    "tricks",
+    "flip over",
+    "skate",
+    "fall down",
+    "land"
+   ],
+   "rationales": [
+    "If they lean over too far, that's what they'll do.",
+    "The riders on the four wheelers are turning fast and about to flip over.",
+    "The wheels are on the side."
+   ]
+  },
+  {
+   "question_id": "NtLrgnLvk747vSc3scsUHn",
+   "question": "What is the person riding the horse dressed as?",
+   "answer": "Knight",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "knight"
+   ],
+   "rationales": [
+    "The person is a knight.",
+    "That's what a man is dressed as for a jousting duel.",
+    "The horse riding man is dressed in a metal suit of armor with a javelin held out. this man is playing a medieval warrior in this scene."
+   ]
+  },
+  {
+   "question_id": "NxB3LACrQbQmimYNePAYyK",
+   "question": "Why would one sit here?",
+   "answer": "relax",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "relax",
+    "shade",
+    "to relax",
+    "enjoy view",
+    "use shade",
+    "relaxing"
+   ],
+   "rationales": [
+    "It's a beach where you spend time doing nothing",
+    "The lounge chairs provide a calming vibe.",
+    "It's peaceful to sit near the water."
+   ]
+  },
+  {
+   "question_id": "P4cavrtzjFu5Ur3DCjn6YK",
+   "question": "What does the large wheel on the left do?",
+   "answer": "rotate",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "spin",
+    "turn around",
+    "sightseeing rides",
+    "spin people",
+    "cycles",
+    "spins"
+   ],
+   "rationales": [
+    "The large wheel allows people to see the city from a higher view.",
+    "The wheel is for sightseeing.",
+    "The large wheel is called a ferris wheel. it goes up real high in the air at a slow pace."
+   ]
+  },
+  {
+   "question_id": "PR3YdLbDHdwHNJENygZqBa",
+   "question": "What kind of day is it outside?",
+   "answer": "sunny",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "sunny",
+    "afternoon",
+    "warm",
+    "dry",
+    "sunny day"
+   ],
+   "rationales": [
+    "The ground looks wet and it seems overcast, so it could be assumed to be a rainy day today.",
+    "It's a nice day out and the car has it's roof off.",
+    "A dog is sitting on the back of a car. the car has the convertible top down so weather is nice."
+   ]
+  },
+  {
+   "question_id": "Q7cdndwDheQypkx5d6WvbN",
+   "question": "Which person is telling us their occupation?",
+   "answer": "man",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "clown",
+    "directions"
+   ],
+   "rationales": [
+    "He is dressed up to entertain people",
+    "The colorful clothes and face paint on this man tell us he's a clown.",
+    "He is dressed in loud clothing and has face makeup that a clown would wear. none of the other other people pictured have any noticeable features indicating their profession."
+   ]
+  },
+  {
+   "question_id": "QBfzUChLwDv8fW2akWWDxP",
+   "question": "What is on top of the car?",
+   "answer": "snowboard",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "snowboard",
+    "skateboard",
+    "skating board",
+    "luggage",
+    "board",
+    "cargo carrier"
+   ],
+   "rationales": [
+    "The top has a board.",
+    "The top has a board.",
+    "The snowboard is used for skiing in cold areas."
+   ]
+  },
+  {
+   "question_id": "QJvRFzyGr6FEDrTqLohf7D",
+   "question": "What are the goldish/brown devices called?",
+   "answer": "bollard",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "fire hydrants",
+    "pipes",
+    "standpipe",
+    "hydrants",
+    "hydrant",
+    "dry barrel"
+   ],
+   "rationales": [
+    "Firefighters use these when putting out fires.",
+    "These items do not have coin slots or lights, and they are not really blocking anything. they could be used by first responders to put out a burning building.",
+    "There are dials on the top."
+   ]
+  },
+  {
+   "question_id": "RFLRY32jbKYv8NBsmVtX7x",
+   "question": "What is the most likely reason for reflection on the runway?",
+   "answer": "light",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "heat",
+    "water",
+    "hot surface",
+    "find it",
+    "aeroplane flying",
+    "glare"
+   ],
+   "rationales": [
+    "The runway is covered in moisture as a medium for reflection.",
+    "The reason is the water.",
+    "The ground is wet."
+   ]
+  },
+  {
+   "question_id": "RrQ48CMWPTgqsvg2K4P7eR",
+   "question": "When actively playing what physical position will this player be in?",
+   "answer": "Catcher",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "crouch",
+    "crouched",
+    "catcher",
+    "pitcher",
+    "squat"
+   ],
+   "rationales": [
+    "The person will crouch.",
+    "The player is the catcher and has to sit low to the ground.",
+    "The player is the catcher. catchers do not stand upright, lie down, or stand upside down when playing."
+   ]
+  },
+  {
+   "question_id": "RsfWYWW4vEUkb5XCQHUKTX",
+   "question": "What are the girls sitting on?",
+   "answer": "boat",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "three",
+    "dock",
+    "deck"
+   ],
+   "rationales": [
+    "The girls are sitting on the fixed structure that is above the water.",
+    "The girl is sitting on the dock.",
+    "The girls are docked."
+   ]
+  },
+  {
+   "question_id": "SGt3LAcTjvTtjzjBAtJsCd",
+   "question": "Which of these animals heads is closest to the ground?",
+   "answer": "youngest",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "far right",
+    "front one",
+    "front two",
+    "bottom-right",
+    "front right",
+    "right"
+   ],
+   "rationales": [
+    "This animal has its head the lowest to the grass",
+    "The one on the bottom right.",
+    "You can't see its nose in the grass"
+   ]
+  },
+  {
+   "question_id": "SdAdWFmnnNenYAp5iLkkSM",
+   "question": "The animals are walking towards the same object to do what?",
+   "answer": "eat",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "drink",
+    "drink water",
+    "to drink"
+   ],
+   "rationales": [
+    "The cows are moving towards water which is what a cow needs to drink for sustenance. they do not sleep in this position, there is no obvious mating, and they would not be in this position to actively eat.",
+    "The cows are by a lake.",
+    "The other options don't fit with the scene. if it were b, they could do it anywhere in the green without going near the shoreline."
+   ]
+  },
+  {
+   "question_id": "Swg6UuWx3sV6rx6mLKYwZz",
+   "question": "What is the blue and white item?",
+   "answer": "Cooler",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "beverage dispenser",
+    "water jug",
+    "tank",
+    "insulated-beverage container",
+    "cooler",
+    "beverage cooler"
+   ],
+   "rationales": [
+    "There are drinks on the table. coolers keep the drinks cold",
+    "The item is big and it is used to store liquids.",
+    "This blue and white cylindrical container is for keeping the beverages prepared elsewhere on the table cold."
+   ]
+  },
+  {
+   "question_id": "TAKCfAy3yDzuEtuq994hdn",
+   "question": "Who is the man in white?",
+   "answer": "groom",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "groom",
+    "husband"
+   ],
+   "rationales": [
+    "The man just got married since he's in a suit.",
+    "The man is at a wedding. he is wearing a boutonniere.",
+    "The party looks like a wedding reception, so i'm assuming he is the husband."
+   ]
+  },
+  {
+   "question_id": "TCXSs2iG5qmduZYmRir2cK",
+   "question": "What type of water are the geese floating in?",
+   "answer": "pond",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "pond",
+    "lake",
+    "river",
+    "fresh",
+    "fresh water"
+   ],
+   "rationales": [
+    "The water is fresh.",
+    "The geese are shown floating in a river current.",
+    "The geese are in a pond."
+   ]
+  },
+  {
+   "question_id": "US64WDYHmJ3UBhFuwDmcWM",
+   "question": "What profession is the man on the motorcycle?",
+   "answer": "Police",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "police",
+    "police officer",
+    "law enforcement"
+   ],
+   "rationales": [
+    "The man is wearing a uniform and a badge indicating his profession.",
+    "The word \"police\" shows up on the back of the motorcycle.",
+    "He is in uniform."
+   ]
+  },
+  {
+   "question_id": "UUjWA8SQGxcai53mEXndiA",
+   "question": "What is causing white bubbles on the water toward the shore?",
+   "answer": "waves",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "churning water",
+    "organic matter",
+    "sea foam",
+    "waves",
+    "foam",
+    "algae decay"
+   ],
+   "rationales": [
+    "The white color to the edge of the water in this image is a feature of ocean waves hitting the beach.",
+    "The water causes them.",
+    "The water splashing and running up on the sand."
+   ]
+  },
+  {
+   "question_id": "UYMVq2rDCFNVv8gsP6dhdH",
+   "question": "How many transportation have on headlights?",
+   "answer": "2",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "two",
+    "one"
+   ],
+   "rationales": [
+    "Several buses are on roadways near a city.",
+    "Two vehicles have headlights.",
+    "The bus and the train both have headlights on."
+   ]
+  },
+  {
+   "question_id": "VDb8JjxzQRA5pssoPHup4M",
+   "question": "What is the top word on the book that the woman is holding?",
+   "answer": "Fun",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "fun",
+    "can't see"
+   ],
+   "rationales": [
+    "The title is simply titled 'fun'. it is probably a happy book.",
+    "The top word is fun.",
+    "It literally says that word."
+   ]
+  },
+  {
+   "question_id": "VF8AXcb7aXEHcTu4ZWtQf6",
+   "question": "Where is the pie most likely shown?",
+   "answer": "pizzeria",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "restaurant",
+    "pizzeria",
+    "front entrance",
+    "supreme",
+    "pizza restaurant"
+   ],
+   "rationales": [
+    "The sign behind the pizza welcomes people to adelina's pizzeria. the pizza is on a table in this business.",
+    "There is a sign on the table advertising adelina's pizzeria so the pie is most likely shown at her establishment.",
+    "The pizza pie is sitting on a restaurant table with a sign that says the name of the restaurant, adelina's pizzeria."
+   ]
+  },
+  {
+   "question_id": "VJLpcbF24BNNeHBGBKQp8K",
+   "question": "Why is the woman wearing goggles?",
+   "answer": "to protect her eyes",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "protect eyes",
+    "protection",
+    "eye protection",
+    "sun",
+    "wind"
+   ],
+   "rationales": [
+    "The woman is wearing goggles for protections.",
+    "The snow goggles this woman wears protects her eyes from the sun and other bits of debris she might encounter skiing downhill.",
+    "There is a lot of sun glare and snow flying up when skiing."
+   ]
+  },
+  {
+   "question_id": "VZPbBERyU2LCkuew7SrWaw",
+   "question": "How long does the average giraffe live?",
+   "answer": "20 years",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "twenty years",
+    "thirty years",
+    "25 years",
+    "30 years",
+    "decades",
+    "twentyfive years"
+   ],
+   "rationales": [
+    "Giraffes can live a long time.",
+    "20-30 years is the lifespan.",
+    "I looked up this answer on the internet since there is no way to tell the answer from the picture."
+   ]
+  },
+  {
+   "question_id": "Va5KLsXWHujm6DtfGdHssS",
+   "question": "What time period of the day is it?",
+   "answer": "afternoon",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "afternoon",
+    "two",
+    "daytime"
+   ],
+   "rationales": [
+    "The clock says it is 2 something.  the fact that there is daylight would indicate that it would have to 2 something in the afternoon versus 2 early morning.",
+    "It appears to be a based on the light and sky and the positioning of the hands on the clock.",
+    "The time is the afternoon."
+   ]
+  },
+  {
+   "question_id": "VfFoJ6PWrs7H65Tw6eP9PS",
+   "question": "What type of instrument is found next to the attachable keyboard?",
+   "answer": "mouse",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "computer mouse",
+    "mouse"
+   ],
+   "rationales": [
+    "A tool used to control your computer.",
+    "A mouse is near the keyboard.",
+    "The small handheld item used to control the cursor is called a mouse."
+   ]
+  },
+  {
+   "question_id": "W7NENqwhQdUFDHrkxS2Ch6",
+   "question": "What is the reflective surface behind the woman holding the umbrella?",
+   "answer": "window",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "protective",
+    "glass",
+    "window"
+   ],
+   "rationales": [
+    "It is the front of a store window, and windows are made from glass.",
+    "The surface is glass.",
+    "The woman is standing in front of a store. the front of stores typically have windows."
+   ]
+  },
+  {
+   "question_id": "W9gwHYkWiZQ9fTUbF6rJUt",
+   "question": "This street is located in what country?",
+   "answer": "usa",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "africa",
+    "usa",
+    "australia",
+    "united states",
+    "america",
+    "texas"
+   ],
+   "rationales": [
+    "In australia most buses have written words.",
+    "The street is in australia.",
+    "The street is in australia."
+   ]
+  },
+  {
+   "question_id": "WBdKcgLeFsoBqW8cqnzsLe",
+   "question": "What is in the middle of this breakfast food?",
+   "answer": "hole",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "hole",
+    "cream",
+    "jelly",
+    "cream/vanilla",
+    "bread",
+    "nothing"
+   ],
+   "rationales": [
+    "The pastries stacked here are donuts, donuts are known for having a gap in the middle as visible in this picture.",
+    "Donuts have holes.",
+    "These are donuts and donuts often have a hole in the middle of them."
+   ]
+  },
+  {
+   "question_id": "WapXzWUgE3zgx5n3fVGUjS",
+   "question": "How did the paper get holes in it?",
+   "answer": "cut",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "hole punch",
+    "was punched",
+    "hole punched",
+    "paper punch"
+   ],
+   "rationales": [
+    "The holes are evenly spaced, meaning a proprietary tool was used.",
+    "The holes were punched.",
+    "The holes are even and uniform, and apoear to be put there by a device specifically intended for that purpose."
+   ]
+  },
+  {
+   "question_id": "WnCzZybnZ7YyuDvJ62YLyt",
+   "question": "Whose trucks are they?",
+   "answer": "airport's",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "airport",
+    "airport's",
+    "airports"
+   ],
+   "rationales": [
+    "They are the only vehicles allowed on the tarmac.",
+    "The trucks are at the airport.",
+    "The trucks are at the airport to help with transporting luggage, etc."
+   ]
+  },
+  {
+   "question_id": "WojdRVndpCBeqpSk3roFjk",
+   "question": "What type of lighting is used in the recessed lights in the kitchen?",
+   "answer": "LED",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "sunlight",
+    "led",
+    "pot lighting",
+    "sun",
+    "blue",
+    "can light"
+   ],
+   "rationales": [
+    "These are common light types",
+    "The lighting uses that to make it look colorful.",
+    "The light fixtures appear to be that of compact fluorescent bulbs given the size and shape of the items."
+   ]
+  },
+  {
+   "question_id": "Wz68Xn6EZYE34pM3RG2zNH",
+   "question": "Which person is most everyone shown here staring at now?",
+   "answer": "batter",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "batter",
+    "pitcher",
+    "longoria"
+   ],
+   "rationales": [
+    "They are waiting for the ball to be thrown so the batter that is standing with the bat can hit it.",
+    "The pitcher is standing on the mound getting ready to throw the ball.",
+    "Most people are waiting for the pitcher to throw the ball."
+   ]
+  },
+  {
+   "question_id": "XC7LFjtKGWBQRW2FZrXJSn",
+   "question": "What kind of beverage is the red sign advertising?",
+   "answer": "Coca Cola",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "drink",
+    "coca cola",
+    "coke",
+    "soda",
+    "coco cola"
+   ],
+   "rationales": [
+    "The brand is for coca-cola.",
+    "The red sign is for the beverage coca-cola.",
+    "The red sign is for soda."
+   ]
+  },
+  {
+   "question_id": "XJXTjtpd7XoK9uTnTUkHSW",
+   "question": "How old is the person that the cake is for?",
+   "answer": "30",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "30",
+    "thirty"
+   ],
+   "rationales": [
+    "The cake says 30th birthday.",
+    "It's on the white banner on the cake topper.",
+    "The number representing their age is on the banner."
+   ]
+  },
+  {
+   "question_id": "XogitwSQqMuD3ABqp25hgF",
+   "question": "What type of parking is available?",
+   "answer": "street",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "parallel",
+    "street"
+   ],
+   "rationales": [
+    "The cars are on the street and are facing the same direction as traffic.",
+    "A view of a city road where cars are parked alongside the curb.",
+    "Parallel parking can be done."
+   ]
+  },
+  {
+   "question_id": "YoMKzbxjcp5XHZrxcqj3Pn",
+   "question": "What object shown seems most unusual?",
+   "answer": "Cane",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "traffic light",
+    "traffic lights",
+    "tilting light",
+    "leaning pole",
+    "light",
+    "pole"
+   ],
+   "rationales": [
+    "The traffic light is bent down.",
+    "It looks like someone ran into the pole.",
+    "The traffic light is on a slight bend with the ground."
+   ]
+  },
+  {
+   "question_id": "Z2wV882FxEjxwqFcbMRM9K",
+   "question": "What common functional element is missing from the boats on the scaffolding?",
+   "answer": "masts",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "sails",
+    "sail",
+    "liferaft"
+   ],
+   "rationales": [
+    "There are no large sheets of fabric like materials attached to the boat.",
+    "The boats on the water do not have sails on any of the masts which is a functional element.",
+    "There is no triangular cloth coming from the boats which is normally what's on them."
+   ]
+  },
+  {
+   "question_id": "ZBUSChQQGFWkXRQZcUxtrM",
+   "question": "What type of television is in the corner of the living room?",
+   "answer": "flat screen",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "box tv",
+    "tube",
+    "old",
+    "portable",
+    "box television",
+    "crt"
+   ],
+   "rationales": [
+    "The tv is too deep to be plasma, led, or oled.",
+    "The tv is a crt.",
+    "There is an old school black box television set."
+   ]
+  },
+  {
+   "question_id": "ZVKndGxjdDtnrmsRUfRPxX",
+   "question": "What type of cow is the brown one?",
+   "answer": "dairy",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "dairy",
+    "beef",
+    "bull",
+    "calf",
+    "brown cow",
+    "bovine"
+   ],
+   "rationales": [
+    "A brown one is a hereford.",
+    "A hereford is a type of cow that is usually brown in color.",
+    "The cow is a hereford."
+   ]
+  },
+  {
+   "question_id": "ZWw8aaWWifdcZdMU7Pmgcg",
+   "question": "The front of the dog is closest to what number on the scale?",
+   "answer": "17",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "sixteen",
+    "seventeen",
+    "16"
+   ],
+   "rationales": [
+    "It's actually a little under 16.5 on the scale.",
+    "The front of the dog is close to seventeen.",
+    "His nose is close to the number in front of him."
+   ]
+  },
+  {
+   "question_id": "ZXpemwU9BnGkBEdj8f6tqD",
+   "question": "How will the people on the mountain get off it?",
+   "answer": "ski down",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "ski down",
+    "skating skier",
+    "skiing",
+    "skiing downhill"
+   ],
+   "rationales": [
+    "The people are wearing skis and will slide down the slope.",
+    "The people ski down.",
+    "The people will ski down it."
+   ]
+  },
+  {
+   "question_id": "ZYdDiWXC3SqAFxW7ANe8Tk",
+   "question": "What does this bird named as?",
+   "answer": "seagull",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "albatross",
+    "swan",
+    "pelican",
+    "duck",
+    "dock",
+    "seagull"
+   ],
+   "rationales": [
+    "The bird is an albatross.",
+    "It looks like a seagull but is much bigger.",
+    "This is an ocean bird."
+   ]
+  },
+  {
+   "question_id": "aX3pLQW2CigHrJVVMETaey",
+   "question": "What are the last two numbers on the man's shirt?",
+   "answer": "30",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "30",
+    "thirty",
+    "3 0",
+    "three zero"
+   ],
+   "rationales": [
+    "The shirt has a time that is half an hour after nine.",
+    "The last two numbers are thirty.",
+    "It has the numbers in white against a black shirt"
+   ]
+  },
+  {
+   "question_id": "acLP6cnPoWn8iZ9aD6F8ZL",
+   "question": "What is the white object the man in the black shirt is holding?",
+   "answer": "plate",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "posing",
+    "plate",
+    "tray"
+   ],
+   "rationales": [
+    "The man in the black shirt is holding a white plate with food on it that he bought.",
+    "The man is holding a white plate with food on it.",
+    "There are food items on the white object. frisbees, towels, or laptops would not be used to hold food."
+   ]
+  },
+  {
+   "question_id": "b57dJ74KfRbDSDzkD8bSWJ",
+   "question": "What country is this in?",
+   "answer": "usa",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "usa",
+    "england",
+    "united kingdom",
+    "united states",
+    "america"
+   ],
+   "rationales": [
+    "Bristol is in england.",
+    "Bristol is mentioned on the tent sign.",
+    "The country is england."
+   ]
+  },
+  {
+   "question_id": "bZont5aBGPxG5hEGcRHk4r",
+   "question": "What country is the plane in the back from?",
+   "answer": "egypt",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "egypt"
+   ],
+   "rationales": [
+    "A quick glance at the plane provides the answer; the word is right there in bold letters.",
+    "The country is egypt.",
+    "The plane is from egypt."
+   ]
+  },
+  {
+   "question_id": "bgFM5EQ66AGQWorBoJzymJ",
+   "question": "How many markers are on the tray behind the man?",
+   "answer": "4",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "three",
+    "two",
+    "3 markers"
+   ],
+   "rationales": [
+    "The markers are identifiable based on their size and shape and are countable.",
+    "There are three markers below the whiteboard.",
+    "The markers are blue, red, and green."
+   ]
+  },
+  {
+   "question_id": "bkDub4yWQqeZVboUxpBCAd",
+   "question": "What room is pictured here for a rest?",
+   "answer": "bathroom",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "restroom",
+    "bathroom"
+   ],
+   "rationales": [
+    "The area is a bathroom since there is a soap dispenser.",
+    "There are sinks in this area. it is not a church, bedroom, or carnival.",
+    "It is a bathroom."
+   ]
+  },
+  {
+   "question_id": "c4kK8bzsKvVyN2KzoAkKpT",
+   "question": "What might the two be feeling while sitting on the bench?",
+   "answer": "love",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "love",
+    "hands",
+    "affection",
+    "romantic",
+    "arousal",
+    "show kind"
+   ],
+   "rationales": [
+    "They are reaching for each other",
+    "They are holding hands.",
+    "They are leaning towards each other.  they are holding hands and the man is touching the woman's face."
+   ]
+  },
+  {
+   "question_id": "cm2fk2B2GKPXCLkpzrSxaH",
+   "question": "What continent is this?",
+   "answer": "Europe",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "europe",
+    "european",
+    "asia",
+    "america",
+    "north america"
+   ],
+   "rationales": [
+    "The cars are very long and have hints of blue that indicate the country.",
+    "There are buses.",
+    "Trains are used in europe more commonly."
+   ]
+  },
+  {
+   "question_id": "dF3yMTwwWYEDqax7b4n9VX",
+   "question": "Is this a real live scene?",
+   "answer": "No",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "no"
+   ],
+   "rationales": [
+    "No, this is a make-believe town scene that includes a man, a building and an antique car, among other things.",
+    "The man is a doll",
+    "The objects are too small to be real. they are scale models."
+   ]
+  },
+  {
+   "question_id": "da6PS4adVsfrcADUNQ8GMx",
+   "question": "How many signs have a diagonal line through them?",
+   "answer": "2",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "two",
+    "one",
+    "three"
+   ],
+   "rationales": [
+    "Both signs have them.",
+    "On the upper right side we see two signs with diagonal lines through them. they signify that buses, motorcycles and trucks should not use this roadway.",
+    "Two signs have diagonals."
+   ]
+  },
+  {
+   "question_id": "dwxReu6Xio6pQQxjps3Xtj",
+   "question": "What is the person using to capture an image?",
+   "answer": "phone",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "phone",
+    "cell phone",
+    "cellphone",
+    "phone camera",
+    "camera"
+   ],
+   "rationales": [
+    "The person is holding an electronic object above her food. this is what is known as a \"food selfie\"; people have phones and do it all the time, and the distance between the device and food as well as style of the device and camera on the back makes it a phone.",
+    "It has a camera on it",
+    "It is a small rectangular devise that has a camera capability."
+   ]
+  },
+  {
+   "question_id": "eBgzKWWRWbkzRJsrfBqGBV",
+   "question": "What is the primary purpose for this train?",
+   "answer": "transportation",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "commuting",
+    "transportation",
+    "transit",
+    "shuttle",
+    "passenger transport",
+    "passengers"
+   ],
+   "rationales": [
+    "The train at the station is a passenger train for public transporation.",
+    "The train brings passengers from various locations to other places.",
+    "You can see a lot of people inside the train going from place to place."
+   ]
+  },
+  {
+   "question_id": "eEb8jhgNYqiJED63DeAKVT",
+   "question": "Who would be the coldest here based on the evidence?",
+   "answer": "man in middle",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "middle",
+    "right man",
+    "right",
+    "right person",
+    "rightmost",
+    "short sleeves"
+   ],
+   "rationales": [
+    "The coldest is the right.",
+    "The man on the right might be the coldest of the three because he is wearing the lightest shirt with short sleeves.",
+    "This person short sleeves on and no jacket to keep him warm."
+   ]
+  },
+  {
+   "question_id": "ec8EjipayMWjJLnwsWsrD3",
+   "question": "What type of boards are the people using?",
+   "answer": "surfboard",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "surf",
+    "surfboards",
+    "surfboard",
+    "skating board",
+    "surf board"
+   ],
+   "rationales": [
+    "The boards are for surfing.",
+    "The people are wearing surfing bathing suits and if in the water.",
+    "In water and waves such as this, it is common to use boards that can handle the surf."
+   ]
+  },
+  {
+   "question_id": "ee4bPHg93VdP6dqmUAGtbg",
+   "question": "What company made the red bus to the right?",
+   "answer": "VOLVO",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "volvo"
+   ],
+   "rationales": [
+    "You can tell by the logo in the front of the bus as who made it.",
+    "There is a \"volvo\" logo under the windshield of the bus.",
+    "The brand of the bus is written on the front of the bus and readable."
+   ]
+  },
+  {
+   "question_id": "eiLeNz2CFKYS7AFZDXrKEM",
+   "question": "The children pictured are likely photographed as part of what same group?",
+   "answer": "class",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "school",
+    "class",
+    "school class",
+    "school age"
+   ],
+   "rationales": [
+    "The kids are in class.",
+    "These people are wearing school uniforms.",
+    "This is a classroom picture so the kids are classmates."
+   ]
+  },
+  {
+   "question_id": "f6veAkmc4fZwqbVmqZxs7z",
+   "question": "In what area of the vehicle is the dog likely riding?",
+   "answer": "passenger",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "back seat",
+    "not clear",
+    "back",
+    "backseat"
+   ],
+   "rationales": [
+    "The dog is in the back window.",
+    "The person taking the photo is sitting in the front seat. the dog is behind the photographer.",
+    "The dog is visible in the rear view mirror. this is beside the front passenger, so the dog must be behind the person."
+   ]
+  },
+  {
+   "question_id": "f8zgqNptbviU5cyJpQKege",
+   "question": "What is the cat laying inside?",
+   "answer": "laptop",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "laptop"
+   ],
+   "rationales": [
+    "The form of the notebook computer can be seen around the cat.",
+    "A cat is laying on a computer that resembles a small notebook like machine.",
+    "The cat is resting inside an electronic device that has ports on its sides and back."
+   ]
+  },
+  {
+   "question_id": "feGFfp3nMKyVUYRboCosh9",
+   "question": "What goods does this man sell?",
+   "answer": "fruit",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "fruits",
+    "fruit",
+    "food",
+    "fruits vegetables"
+   ],
+   "rationales": [
+    "The man has fruit.",
+    "The goods are food.",
+    "The man is selling bananas and apples for people to eat."
+   ]
+  },
+  {
+   "question_id": "fpgzreGfZFZQjPFocePhFo",
+   "question": "What kind of precipitation is at the top of the mountain?",
+   "answer": "Snow",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "snow"
+   ],
+   "rationales": [
+    "The change in the atmosphere causes fog in higher elevations.",
+    "The precipitation is snow.",
+    "The mountain tops are white."
+   ]
+  },
+  {
+   "question_id": "gXBksm4FiAGgUDw3a3EUaF",
+   "question": "Who is the most vulnerable on the road?",
+   "answer": "cyclist",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "biker",
+    "motorcycle",
+    "bike passenger",
+    "motorcycle passenger",
+    "bike",
+    "motorcyclist"
+   ],
+   "rationales": [
+    "The people in the other vehicles have more around them to protect them from impacts.",
+    "The motorbike is most vulnerable.",
+    "The people on the motorcycle have nothing around them."
+   ]
+  },
+  {
+   "question_id": "gYUipbusGScQ7oXEUejBMf",
+   "question": "What was the player doing before running?",
+   "answer": "throwing ball",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "hitting baseball",
+    "standing",
+    "batting",
+    "hitting",
+    "hitting ball",
+    "playing"
+   ],
+   "rationales": [
+    "The player bats.",
+    "He is wearing a hard helmet, which is only used during a game of baseball when up at bat.",
+    "The player running is going from base to base after being at home plate at bat."
+   ]
+  },
+  {
+   "question_id": "geoznuKRiPX5hf2he5EgpS",
+   "question": "How many cows are on the hill?",
+   "answer": "3",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "three"
+   ],
+   "rationales": [
+    "Three cows are on a single hill.",
+    "There are two cows on the right and one on the left.",
+    "This is the only number visible in this scene."
+   ]
+  },
+  {
+   "question_id": "gfHjDx5E9L9QMsbgnxSFdm",
+   "question": "What is the make of the silver hatchback?",
+   "answer": "toyota",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "kia",
+    "suv",
+    "honda",
+    "nissan",
+    "road light",
+    "volkswagen"
+   ],
+   "rationales": [
+    "The silver car is a volkswagen.",
+    "The logo on the back of the car is the volkswagon logo.",
+    "The make is a volkswagen."
+   ]
+  },
+  {
+   "question_id": "guwEPSB4oc6X2txXJJsomW",
+   "question": "The appearance of the long grass in the foreground indicates what ambient effect?",
+   "answer": "windy",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "lush",
+    "wind",
+    "rainfall effect",
+    "cleaning land",
+    "brightened colors",
+    "rain"
+   ],
+   "rationales": [
+    "The pastures are full of vegetation. the flowing vegetation shows how the weather pattern is.",
+    "High intensity air movement causes the grass to move.",
+    "If there were a drought, then there would be no grass being blown. the sky is clear, so it is not raining."
+   ]
+  },
+  {
+   "question_id": "h4PoYae2w6GRRu2npXvwuK",
+   "question": "What shape is the donut in?",
+   "answer": "Crossbones",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "robot",
+    "person",
+    "gingerbread man",
+    "man",
+    "rectangle",
+    "lost arm"
+   ],
+   "rationales": [
+    "This is the only shape that the donut resembles as it has no ears or beak.",
+    "It has a head and arm",
+    "The donut looks like a robot."
+   ]
+  },
+  {
+   "question_id": "hECCUB8FXovMC5nNPG2itn",
+   "question": "The first number on the bus is needed to from what sequence?",
+   "answer": "10",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "stop",
+    "ten",
+    "10-1",
+    "numerical sequence",
+    "numerical",
+    "1oi pattern"
+   ],
+   "rationales": [
+    "The number fourteen starts with a one.",
+    "The digit 1 is on the bus.",
+    "The question makes no sense, but the first visible digit on the bus is included in the number of answer a."
+   ]
+  },
+  {
+   "question_id": "hkMfnT4LEQi4HKPck6FVor",
+   "question": "What country can you learn about travel to if you visit the website on the bus?",
+   "answer": "Malaysia",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "malaysia",
+    "maylasia"
+   ],
+   "rationales": [
+    "The bus says invite the world to malaysia.",
+    "The country is malaysia.",
+    "Looks to be writing from an asian culture."
+   ]
+  },
+  {
+   "question_id": "iq9BaDbmL7bZfnXELtibFz",
+   "question": "What type of computer is the woman sitting in front of?",
+   "answer": "iMac",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "imac",
+    "apple",
+    "mac",
+    "desktop",
+    "apple computer"
+   ],
+   "rationales": [
+    "The back shows the word \"mac\".",
+    "The computer is a mac.",
+    "The type is on the back of the monitor."
+   ]
+  },
+  {
+   "question_id": "j5j6LUEzw383spcNXi7XhT",
+   "question": "What is the person standing on?",
+   "answer": "skateboard",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "skateboard",
+    "ground"
+   ],
+   "rationales": [
+    "The man has a board with wheels underneath his foot. these things make a skateboard.",
+    "The person is on a skateboard.",
+    "The person had his foot on his board with 4 wheels"
+   ]
+  },
+  {
+   "question_id": "j6q58xPaDShNBgnj2kKpAP",
+   "question": "Where is the person while flying the kite?",
+   "answer": "beach",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "on beach",
+    "beach",
+    "sand",
+    "near sea"
+   ],
+   "rationales": [
+    "The person is standing in the sand.",
+    "The person is on the beach.",
+    "The people are by sand and water."
+   ]
+  },
+  {
+   "question_id": "j9ix7Egb5KJ7PkXttbbtdC",
+   "question": "What is the pet doing?",
+   "answer": "sitting",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "sitting",
+    "siting",
+    "being photographed",
+    "wearing helmet"
+   ],
+   "rationales": [
+    "The pet is being photographed.",
+    "The pet dog is photographed in a helmet.",
+    "The dog is posing in front of a scooter. it is not being punished, getting sick, or crying."
+   ]
+  },
+  {
+   "question_id": "jQjEGnnPzL4AVqfBAfHvjq",
+   "question": "Where are the two playing frisbee?",
+   "answer": "gym",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "basketball court",
+    "gym",
+    "indoor gym",
+    "gymnasium"
+   ],
+   "rationales": [
+    "The room has a gym door and gym style flooring.",
+    "They're in a gym.",
+    "They are playing indoor in a building with walls and a door which eliminates a field and the beach.  tennis courts are not usually indoors and the court does not have the same floor markings as a tennis court."
+   ]
+  },
+  {
+   "question_id": "jRxbsCVJxNtUMvsEBfpTaE",
+   "question": "What kind of train is in the photo?",
+   "answer": "cargo",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "freight train",
+    "tank car",
+    "cargo",
+    "freight",
+    "oil",
+    "freight electric"
+   ],
+   "rationales": [
+    "You can tell by the shape of the tanks that the train is pulling.",
+    "It is a cylindrical shape that holds liquids, making it a tank car",
+    "The cars are round cylinders made to hold liquids."
+   ]
+  },
+  {
+   "question_id": "jb2M9hwaHvK2itZac5i4tb",
+   "question": "The large white building to the far left on the shore is likely the main facility governing what object/structure on the water?",
+   "answer": "Marina",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "marina docks",
+    "marina",
+    "boats",
+    "docks",
+    "pier",
+    "port"
+   ],
+   "rationales": [
+    "The building is an office and hub for the port and for customer interaction and business services.",
+    "The building is a port.",
+    "There is a marina here with room for a lot of boats"
+   ]
+  },
+  {
+   "question_id": "jqhSWKF72XwtaJGZH7XbS9",
+   "question": "How many people are wearing hats?",
+   "answer": "2",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "two"
+   ],
+   "rationales": [
+    "The two men have on hats.",
+    "One man is wearing a red hat and another is wearing a beanie.",
+    "There are 2 people wearing hats of some sort."
+   ]
+  },
+  {
+   "question_id": "kP9etcrALtsYL363dVhT5Y",
+   "question": "What is the long bar of the bicycle?",
+   "answer": "handlebars",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "top tube",
+    "frame",
+    "handlebar",
+    "handle",
+    "black",
+    "stearing"
+   ],
+   "rationales": [
+    "The kickstand is a long bar on a bike.",
+    "There is a chain on the long bar. it is used to secure the vehicle when it is not being used.",
+    "The question is nonsensical, but the long bar of the bicycle has an object visible on it that has the same design as answer a."
+   ]
+  },
+  {
+   "question_id": "kZWuYe4HefJH33d7GCb4Tk",
+   "question": "What kind of cuisine does this food from?",
+   "answer": "chinese",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "japanese",
+    "chinese",
+    "asian",
+    "asia",
+    "china",
+    "chinese food"
+   ],
+   "rationales": [
+    "The cuisine is japanese.",
+    "Noodles in brown sauce are associated with the cuisine in option a.",
+    "From its appearance the food is a noodle dish with a soy sauce based sauce and fried vegetables. this combination of foods is frequently served in answer a."
+   ]
+  },
+  {
+   "question_id": "kaocqcY3CESTstFs9Bd4Pg",
+   "question": "What time of day was this?",
+   "answer": "evening",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "early evening",
+    "dusk",
+    "evening",
+    "night",
+    "twilight"
+   ],
+   "rationales": [
+    "The time is the evening.",
+    "The walkway lights are on but you can still see pretty well.",
+    "The natural light is waning and it is starting to get dark."
+   ]
+  },
+  {
+   "question_id": "kqVKk7x35jEP3uXnZR3wBf",
+   "question": "What is the man doing with the ropes in his hands?",
+   "answer": "pulling",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "driving",
+    "guiding horse",
+    "driving carriage",
+    "guiding horses",
+    "whipping",
+    "leading horses"
+   ],
+   "rationales": [
+    "The man is driving.",
+    "The man drives.",
+    "The man is holding the reins of the horses as he \"drives\" them. depending on what directions he gives them by maneuvering the reins, that is where the horses will go."
+   ]
+  },
+  {
+   "question_id": "m4BSqisXuHjv98qLTDT2NE",
+   "question": "What has this stove been used for?",
+   "answer": "cooking",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "cooking cakes",
+    "baking",
+    "baking cake",
+    "cooking",
+    "cooling rack",
+    "cake"
+   ],
+   "rationales": [
+    "There is a cooked food on top of the oven that is in baking tins and is the color of something that has been baked.",
+    "The stove is for baking.",
+    "There is a something that has just been taking out of the oven. it looks like a pie of some kind that was cooked."
+   ]
+  },
+  {
+   "question_id": "m5WdqTRtUoKxbPMBxJRUtg",
+   "question": "What does the blue sign indicate?",
+   "answer": "700",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "parking"
+   ],
+   "rationales": [
+    "There is a sign that indicates a p for people to move their cars there. they leave them there and get in them and drive away later.",
+    "The p abbreviation in traffic symbols refers to this.",
+    "Street signs use a p to indicate parking and the sign includes this with an arrow."
+   ]
+  },
+  {
+   "question_id": "m8XZ5DnesmzfsjwMhMsbfe",
+   "question": "What ingredient is used first on the pizza?",
+   "answer": "Tomato sauce",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "sauce",
+    "crust",
+    "cheese",
+    "tomato sauce",
+    "dough"
+   ],
+   "rationales": [
+    "This is common knowledge if you were to make pizza anywhere.",
+    "The sauce is below every other ingredient which means it was added first.",
+    "Red sauce can be seen on the bottom of the pizza meaning it had to be put on first."
+   ]
+  },
+  {
+   "question_id": "mjCY6VtSoZiKbBKKx3YuLZ",
+   "question": "Why does the person have their mouth open?",
+   "answer": "yawning",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "eat",
+    "eating pizza",
+    "eating",
+    "eat food",
+    "to eat",
+    "pizza"
+   ],
+   "rationales": [
+    "The person is eating.",
+    "The person has food in their hands and can be seen putting the food into their mouth, which is why their mouth is open.",
+    "They are moving a piece of pizza to take a bite"
+   ]
+  },
+  {
+   "question_id": "moDoPYYpw2bSfSdDnFnut9",
+   "question": "What is the meat inside the yellow roll?",
+   "answer": "hot dog",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "hot dog",
+    "hotdog",
+    "sausage",
+    "pork hotdog"
+   ],
+   "rationales": [
+    "The meat is a hot dog.",
+    "The food has a color and texture that is consistent with answer a and this food is commonly served in some kind of bun as seen in the image.",
+    "The meat inside the roll has the shape and color that a hotdog would."
+   ]
+  },
+  {
+   "question_id": "n94Br4ZABpt9F8AeBnAaQK",
+   "question": "What is the cat looking at?",
+   "answer": "camera",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "camera",
+    "photographer"
+   ],
+   "rationales": [
+    "They are staring at the person taking the photo.",
+    "The cat appears to be looking at the person viewing the photo.  that happens when a person or animal looks at this while a photo is being taken.",
+    "The flash from the device's light is reflected in the cat's eyes."
+   ]
+  },
+  {
+   "question_id": "nKwQobxEKFkMGtc8DcQ5Ju",
+   "question": "How many remotes are on the table?",
+   "answer": "1",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "two",
+    "one"
+   ],
+   "rationales": [
+    "There is a black one and silver one",
+    "There are items with buttons and of the size consistent with being remotes on the table and there are visibly two of them.",
+    "Some people have a remote for different electronics in the room."
+   ]
+  },
+  {
+   "question_id": "nWKHkqWrAhfXG7eRWGX8B5",
+   "question": "When playing tennis what is the name of the actual event?",
+   "answer": "serve",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "open",
+    "match",
+    "tournament",
+    "wimbledon",
+    "tennis match",
+    "grand slam"
+   ],
+   "rationales": [
+    "The person is in a match.",
+    "Tennis games are referred to as matches when you play them.",
+    "There is a game going on."
+   ]
+  },
+  {
+   "question_id": "oAL5LQnAH9sB2oMiAmxsbq",
+   "question": "What dish is being made?",
+   "answer": "Salad",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "salad",
+    "fruit salad"
+   ],
+   "rationales": [
+    "The dish is fruit salad.",
+    "The person has chopped up fruit to make a salad.",
+    "Grapes, kiwi, pineapple, berries and watermelon are cut up and combined together in a bowl."
+   ]
+  },
+  {
+   "question_id": "oCwi6S3N5sKMdGtLLocG4p",
+   "question": "What is the name of the person winning on the scoreboard?",
+   "answer": "James Ward",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "adrian",
+    "james ward"
+   ],
+   "rationales": [
+    "James ward has the lower score. the other player is winning.",
+    "His score is one point more",
+    "According to the display, adrian has the higher score of 15 versus the other player's score of 14."
+   ]
+  },
+  {
+   "question_id": "CijjLDFS7tQM9TcoWMr2Ai",
+   "question": "What business transaction is advertised on a billboard?",
+   "answer": "Wells Fargo",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "banking",
+    "acquisition",
+    "image",
+    "crossroad",
+    "shopping",
+    "unknown"
+   ],
+   "rationales": [
+    "The transaction is an acquisition.",
+    "The billboard says that wachovia is now wells fargo, which implies that they have become one company.",
+    "The a of wachovia by wells fargo."
+   ]
+  },
+  {
+   "question_id": "PK5o4oqyymgbmrsrLkF2Hw",
+   "question": "What brand are the batter's shoes?",
+   "answer": "nike",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "under armour",
+    "under armor",
+    "nike",
+    "maybe nike"
+   ],
+   "rationales": [
+    "A large u can be seen on a baseball players shoes.",
+    "The under armor logo is written in white on the black shoes of the player.",
+    "I know under armor's logo is a \"h\" looking thing and the shoes appear to have an \"h\" on them."
+   ]
+  },
+  {
+   "question_id": "UY4enMq3yMvLG5oAXZQVQL",
+   "question": "What is this street vendor in black shirt and hat selling at her stand?",
+   "answer": "strawberries",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "food",
+    "hot peppers",
+    "flowers",
+    "peppers",
+    "fruit",
+    "vegtable"
+   ],
+   "rationales": [
+    "The food items are red, not green, yellow, or orange.",
+    "You can tell by the color of the veggies as to what she is selling.",
+    "The woman vendor is holding red peppers in her hand."
+   ]
+  },
+  {
+   "question_id": "b6kMEJD9bLnsJksyGqZgcR",
+   "question": "Which country's flag is on the plane?",
+   "answer": "USA",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "united states",
+    "america",
+    "usa"
+   ],
+   "rationales": [
+    "The united states flag is on top of a plane, the canadian, french or british flag is not present in the picture.",
+    "The flag has red and white strips and fifty stars.",
+    "The airplane has two flags on the front of it and one of them is the united states flag with stars and stripes."
+   ]
+  },
+  {
+   "question_id": "iTeGLgJNuQjkRqeTmKwWLs",
+   "question": "What is the first player's initial?",
+   "answer": "F",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "letter f",
+    "fu",
+    "f"
+   ],
+   "rationales": [
+    "The sign in the background shows the player's name as f. verdasc",
+    "The first initial is f.",
+    "I picked a becasue we can see the names on the billboard behind the player and they both start with the letter f."
+   ]
+  },
+  {
+   "question_id": "8a5uCKsjUC9vtK2i7Amh28",
+   "question": "What is the name of the lip piercing that the girl in the foreground has?",
+   "answer": "labret",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "pin",
+    "lip ring",
+    "drinks",
+    "hoop",
+    "philtrum piercing",
+    "vertical labret"
+   ],
+   "rationales": [
+    "This is the name of the piercing on the lip.",
+    "It is a bar that is pierced vertically through the center of the bottom lip.",
+    "The piercing is a twist on the basic version and given its name due to its orientation and where it is."
+   ]
+  },
+  {
+   "question_id": "9y2mxyvd3BxHofPfXKjG67",
+   "question": "What can be divined from the thing hanging on the fridge?",
+   "answer": "calendar",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "date",
+    "table",
+    "things",
+    "dates",
+    "calcender",
+    "new innovation"
+   ],
+   "rationales": [
+    "A calendar, not clock, planner, or agenda, is hanging from the fridge.",
+    "A calendar is on the fridge so you would get a day and date.",
+    "A calendar, not a clock, is hanging on the fridge."
+   ]
+  },
+  {
+   "question_id": "CY5ZZbpJFTLSwMbjGybzpS",
+   "question": "Why is one window outlined in white on the side of the plane?",
+   "answer": "to show where to board",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "emergency exit",
+    "escape hatch",
+    "emergency",
+    "door",
+    "blue",
+    "carriage"
+   ],
+   "rationales": [
+    "It's to get out.",
+    "The window that is outlined is the emergency exit.",
+    "The window is an exit."
+   ]
+  },
+  {
+   "question_id": "F8Df2XjGi87XQBkJNa79Ka",
+   "question": "What is the name of the type of business where the product in the foreground of this picture would be purchased?",
+   "answer": "bakery",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "cake cutting",
+    "birthday cakes",
+    "bakery",
+    "cake",
+    "organization",
+    "rainbow"
+   ],
+   "rationales": [
+    "The business is a bakery.",
+    "This place makes cakes and other pastries.",
+    "The business is a bakery."
+   ]
+  },
+  {
+   "question_id": "MqCKsUbTPGQJxLL75tGc5F",
+   "question": "What percent of the stands are full?",
+   "answer": "100%",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "quarter",
+    "base ball",
+    "running",
+    "15",
+    "playing",
+    "ten percent"
+   ],
+   "rationales": [
+    "A few people sit in the stands of a baseball game.",
+    "Very little of the seats are filled.",
+    "The percent is 15."
+   ]
+  },
+  {
+   "question_id": "QH2k6NnZ5DxMLEeQQF8net",
+   "question": "Which of the fruits shown has a seed that is easier to see?",
+   "answer": "plum",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "plum",
+    "plums",
+    "banana",
+    "grapes",
+    "grap",
+    "apple"
+   ],
+   "rationales": [
+    "All we have to do is look at it and the answer is clear.",
+    "The fruit is the plum.",
+    "Various fruit is in a bowl including bananas and plums."
+   ]
+  },
+  {
+   "question_id": "R647v79wCuGwSJmeooBxyY",
+   "question": "Someone standing on Platform 3 here must do what to board a train?",
+   "answer": "wait for train",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "buy ticket",
+    "use redcolor",
+    "yellow",
+    "travel",
+    "move train",
+    "wait"
+   ],
+   "rationales": [
+    "There is no train available yet",
+    "The people are waiting for the train.",
+    "They need to wait for the train to stop."
+   ]
+  },
+  {
+   "question_id": "Wsm6n4QiLcUf8UEmRUCdNL",
+   "question": "What era are the gold chairs styled from?",
+   "answer": "1950s",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "victorian",
+    "modern",
+    "things",
+    "1950's",
+    "golden era",
+    "style"
+   ],
+   "rationales": [
+    "The other options don't apply to this style.",
+    "Gold chairs are ornate like the victorian era.",
+    "Chairs with decorative arms are in a room with other antiques."
+   ]
+  },
+  {
+   "question_id": "ZQKmx3C4YgDDUWd34gaPhS",
+   "question": "What kind of a lounge is this?",
+   "answer": "Business lounge",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "bag",
+    "luggage",
+    "business",
+    "airport",
+    "travel luggage",
+    "suitcase"
+   ],
+   "rationales": [
+    "The lounge is for business.",
+    "The yellow sign has this word on it.",
+    "There is a horizontal bronze looking banner against the far wall. it has the name of the place in it."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "n_dstar": 649,
+ "per_model": {
+  "Qwen3-VL 2B": {
+   "n_both_prior": 21,
+   "n_explicit_rejection": 4,
+   "pct": 19.0
+  },
+  "Qwen3-VL 4B": {
+   "n_both_prior": 206,
+   "n_explicit_rejection": 183,
+   "pct": 88.8
+  },
+  "Qwen3-VL 8B": {
+   "n_both_prior": 173,
+   "n_explicit_rejection": 131,
+   "pct": 75.7
+  },
+  "Qwen2.5-VL 3B": {
+   "n_both_prior": 113,
+   "n_explicit_rejection": 60,
+   "pct": 53.1
+  },
+  "Qwen2.5-VL 7B": {
+   "n_both_prior": 380,
+   "n_explicit_rejection": 326,
+   "pct": 85.8
+  }
+ }
+}

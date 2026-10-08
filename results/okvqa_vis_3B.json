@@ -1,0 +1,3051 @@
+{
+ "summary": {
+  "model": "qwen2.5-vl-3b",
+  "with_image": true,
+  "parquet": "../data/raw/okvqa_train_0.parquet",
+  "n_sampled": 200,
+  "n_usable": 200,
+  "drop_rate": 0.0,
+  "param_hit_rate": 0.615,
+  "minutes": 0.71
+ },
+ "records": [
+  {
+   "question_id": "4789035",
+   "question": "Is the boy swimming or doing another water activity?",
+   "answer": "another water activity",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "another activity",
+    "wakeboarding",
+    "fishing",
+    "surfing"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "250245",
+   "question": "When was this piece of sporting equipment invented?",
+   "answer": "1926",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "1926",
+    "1960s",
+    "1965",
+    "surfboard"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4682765",
+   "question": "Is the beer bottle full or empty?",
+   "answer": "full",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "full"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "795525",
+   "question": "What kind of battery does this device use?",
+   "answer": "lithium-ion",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "lithium",
+    "cell phone battery",
+    "ion"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3704935",
+   "question": "What brand of shoes is the white woman wearing?",
+   "answer": "nike",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "converse",
+    "keds",
+    "new balance"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "710055",
+   "question": "What brand is this blender?",
+   "answer": "mixer",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "oster",
+    "kitchenaid",
+    "whirlpool"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2514755",
+   "question": "What is the profession of the man in this photo?",
+   "answer": "soldier",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "soldier",
+    "military"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "192515",
+   "question": "How do you care for this equipment?",
+   "answer": "clean it",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "wax",
+    "clean",
+    "sex wax",
+    "storage"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1704065",
+   "question": "What type of dog is this?",
+   "answer": "chihuahua",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "samoyed",
+    "palmeranian",
+    "husky",
+    "eskimo"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "828605",
+   "question": "What happened to these scissors?",
+   "answer": "nothing",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "bent",
+    "were in outlet",
+    "broken",
+    "burned"
+   ],
+   "rationales": null,
+   "question_type": "three",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4905555",
+   "question": "What would you use this room for?",
+   "answer": "watch tv",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "watching tv",
+    "entertaining",
+    "tv",
+    "relaxing"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "707025",
+   "question": "What kind of day is this?",
+   "answer": "cloudy",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "overcast",
+    "cloudy",
+    "rainy"
+   ],
+   "rationales": null,
+   "question_type": "ten",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5103335",
+   "question": "What is the animals offspring called?",
+   "answer": "foal",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "foal",
+    "colt",
+    "zebra"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "620575",
+   "question": "How tall are these buses?",
+   "answer": "2 stories",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "2 stories",
+    "double decker",
+    "14ft",
+    "18 feet"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2324345",
+   "question": "What kind of elephants are these?",
+   "answer": "asian",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "asians",
+    "hindi",
+    "pacaderms",
+    "asian",
+    "indian"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5021345",
+   "question": "What cultural icon is referenced by the red suits?",
+   "answer": "santa claus",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "santa",
+    "santa claus",
+    "santa clause"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "301755",
+   "question": "In what state are these mountain ranges?",
+   "answer": "colorado",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "nevada",
+    "idaho",
+    "montana",
+    "washington"
+   ],
+   "rationales": null,
+   "question_type": "nine",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4294915",
+   "question": "Where is this photo taken from?",
+   "answer": "car",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "vehicle",
+    "on safari",
+    "zebra",
+    "inside truck"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4946225",
+   "question": "What style of furniture is this table and example of?",
+   "answer": "antique",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "antique",
+    "formal",
+    "dresser"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "352485",
+   "question": "Which form of entertainment is the person utilizing?",
+   "answer": "video game",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "video game",
+    "videogaming",
+    "video",
+    "wii"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "8975",
+   "question": "What is the texture of the snow in this picture?",
+   "answer": "smooth",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "packed",
+    "grazed",
+    "packing",
+    "iced",
+    "heavy"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2875125",
+   "question": "What kind of vegatable topping is on the hotdog?",
+   "answer": "onion",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "onions",
+    "onion"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2533325",
+   "question": "What is the truck transporting?",
+   "answer": "cargo",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "garbage",
+    "furniture",
+    "goods",
+    "food"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5396175",
+   "question": "Why is this person attired in thes type of clothes?",
+   "answer": "cold weather",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "cold weather",
+    "he is skiing",
+    "for skiing",
+    "to keep warm"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1122285",
+   "question": "What breed of tree is growing outside the window?",
+   "answer": "willow",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "willow",
+    "oak",
+    "pine",
+    "fig"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4097225",
+   "question": "What is the clothing called that the surfer is wearing?",
+   "answer": "wetsuit",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "wet suit",
+    "body suit",
+    "wetsuit"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5449135",
+   "question": "Is this girl performing a forehand or a backhand?",
+   "answer": "forehand",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "forehand"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "826225",
+   "question": "What is the name of the knot used in this photo?",
+   "answer": "bend",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "sailors",
+    "naval",
+    "cleat hitch",
+    "slip"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1199045",
+   "question": "What has already happened to this food?",
+   "answer": "eaten",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "eaten",
+    "bitten",
+    "chewed"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5265145",
+   "question": "What number did someone call?",
+   "answer": "911",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "911"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4045335",
+   "question": "Who is the highest paid athlete of the sport played in this picture?",
+   "answer": "mike trout",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "clayton kershaw",
+    "boone",
+    "bonds",
+    "derek jeter"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5161675",
+   "question": "What year is this truck?",
+   "answer": "1970",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "1969",
+    "1965",
+    "1966",
+    "1950"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4648565",
+   "question": "What was that device used for?",
+   "answer": "phone",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "phone calls",
+    "communication"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "667375",
+   "question": "What are the health benefits of this vegetable?",
+   "answer": "good for eyes",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "fiber",
+    "vitamins",
+    "vitamin b",
+    "vision"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5752525",
+   "question": "Where is this taking place?",
+   "answer": "track",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "racetrack",
+    "track"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "760015",
+   "question": "What is the weather?",
+   "answer": "foggy",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "foggy",
+    "storm",
+    "wood"
+   ],
+   "rationales": null,
+   "question_type": "ten",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4788725",
+   "question": "What celebration are these people attending?",
+   "answer": "mardi gras",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "mardi gras",
+    "graduation",
+    "pride parade",
+    "funeral"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3557865",
+   "question": "What sport is being played?",
+   "answer": "hockey",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "hockey",
+    "ice hockey"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1466205",
+   "question": "What are the decorations hanging on the walls?",
+   "answer": "paintings",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "paintings",
+    "pictures"
+   ],
+   "rationales": null,
+   "question_type": "three",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2336475",
+   "question": "What are the animals doing?",
+   "answer": "performing",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "performing",
+    "playing",
+    "tricks"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5684555",
+   "question": "How long would it have taken for this animal to walk after being born?",
+   "answer": "10 minutes",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "immediately",
+    "2 days",
+    "1 day",
+    "minutes"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1297225",
+   "question": "What type of shoes is this player wearing?",
+   "answer": "cleat",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "cleats",
+    "sneakers",
+    "cleat"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3578375",
+   "question": "Was the technology this person is using invented in the past decade or earlier?",
+   "answer": "earlier",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "earlier",
+    "past decades"
+   ],
+   "rationales": null,
+   "question_type": "nine",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3065545",
+   "question": "Which type of cotton is used for making this cloth?",
+   "answer": "organic",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "yarn",
+    "egyptian",
+    "chenille",
+    "wool"
+   ],
+   "rationales": null,
+   "question_type": "three",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4216895",
+   "question": "What would the cat's claws destroy?",
+   "answer": "purse",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "furniture",
+    "purse",
+    "couch"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2772925",
+   "question": "How much does this type of vehicle cost to build?",
+   "answer": "$100,000",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "millions",
+    "500 million",
+    "5 million dollars",
+    "5 million"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4530965",
+   "question": "What style of motorcycles are pictured here?",
+   "answer": "chopper",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "chopper",
+    "police",
+    "street",
+    "harley davidson"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "186615",
+   "question": "What does the yellow m stand for?",
+   "answer": "mcdonalds",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "mcdonalds",
+    "mcdonald's"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5610825",
+   "question": "In what style is the protein in this dish cooked?",
+   "answer": "fried",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "sunny side up",
+    "eggs"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4733725",
+   "question": "What brand are the clementines?",
+   "answer": "unanswerable",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "halo",
+    "cuties",
+    "halos",
+    "tropicana",
+    "sunkist"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3072805",
+   "question": "What are the people called that race these animals for a living?",
+   "answer": "jockey",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "jockey",
+    "cowboys"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5487025",
+   "question": "What is this fruit famous for?",
+   "answer": "Health",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "health",
+    "baking",
+    "apple",
+    "knowledge"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3696315",
+   "question": "The shown fruit is good for which parts of the body?",
+   "answer": "brain",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "teeth",
+    "brain",
+    "heart and skin",
+    "digestion"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2148005",
+   "question": "Is that a pc or mac?",
+   "answer": "pc",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "mac"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2068415",
+   "question": "What do you do after you blow out the items in the image?",
+   "answer": "make wish",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "make wish",
+    "cake",
+    "share",
+    "cut cake"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4421545",
+   "question": "How do mirrors distort light?",
+   "answer": "refraction",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "reflection",
+    "by reflecting it",
+    "reflecting",
+    "reflect",
+    "refraction"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3430665",
+   "question": "Who invented this?",
+   "answer": "Garrett Morgan",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "garrett morgan",
+    "stop light maker"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4914005",
+   "question": "Why is this person holding an umbrella?",
+   "answer": "shade",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "for shade",
+    "shade",
+    "block sun"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4776365",
+   "question": "What year were these first ever flown?",
+   "answer": "1903",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "1903",
+    "1912",
+    "1931",
+    "1880"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1869065",
+   "question": "What type of photo is this man taking?",
+   "answer": "selfie",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "selfie"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4636255",
+   "question": "What is the meaning of the white flowers in this arrangement?",
+   "answer": "纯洁",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "purity",
+    "friendship",
+    "add color"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3601855",
+   "question": "Is the banana whole or cut into pieces?",
+   "answer": "cut",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "cut",
+    "cut into pieces"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3432565",
+   "question": "What type of lense was used to take this picture?",
+   "answer": "Fisheye",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "fisheye",
+    "wide angle"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1846695",
+   "question": "What is being sold on that truck?",
+   "answer": "Coca-Cola",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "soda",
+    "coke",
+    "coca cola",
+    "hotdog"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1609105",
+   "question": "Which brand of gray car is shown in this picture?",
+   "answer": "chevy",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "mazda",
+    "mercedes",
+    "trans am"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5032125",
+   "question": "How many degrees wide can these birds open their mouths?",
+   "answer": "10",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "45",
+    "180",
+    "140"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5729935",
+   "question": "Why is this cat laying on a laptop?",
+   "answer": "to rest",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "warmth",
+    "for warmth",
+    "it can",
+    "resting"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3910185",
+   "question": "What sound do these animals make?",
+   "answer": "baa",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "baa",
+    "bahh",
+    "wool",
+    "baah"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4723295",
+   "question": "Would this child be left handed or right handed?",
+   "answer": "right handed",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "right handed",
+    "right"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4412285",
+   "question": "What is the blue sports accessory usually made from?",
+   "answer": "foam",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "polyurethane",
+    "fiberglass",
+    "plastic"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "794985",
+   "question": "What kind of house is on this truck?",
+   "answer": "mobile home",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "mobile home",
+    "trailer",
+    "tract home"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3191975",
+   "question": "What is the best way to repair the damage to this mirror?",
+   "answer": "paint it",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "wash it",
+    "glue",
+    "washing it with windex",
+    "replace it"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3900735",
+   "question": "Why is there two key boards?",
+   "answer": "for typing",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "1 for letters 1 for numbers",
+    "laptop and desktop",
+    "dock station for laptop",
+    "efficiency"
+   ],
+   "rationales": null,
+   "question_type": "nine",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3820325",
+   "question": "How long did it take to climb this mountain?",
+   "answer": "1 hour",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "6 hours",
+    "15 days",
+    "3 hrs",
+    "1 hour"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "626525",
+   "question": "What's on tv?",
+   "answer": "olympics",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "speed skating",
+    "olympics",
+    "car racing",
+    "racing"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5222435",
+   "question": "What makes that liquid blue?",
+   "answer": "chlorine",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "reflection of sky",
+    "algae",
+    "sky",
+    "blue wavelength reflected"
+   ],
+   "rationales": null,
+   "question_type": "ten",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3653295",
+   "question": "What healthy oil is is this dish a source of?",
+   "answer": "Omega 3",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "omega 3",
+    "fish",
+    "omega oil",
+    "fish oil"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2748015",
+   "question": "Name the clock model shown in this picture?",
+   "answer": "ann arbor's 107 one",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "analog",
+    "ann arbor",
+    "3d"
+   ],
+   "rationales": null,
+   "question_type": "two",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4836465",
+   "question": "What accessory are these men wearing around their necks?",
+   "answer": "tie",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "ties",
+    "tie"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "186835",
+   "question": "What type of charger would this phone require?",
+   "answer": "usb",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "usb",
+    "samsung charger",
+    "motorola phone charger",
+    "samsung"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2783475",
+   "question": "What candy resembles the man's tie?",
+   "answer": "candy cane",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "candy cane",
+    "taffy"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1749095",
+   "question": "Who's driving the bus?",
+   "answer": "bus driver",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "bus driver",
+    "man"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "473885",
+   "question": "What types of fruits are in the bowl?",
+   "answer": "apple, orange, tomato",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "apples and oranges",
+    "apples",
+    "apple"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3185255",
+   "question": "How did the man change his facial hair?",
+   "answer": "shave",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "shave",
+    "shaving",
+    "shaved",
+    "shaving razor"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3778685",
+   "question": "With what religious tradition is the creature portrayed here associated?",
+   "answer": "zombie",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "end of days",
+    "sacrifice",
+    "zombie ism",
+    "zombies",
+    "zombie"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4211345",
+   "question": "What town is featured in this photo?",
+   "answer": "london",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "san francisco",
+    "guildford england",
+    "maybe somewhere in eastern europe",
+    "chicago"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2855705",
+   "question": "What geometric shape is the patch on the elephant?",
+   "answer": "square",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "diamond"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4511605",
+   "question": "Are we united or divided?",
+   "answer": "united",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "united",
+    "divided"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4310775",
+   "question": "Why do people wear these suits?",
+   "answer": "surfing",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "stay warm",
+    "to protect skin",
+    "cold",
+    "keep dry and warm"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2680655",
+   "question": "What pattern is on the mans shirt?",
+   "answer": "Stripes",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "striped",
+    "stripes"
+   ],
+   "rationales": null,
+   "question_type": "three",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2653295",
+   "question": "What type of bread is used to make this sandwich?",
+   "answer": "dark",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "rye",
+    "pumpernickle"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1888265",
+   "question": "What are the round black objects next to the computer used for?",
+   "answer": "listen",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "hearing",
+    "headphones",
+    "listening",
+    "ears"
+   ],
+   "rationales": null,
+   "question_type": "two",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1231845",
+   "question": "What type of activity is being done?",
+   "answer": "Motorcycle riding",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "motorcycle touring",
+    "riding",
+    "motorcycling"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2946885",
+   "question": "Which food when prepared has been known to cause watery eyes?",
+   "answer": "coleslaw",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "onion",
+    "onions"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "357325",
+   "question": "What type of trees are in this picture?",
+   "answer": "oak",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "deciduous",
+    "oak",
+    "maple"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1457415",
+   "question": "What is the type of diagram on the wall called?",
+   "answer": "flowchart",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "calendar",
+    "science",
+    "planning",
+    "graph"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2158475",
+   "question": "What happen to the rest of this cake?",
+   "answer": "eaten",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "eaten",
+    "sold"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5581635",
+   "question": "What country could these people be in?",
+   "answer": "africa",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "kenya",
+    "africa"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2296585",
+   "question": "What kind of birds are these?",
+   "answer": "pigeons",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "pigeons",
+    "pidgeons",
+    "dove",
+    "pigeon"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3470195",
+   "question": "What kind of insects do these scooters resemble?",
+   "answer": "spiders",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "ladybug",
+    "ladybugs"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1198845",
+   "question": "What are they studying?",
+   "answer": "math",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "math",
+    "school",
+    "quran"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2401555",
+   "question": "What item will change soon in this picture?",
+   "answer": "cat",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "picture",
+    "screen",
+    "cats",
+    "tv"
+   ],
+   "rationales": null,
+   "question_type": "two",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3518295",
+   "question": "What is the name of a famous manufacturer of these items?",
+   "answer": "ty",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "ty",
+    "ty inc"
+   ],
+   "rationales": null,
+   "question_type": "two",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5704105",
+   "question": "Why is it illegal to do this while driving?",
+   "answer": "dangerous",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "dangerous",
+    "distraction",
+    "distracting",
+    "distracted"
+   ],
+   "rationales": null,
+   "question_type": "nine",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3728045",
+   "question": "Who is going faster?",
+   "answer": "bicycle",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "scooter",
+    "bike",
+    "bicyclist",
+    "bicycler"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1997325",
+   "question": "What is the cause of the orange dust like breakdown shown on these cars?",
+   "answer": "age",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "rust",
+    "oxidation",
+    "climate"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "280585",
+   "question": "What type of contest is featured at a show of this nature?",
+   "answer": "car",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "car show",
+    "car",
+    "race"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2073315",
+   "question": "What is this dish called?",
+   "answer": "ramen",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "ramen",
+    "stir fry",
+    "bak choy",
+    "pad thai"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "97635",
+   "question": "What is that flag made out of?",
+   "answer": "cloth",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "fabric",
+    "cloth",
+    "satin",
+    "colors"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1512365",
+   "question": "What year was this sport invented?",
+   "answer": "1839",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "1839",
+    "1845"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5164635",
+   "question": "What is the wooden object with the words written on it?",
+   "answer": "table",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "sign",
+    "plaque",
+    "desk",
+    "crib"
+   ],
+   "rationales": null,
+   "question_type": "three",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "624725",
+   "question": "What clothing designer's logo is one of the advertiser's pictured here?",
+   "answer": "Lacoste",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "lacoste",
+    "izod"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4997385",
+   "question": "Why is one animal smaller?",
+   "answer": "baby",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "baby",
+    "its baby",
+    "child"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5010565",
+   "question": "What kind of robot is this?",
+   "answer": "star wars",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "c3po",
+    "droid",
+    "c 3po",
+    "c3p0"
+   ],
+   "rationales": null,
+   "question_type": "nine",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1585405",
+   "question": "What type of cell phone is that?",
+   "answer": "flip",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "flip phone",
+    "samsung"
+   ],
+   "rationales": null,
+   "question_type": "nine",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2824155",
+   "question": "What kind of car is the man leaning on?",
+   "answer": "van",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "van"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2486015",
+   "question": "What country is this building located in?",
+   "answer": "germany",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "belgium",
+    "finland",
+    "england"
+   ],
+   "rationales": null,
+   "question_type": "six",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4546815",
+   "question": "What is the cause of the color of the vehicle?",
+   "answer": "rust",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "rust",
+    "oxidation",
+    "rusting"
+   ],
+   "rationales": null,
+   "question_type": "nine",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4417145",
+   "question": "What place is shown?",
+   "answer": "mall",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "food court",
+    "bar",
+    "mall food court"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3600455",
+   "question": "What kind of dog is this?",
+   "answer": "black lab",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "retriever",
+    "labrador",
+    "mix",
+    "black lab"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2802675",
+   "question": "What is the actual name of this kind of tub?",
+   "answer": "soaking tub",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "hot tub",
+    "basin",
+    "pedestal",
+    "ceramic"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5156385",
+   "question": "What is the ratio for hitting the ball called?",
+   "answer": "batting",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "batting average",
+    "batting",
+    "golden",
+    "bb k"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2595145",
+   "question": "What are these people working on?",
+   "answer": "laptops",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "laptops",
+    "business proposal",
+    "work",
+    "homework"
+   ],
+   "rationales": null,
+   "question_type": "nine",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1561335",
+   "question": "What ingredients were used to make this food?",
+   "answer": "cheese, broccoli",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "broccoli and cheese",
+    "veg and cheese",
+    "cheese",
+    "cheese and broccoli"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4918045",
+   "question": "Who manufactures this type of bus?",
+   "answer": "new age",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "mercedes benz",
+    "mercedes",
+    "heatherwick",
+    "quantock"
+   ],
+   "rationales": null,
+   "question_type": "two",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "326755",
+   "question": "What is being done?",
+   "answer": "surgery",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "surgery"
+   ],
+   "rationales": null,
+   "question_type": "nine",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4370935",
+   "question": "What is the owner of these items probably wearing?",
+   "answer": "ski jacket",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "coat",
+    "ski mask",
+    "hat",
+    "boots"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2191695",
+   "question": "What show is this?",
+   "answer": "circus",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "circus",
+    "ballet"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4424515",
+   "question": "What kind of shoes are these women wearing?",
+   "answer": "sandals",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "sandals",
+    "sandles"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1989745",
+   "question": "What type of motorcycle is this?",
+   "answer": "kawasaki",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "kawasaki",
+    "crotch rocket",
+    "racing",
+    "racer"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5105405",
+   "question": "In what decade was this photo taken?",
+   "answer": "1900s",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "early 1900's",
+    "1880's",
+    "1800's",
+    "1870",
+    "1800s"
+   ],
+   "rationales": null,
+   "question_type": "six",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5200395",
+   "question": "What type of neckline is the yellow shirt?",
+   "answer": "round neck",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "scoop",
+    "low",
+    "crew",
+    "boatneck"
+   ],
+   "rationales": null,
+   "question_type": "three",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3090815",
+   "question": "What could these elephants be involved in?",
+   "answer": "circus",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "circus",
+    "parade"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3743515",
+   "question": "When was the food item in this photo invented?",
+   "answer": "1930",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "1484",
+    "1871",
+    "1875",
+    "1900"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "77465",
+   "question": "How much saturated fat is in a piece of chocolate pie shown in the image?",
+   "answer": "lot",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "too much",
+    "20g",
+    "11g",
+    "40"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4152435",
+   "question": "Where would this sport normally be played?",
+   "answer": "baseball field",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "court",
+    "tennis court"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3322715",
+   "question": "What brand of motorcycle is featured on the right?",
+   "answer": "suzuki",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "suzuki",
+    "china brand",
+    "honda",
+    "kawasaki"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2457605",
+   "question": "Who creates this item?",
+   "answer": "baker",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "baker",
+    "sara lee",
+    "god",
+    "bakery"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5201555",
+   "question": "What kind of jewelry does she have on?",
+   "answer": "earring",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "earrings",
+    "earring",
+    "earnings",
+    "kors"
+   ],
+   "rationales": null,
+   "question_type": "two",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "743905",
+   "question": "How old is this bird?",
+   "answer": "1 year old",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "1 year",
+    "5 years",
+    "3 years old"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3713925",
+   "question": "What type of profession are these people in?",
+   "answer": "politic",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "politics",
+    "reporters",
+    "politicians"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1962905",
+   "question": "How much does the skateboard in the photo cost?",
+   "answer": "$50",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "$50",
+    "40",
+    "$25",
+    "twenty dollars"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1671235",
+   "question": "What airline is that plane from?",
+   "answer": "united",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "southwest",
+    "delta",
+    "boeing",
+    "famous 1"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4282085",
+   "question": "Which item is associated with ireland?",
+   "answer": "potato",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "alcohol",
+    "food",
+    "potatos",
+    "potatoes"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "833525",
+   "question": "What type of tv is this?",
+   "answer": "flat screen",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "analog",
+    "old 1",
+    "tube",
+    "tube tv"
+   ],
+   "rationales": null,
+   "question_type": "two",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4047665",
+   "question": "What is the name of the team?",
+   "answer": "blue jays",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "rockies",
+    "mets",
+    "yankees",
+    "huskies"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5791765",
+   "question": "Which side of the stop sign is visible?",
+   "answer": "back",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "back",
+    "back side"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2202165",
+   "question": "What kind of flowers are in the vase?",
+   "answer": "daisies",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "daisies",
+    "daisy",
+    "gerbera",
+    "rose"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1834455",
+   "question": "What is the pattern of the pillow on the left?",
+   "answer": "checkered",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "checkered",
+    "squares",
+    "swirls"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1693775",
+   "question": "What motorcycle brand is this?",
+   "answer": "Ducati",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "ducati",
+    "mitsubishi",
+    "honda"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5321065",
+   "question": "What material is the surface of the vanity?",
+   "answer": "marble",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "marble",
+    "granite",
+    "formica"
+   ],
+   "rationales": null,
+   "question_type": "three",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2655895",
+   "question": "What material are the appliances made from?",
+   "answer": "stainless steel",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "stainless steel",
+    "steel",
+    "steele",
+    "metal"
+   ],
+   "rationales": null,
+   "question_type": "three",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3190575",
+   "question": "Where could you sit?",
+   "answer": "chair",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "chair",
+    "in folding chair"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "881925",
+   "question": "What are those stairs outside the window?",
+   "answer": "brick",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "fire escape",
+    "fire exits"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5223385",
+   "question": "How do we know this guy is not likely to have packed a razor?",
+   "answer": "beard",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "has beard",
+    "his beard is long",
+    "beard",
+    "he has beard"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4891915",
+   "question": "Where is this?",
+   "answer": "restaurant",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "dining room",
+    "nursing home",
+    "inside",
+    "table"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1778215",
+   "question": "The base that the hitter is touching with his foot is also called what sort of plate?",
+   "answer": "home",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "home plate",
+    "diamond",
+    "home"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3212155",
+   "question": "What popular type of boot is the girl wearing?",
+   "answer": "sneaker",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "uggs",
+    "ugg",
+    "ugg's"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5624085",
+   "question": "What body of water is this connected to?",
+   "answer": "ocean",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "sea",
+    "pacific ocean",
+    "ocean",
+    "river"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "505185",
+   "question": "Where is this man eating lunch?",
+   "answer": "dock",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "docks",
+    "boat dock",
+    "outside",
+    "maine"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5784975",
+   "question": "Which famous breakfast item is also the first part of the name of the asian rolled edible seen here?",
+   "answer": "egg roll",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "egg",
+    "egg roll"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5611905",
+   "question": "What type of pants are the men in this image wearing?",
+   "answer": "slacks",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "slacks",
+    "jeans",
+    "dress",
+    "khakis"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3968525",
+   "question": "What brand of sunglasses is the person wearing?",
+   "answer": "rayban",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "oakley",
+    "rayban",
+    "oakleys",
+    "aspen",
+    "apollo"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4285655",
+   "question": "Where is fizz soda manufactured?",
+   "answer": "england",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "factory",
+    "america",
+    "usa"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5084495",
+   "question": "What are these people celebrating?",
+   "answer": "graduation",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "graduation",
+    "birthday"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5053095",
+   "question": "What type of store can you purchase plastic tools like the ones shown in the photo?",
+   "answer": "toy",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "grocery store",
+    "walmart"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2115295",
+   "question": "What kind of zebra is that and what food do they eat the most of?",
+   "answer": "plain zebra grass",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "african and grass",
+    "african grass",
+    "african",
+    "your common or garden zebra"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4603625",
+   "question": "What is required to do what the man on the left is doing?",
+   "answer": "camera",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "camera",
+    "plate",
+    "film"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1038395",
+   "question": "What is the rod in the boys hand made of?",
+   "answer": "plastic",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "fiberglass",
+    "steel",
+    "aluminum",
+    "ski sticks"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3826645",
+   "question": "What is this baseball player doing?",
+   "answer": "pitching",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "pitching"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "605765",
+   "question": "How does this object move?",
+   "answer": "fly",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "flies",
+    "propulsion",
+    "flying",
+    "fly",
+    "jet engine"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4029085",
+   "question": "What kind of coat might you bring in this room?",
+   "answer": "towel",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "bathrobe",
+    "bathrode",
+    "overcoat",
+    "house coat"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3768295",
+   "question": "What will this person do with the item he is holding?",
+   "answer": "eat",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "brush teeth",
+    "brush",
+    "brush their teeth"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "534745",
+   "question": "What happens next?",
+   "answer": "Land",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "he lands",
+    "he lands on snow",
+    "lands",
+    "landing"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2135325",
+   "question": "What activity is taking place here?",
+   "answer": "watching tv",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "hugging",
+    "bonding",
+    "birthday",
+    "hug"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "539295",
+   "question": "What kind of chair is the woman relaxing in?",
+   "answer": "leather",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "recliner",
+    "leather recliner"
+   ],
+   "rationales": null,
+   "question_type": "seven",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3911025",
+   "question": "Why are there so many scissors?",
+   "answer": "to cut hair",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "artwork",
+    "art",
+    "it's art",
+    "sculpture"
+   ],
+   "rationales": null,
+   "question_type": "three",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1561805",
+   "question": "What game console is this woman playing?",
+   "answer": "wii",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "wi",
+    "wii",
+    "wii u"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3423815",
+   "question": "Which computer accessory is the person touching?",
+   "answer": "keyboard",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "keyboard"
+   ],
+   "rationales": null,
+   "question_type": "two",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "192275",
+   "question": "What food does this animal eat?",
+   "answer": "fish",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "berries",
+    "plants",
+    "salmon",
+    "meat"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "171545",
+   "question": "What is this type of camera called?",
+   "answer": "flip",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "digital",
+    "digital camera"
+   ],
+   "rationales": null,
+   "question_type": "nine",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4919835",
+   "question": "How do i turn this on?",
+   "answer": "power button",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "power button",
+    "remote control",
+    "press power button",
+    "remote"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4082275",
+   "question": "What kind of appliance is next to the sink?",
+   "answer": "washer",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "dryer",
+    "washing machine",
+    "clothes dryer"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3416175",
+   "question": "Which region of the united states is well known for the white object?",
+   "answer": "southwest",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "texas",
+    "western",
+    "south",
+    "west"
+   ],
+   "rationales": null,
+   "question_type": "six",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3232405",
+   "question": "Why are they using this centerpiece?",
+   "answer": "christmas",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "holiday",
+    "because its christmas",
+    "christmas",
+    "ramadan"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5027245",
+   "question": "What do these poles all open up into when water falls?",
+   "answer": "umbrella",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "umbrellas",
+    "rain",
+    "umbrella"
+   ],
+   "rationales": null,
+   "question_type": "ten",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2554185",
+   "question": "What type of tree is the tallest in the picture?",
+   "answer": "palm",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "palm tree",
+    "mahogany",
+    "palm"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "1504805",
+   "question": "What does the machine on the refrigerator do?",
+   "answer": "make coffee",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "make coffee",
+    "makes coffee",
+    "percolator"
+   ],
+   "rationales": null,
+   "question_type": "other",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2413415",
+   "question": "What can be done to prevent this device from overheating?",
+   "answer": "clean it",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "turn it off",
+    "close it",
+    "laptop stand",
+    "fan"
+   ],
+   "rationales": null,
+   "question_type": "nine",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4297585",
+   "question": "What kind of bird is this?",
+   "answer": "puffin",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "puffin",
+    "pelican"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5679765",
+   "question": "What is the woman in the gray sweatshirt pushing?",
+   "answer": "stroller",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "stroller",
+    "baby stroller"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2196795",
+   "question": "What sound does this animal make?",
+   "answer": "moo",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "moo"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "949785",
+   "question": "What type of train is this?",
+   "answer": "steam",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "steam engine",
+    "steam",
+    "locomotive"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "3604525",
+   "question": "Where might the ball be headed?",
+   "answer": "outfield",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "outfield",
+    "field",
+    "out of park",
+    "to bat"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "160895",
+   "question": "What kind of lettuce is on this plate?",
+   "answer": "romaine",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "iceberg",
+    "leaf",
+    "kale",
+    "romaine lettuce"
+   ],
+   "rationales": null,
+   "question_type": "five",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "798835",
+   "question": "Can you guess which metal is used for making the ring weared by the lady?",
+   "answer": "gold",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "gold",
+    "silver"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "829475",
+   "question": "What type of machine is this tool?",
+   "answer": "soldering iron",
+   "hit": false,
+   "truncated": false,
+   "candidates": [
+    "soldering gun",
+    "soldering tool",
+    "electrometer",
+    "solderer"
+   ],
+   "rationales": null,
+   "question_type": "nine",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "2130095",
+   "question": "How many world series has this team won?",
+   "answer": "5",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "27",
+    "7",
+    "5"
+   ],
+   "rationales": null,
+   "question_type": "four",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "5148255",
+   "question": "What's the name of airliner?",
+   "answer": "Southern Air",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "southern air"
+   ],
+   "rationales": null,
+   "question_type": "one",
+   "answer_type": "other"
+  },
+  {
+   "question_id": "4733485",
+   "question": "Does this image depict a natural or man made environment?",
+   "answer": "Man made",
+   "hit": true,
+   "truncated": false,
+   "candidates": [
+    "man made",
+    "manmade"
+   ],
+   "rationales": null,
+   "question_type": "eight",
+   "answer_type": "other"
+  }
+ ]
+}

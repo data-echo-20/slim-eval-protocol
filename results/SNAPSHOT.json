@@ -1,0 +1,26 @@
+{
+ "date": "2026-09-23",
+ "note": "Manifest of the core input files and their md5 prefixes, fixed at the analysis snapshot date.",
+ "files": {
+  "data/medusa_llm.jsonl": {
+   "rows": 236,
+   "md5": "2ea9d46a9cbf"
+  },
+  "data/medusa_anchors.jsonl": {
+   "rows": 236,
+   "md5": "2466bf0c73a6"
+  },
+  "results/evqa_screen_full.jsonl": {
+   "rows": 8133,
+   "md5": "26d81ce5e39e"
+  },
+  "data/raw/evqa_anchors_verified.jsonl": {
+   "rows": 236,
+   "md5": "7f137906c355"
+  }
+ },
+ "pack": {
+  "file": "medusa_pack.tar.gz",
+  "size_mb": 21
+ }
+}

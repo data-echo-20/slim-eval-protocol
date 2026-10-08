@@ -1,0 +1,60 @@
+{
+ "n_dstar": 649,
+ "criterion": "alias=BOTH & negation=PARAM",
+ "counts": {
+  "qwen3-vl-2b": {
+   "ctx_only": 0,
+   "orig": 0,
+   "ctx_hedge": 159,
+   "neutral": 1,
+   "own_only": 0,
+   "len_ctrl": 2,
+   "prior": 4
+  },
+  "qwen3-vl-4b": {
+   "ctx_only": 5,
+   "orig": 9,
+   "ctx_hedge": 516,
+   "neutral": 3,
+   "own_only": 17,
+   "len_ctrl": 223,
+   "prior": 183
+  },
+  "qwen3-vl-8b": {
+   "ctx_only": 4,
+   "orig": 1,
+   "ctx_hedge": 540,
+   "neutral": 9,
+   "own_only": 69,
+   "len_ctrl": 288,
+   "prior": 131
+  },
+  "qwen2.5-vl-3b": {
+   "ctx_only": 0,
+   "orig": 0,
+   "ctx_hedge": 462,
+   "neutral": 4,
+   "own_only": 11,
+   "len_ctrl": 63,
+   "prior": 60
+  },
+  "qwen2.5-vl-7b": {
+   "ctx_only": 5,
+   "orig": 2,
+   "ctx_hedge": 584,
+   "neutral": 78,
+   "own_only": 93,
+   "len_ctrl": 169,
+   "prior": 326
+  }
+ },
+ "totals": {
+  "ctx_only": 14,
+  "orig": 12,
+  "ctx_hedge": 2261,
+  "neutral": 95,
+  "own_only": 190,
+  "len_ctrl": 745,
+  "prior": 704
+ }
+}

@@ -1,0 +1,54 @@
+[
+ {
+  "path": "results/pkd_3b_text.json",
+  "arm": "txt",
+  "model": "qwen2.5-vl-3b",
+  "n": 164,
+  "n_usable": 164,
+  "n_conf": 155,
+  "n_know": 152,
+  "know": 0.9817,
+  "pkd_raw": 0.1226,
+  "pkd_cond": 0.125,
+  "ctx": 0.8516
+ },
+ {
+  "path": "results/pkd_3b_vision.json",
+  "arm": "vis",
+  "model": "qwen2.5-vl-3b",
+  "n": 164,
+  "n_usable": 164,
+  "n_conf": 155,
+  "n_know": 93,
+  "know": 0.5915,
+  "pkd_raw": 0.1097,
+  "pkd_cond": 0.129,
+  "ctx": 0.7355
+ },
+ {
+  "path": "results/pkd_7b_text.json",
+  "arm": "txt",
+  "model": "qwen2.5-vl-7b",
+  "n": 164,
+  "n_usable": 164,
+  "n_conf": 155,
+  "n_know": 153,
+  "know": 0.9878,
+  "pkd_raw": 0.1419,
+  "pkd_cond": 0.1438,
+  "ctx": 0.8903
+ },
+ {
+  "path": "results/pkd_7b_vision.json",
+  "arm": "vis",
+  "model": "qwen2.5-vl-7b",
+  "n": 164,
+  "n_usable": 164,
+  "n_conf": 155,
+  "n_know": 90,
+  "know": 0.5732,
+  "pkd_raw": 0.1548,
+  "pkd_cond": 0.1778,
+  "ctx": 0.7484
+ }
+]

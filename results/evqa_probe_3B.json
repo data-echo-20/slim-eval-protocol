@@ -1,0 +1,2261 @@
+[
+ {
+  "title": "Cervus nippon",
+  "q": "How old does this animal typically become?",
+  "ans": "10 years",
+  "cands": [
+   "15 to 18 years"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Arena da Amazônia",
+  "q": "In which city is this stadium located?",
+  "ans": "Chicago",
+  "cands": [
+   "Manaus"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Puente de Isabel II",
+  "q": "Which places does this bridge connect?",
+  "ans": "Connects two cities.",
+  "cands": [
+   "the Triana neighbourhood with the centre of the city"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Crotalus pyrrhus",
+  "q": "What does this reptile eat?",
+  "ans": "This reptile eats insects, small mammals, and other reptiles.",
+  "cands": [
+   "small mammals, birds and lizards",
+   "small mammals,  birds and lizards",
+   "small mammal, birds and lizards"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Kinosternon subrubrum",
+  "q": "What does this reptile eat?",
+  "ans": "This reptile eats insects, small mammals, and other reptiles.",
+  "cands": [
+   "insects, crustaceans, mollusks, amphibians, carrion, and aquatic vegetation"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Lake Wakatipu",
+  "q": "How high is this lake located?",
+  "ans": "1,000 meters above sea level.",
+  "cands": [
+   "310 metres"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Khaplu Palace",
+  "q": "How tall is this hotel?",
+  "ans": "152 meters",
+  "cands": [
+   "2,600 metres"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "MAXXI",
+  "q": "Of which famous artists does this museum display works?",
+  "ans": "Vincent van Gogh, Pablo Picasso, and Salvador Dalí.",
+  "cands": [
+   "Alighiero Boetti, Grazia Toderi, William Kentridge, Kara Walker, Ed Ruscha, Gilbert & George, Gino De Dominicis, Michael Raedecker, Anish Kapoor, Gerhard Richter, Francesco Clemente, Lara Favaretto, Marlene Dumas, Maurizio Cattelan, Gabriele Basilico, Kiki Smith, Thomas Ruff, Luigi Ghirri, Manfredi Beninati, Vanessa Beecroft, Stefano Arienti, Francis Alys, Ugo Rondinone, Thomas Schutte, Francesco Gostoli, and archives of architects Carlo Scarpa, Aldo Rossi and Pier Luigi Nervi."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Lycoperdon perlatum",
+  "q": "With which other fungus is this fungus often confused?",
+  "ans": "Mushroom",
+  "cands": [
+   "Amanita species"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Menger Hotel",
+  "q": "Who owns this hotel currently?",
+  "ans": "The hotel is owned by Marriott International.",
+  "cands": [
+   "Galveston-based 1859 Historic Hotels, Inc."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Hyla intermedia",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "temperate forests, rivers, intermittent rivers, freshwater marshes, intermittent freshwater marshes, arable land, and urban areas"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Kapitan Keling Mosque",
+  "q": "In which city is this mosque located?",
+  "ans": "Mecca",
+  "cands": [
+   "George Town"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Leistes loyca",
+  "q": "What does this bird eat?",
+  "ans": "This bird eats insects.",
+  "cands": [
+   "invertebrates."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Inchcolm",
+  "q": "In which country is this island located?",
+  "ans": "Iceland",
+  "cands": [
+   "Scotland"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Euphorbia amygdaloides",
+  "q": "In which season does this plant give flowers?",
+  "ans": "Spring",
+  "cands": [
+   "late spring and early summer"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Sceloporus olivaceus",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "7.5–11 in (19–28 cm)"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Olympiastadion (Munich)",
+  "q": "In which city is this stadium located?",
+  "ans": "Chicago",
+  "cands": [
+   "Munich"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Rhinella arenarum",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "southern Brazil and Uruguay, Paraguay",
+   "southern Brazil and Uruguay, Paraguay",
+   "southern Brazil and Uruguay,Paraguay"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Palacio de Fomento",
+  "q": "When was this palace built?",
+  "ans": "1959",
+  "cands": [
+   "between 1893 and 1897"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Ctenosaura pectinata",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "males 1.3 m (4.3 feet) and females 1.0 m (3.3 ft)"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Bradleys Head Light",
+  "q": "How frequently does this lighthouse give a light signal?",
+  "ans": "Every 10 seconds.",
+  "cands": [
+   "green light with a cycle of three seconds"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "375 Pearl Street",
+  "q": "In which city is this building located?",
+  "ans": "New York City",
+  "cands": [
+   "New York"
+  ],
+  "hit": true,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Alcázar de Colón",
+  "q": "When was this building built?",
+  "ans": "1930",
+  "cands": [
+   "1511 and 1514"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Penstemon procerus",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "western North America from Alaska to California to Colorado, as far east in Canada as Manitoba"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Bubalus bubalis",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "deep water."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Phacellophora camtschatica",
+  "q": "What is the common name for this animal?",
+  "ans": "Dog",
+  "cands": [
+   "fried egg jellyfish or egg-yolk jellyfish"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Plaza Moriones",
+  "q": "In which city is this square located?",
+  "ans": "Paris",
+  "cands": [
+   "Manila"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Holocnemus pluchei",
+  "q": "How do these animals catch their prey?",
+  "ans": "They use speed, stealth, and specialized senses to catch prey.",
+  "cands": [
+   "wrapping remainders of prey",
+   "wrapping remainders of prey",
+   "wrapping remainders of prey"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Lower Peirce Reservoir",
+  "q": "In which country is this reservoir located?",
+  "ans": "Lake Victoria",
+  "cands": [
+   "Singapore"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Apiosporina morbosa",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "13–305 mm (0.5–12 in) long, and up to 51 mm (2 in) wide."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Menger Hotel",
+  "q": "In which year was this hotel built?",
+  "ans": "1927",
+  "cands": [
+   "1859"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Ter Apel Monastery",
+  "q": "In which city is this monastery located?",
+  "ans": "Budapest",
+  "cands": [
+   "Groningen"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Penthorum sedoides",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "eastern United States and Canada"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Bucorvus leadbeateri",
+  "q": "What is the wingspan of this bird in cm?",
+  "ans": "100 cm",
+  "cands": [
+   "1.2 to 1.8 m"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Trausnitz Castle",
+  "q": "Is this castle open for visitors?",
+  "ans": "Yes, it is open for visitors.",
+  "cands": [
+   "Yes"
+  ],
+  "hit": true,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Bubalus bubalis",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Europe, Australia, North America, South America, African countries."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Civic Museum of Palazzo Mosca",
+  "q": "In which city is this museum located?",
+  "ans": "New York City",
+  "cands": [
+   "Pesaro"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "MacArthur Park",
+  "q": "When were the latest renovations or repairs in this park?",
+  "ans": "2023",
+  "cands": [
+   "2002"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Pelecanus crispus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Central Eurasia, from the Mediterranean in the West to the Taiwan Strait"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Smolny Convent",
+  "q": "In which city is this monastery located?",
+  "ans": "Budapest",
+  "cands": [
+   "Saint Petersburg"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Arena da Amazônia",
+  "q": "In which year was this stadium built?",
+  "ans": "1923",
+  "cands": [
+   "2014"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Rzeszów Castle",
+  "q": "Which forces conquered this castle and when?",
+  "ans": "The Normans conquered the castle in 1066.",
+  "cands": [
+   "Andrzej Ligęza in 1603"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Halten Lighthouse",
+  "q": "In which country is this lighthouse located?",
+  "ans": "United Kingdom",
+  "cands": [
+   "Norway"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Tylopilus felleus",
+  "q": "On what does this fungi typically grow? ",
+  "ans": "Wood, bark, and other organic matter.",
+  "cands": [
+   "old trees, on old conifer stumps, or on buried rotten wood"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Zoropsis spinimana",
+  "q": "If this species has a web, what are the features of this web?",
+  "ans": "Spins, sticky, and complex.",
+  "cands": [
+   "No",
+   "No",
+   "No"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Clare Abbey",
+  "q": "What is the religious order of this monastery?",
+  "ans": "Cistercian",
+  "cands": [
+   "order of Augustinian"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Dendraster excentricus",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "larvae, small copepods, diatoms, plankton, and detritus",
+   "crustacean larvae, small copepods, diatoms, plankton, and detritus",
+   "crustacean larvae, small copepods, diatoms, plankton, and detritus"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Anaxyrus fowleri",
+  "q": "If this animal releases toxic substances, what are its effects?",
+  "ans": "Toxic reactions vary, but can include poisoning, allergic reactions, or severe health issues.",
+  "cands": [
+   "distasteful to predators and be lethal to small mammals",
+   "distasteful to predators and can be lethal to small mammals",
+   "distasteful to predators, lethal to small mammals"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "The Lowry",
+  "q": "In which city is this museum located?",
+  "ans": "New York City",
+  "cands": [
+   "Greater Manchester"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Huangcai Reservoir",
+  "q": "What is the capacity of this reservoir?",
+  "ans": "Not specified in the question.",
+  "cands": [
+   "147,000,000 cubic metres"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Aga Khan Palace",
+  "q": "On which days is this palace open for visitors?",
+  "ans": "Monday to Saturday, 9:00 AM - 5:00 PM.",
+  "cands": [
+   "everyday"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Prunus laurocerasus",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "5 to 15 metres",
+   "5 to 15 metres",
+   "5 to 15 metres"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Hindola Mahal",
+  "q": "Where does this palace derive its name from?",
+  "ans": "The Palace of Versailles derives its name from the French word \"versailles,\" which means \"to go to Versailles.\"",
+  "cands": [
+   "highly inclined buttresses"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Giannutri",
+  "q": "How large is this island?",
+  "ans": "Approximately 1,400 square kilometers.",
+  "cands": [
+   "11 km"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Microcanthus strigatus",
+  "q": "What is the habitat of this fish? ",
+  "ans": "Freshwater lakes and rivers.",
+  "cands": [
+   "hide under ledges and in caves. coastal and lagoon reefs"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Amanita augusta",
+  "q": "With which other fungus is this fungus often confused?",
+  "ans": "Mushroom",
+  "cands": [
+   "fragmented yellow remnants of the universal veil."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Apiosporina morbosa",
+  "q": "Is this fungus edible?",
+  "ans": "Yes, it is edible.",
+  "cands": [
+   "No"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Zoropsis spinimana",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Mediterranean, Russia, United State, United Kingdom",
+   "Mediterranean,  Russia,  United States, United Kingdom",
+   "Mediterranean, Russia, United States, United Kingdom"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Gallirallus australis",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "New Zealand"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Walkenried Abbey",
+  "q": "Who founded this monastery?",
+  "ans": "St. Benedict",
+  "cands": [
+   "Adelheid of Lare (Lohra)"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Seiurus aurocapilla",
+  "q": "What is the wingspan of this bird in cm?",
+  "ans": "100 cm",
+  "cands": [
+   "6.8 to 8.3 cm (2.7 to 3.3 in),"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Amanita augusta",
+  "q": "Does this fungus have medical use?",
+  "ans": "Yes, some fungi have medical uses.",
+  "cands": [
+   "anti-proliferative,drug discovery,harmful side effects,drugs"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Euphorbia amygdaloides",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "Europe, Turkey and the Caucasus"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Clare Abbey",
+  "q": "Who founded this monastery?",
+  "ans": "St. Benedict",
+  "cands": [
+   "Domnall Mór Ua Briain"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Saltram House",
+  "q": "In which city is this house located?",
+  "ans": "New York City",
+  "cands": [
+   "Plymouth"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Anaxyrus fowleri",
+  "q": "How many eggs does this species lay?",
+  "ans": "10-20 eggs",
+  "cands": [
+   "7,000 to 10,000 eggs",
+   "7,000 to 10,000 eggs",
+   "7,000 to 10,000 eggs"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Anaxyrus fowleri",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "North America,",
+   "North America",
+   "North America"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Bubalus bubalis",
+  "q": "How old does this animal typically become?",
+  "ans": "10 years",
+  "cands": [
+   "40 years"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Lake Wakatipu",
+  "q": "In which country is this lake located?",
+  "ans": "Lake Geneva",
+  "cands": [
+   "New Zealand"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Las Casas Filipinas de Acuzar",
+  "q": "In which year was this hotel built?",
+  "ans": "1927",
+  "cands": [
+   "1920"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Agrilus planipennis",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "North America"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Phocoena phocoena",
+  "q": "Which animals eat this mammal?",
+  "ans": "Carnivores",
+  "cands": [
+   "white sharks and killer whales"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "City-Hochhaus Leipzig",
+  "q": "How many floors are there in this building?",
+  "ans": "10 floors.",
+  "cands": [
+   "36"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Auricularia auricula-judae",
+  "q": "Does this fungus have medical use?",
+  "ans": "Yes, some fungi have medical uses.",
+  "cands": [
+   "Yes"
+  ],
+  "hit": true,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Psidium cattleyanum",
+  "q": "Can I eat this plant or it fruits?",
+  "ans": "Yes, it fruits.",
+  "cands": [
+   "Yrs"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Santa Fe Reservoir",
+  "q": "In which country is this reservoir located?",
+  "ans": "Lake Victoria",
+  "cands": [
+   "Spain"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Biggesee",
+  "q": "In which country is this reservoir located?",
+  "ans": "Lake Victoria",
+  "cands": [
+   "Germany"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Basilica of Saint Martin, Tours",
+  "q": "In which city is this monastery located?",
+  "ans": "Budapest",
+  "cands": [
+   "France"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Piața Unirii, Cluj-Napoca",
+  "q": "In which country is this square located?",
+  "ans": "Paris, France",
+  "cands": [
+   "Romania"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Lindenhof (Rapperswil)",
+  "q": "When were the latest renovations or repairs in this place?",
+  "ans": "2023",
+  "cands": [
+   "2012"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Schloss Seehof",
+  "q": "In which country is this palace located?",
+  "ans": "France",
+  "cands": [
+   "Germany"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Baro Shona Masjid",
+  "q": "What is the architectural style of this mosque?",
+  "ans": "Arabesque and Islamic architecture.",
+  "cands": [
+   "Indo-Arabi"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Trichonephila edulis",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "ndonesia from Java eastwards, Papua New Guinea, Australia, northern New Zealand, and New Caledonia."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Basilica of the Assumption of the Blessed Virgin Mary, Krzeszów",
+  "q": "What religious denomination is associated to this place?",
+  "ans": "Christianity",
+  "cands": [
+   "Roman Catholic"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Shimo-fukushima Park",
+  "q": "In which city is this park located?",
+  "ans": "New York City",
+  "cands": [
+   "Osaka"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Osorno (volcano)",
+  "q": "What type of rock is this mountain composed of?",
+  "ans": "Granite.",
+  "cands": [
+   "basalt and andesite"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Nyköping Castle",
+  "q": "When was this castle built?",
+  "ans": "12th century",
+  "cands": [
+   "12th century"
+  ],
+  "hit": true,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Bubalus bubalis",
+  "q": "How long is this animal typically pregnant?",
+  "ans": "150 days",
+  "cands": [
+   "300 and 320 days."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Altunizade Mosque",
+  "q": "In which country is this mosque located?",
+  "ans": "Saudi Arabia",
+  "cands": [
+   "Turkey"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Amanita augusta",
+  "q": "On what does this fungi typically grow? ",
+  "ans": "Wood, bark, and other organic matter.",
+  "cands": [
+   "mixed woodlands."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Auricularia auricula-judae",
+  "q": "Is this fungus edible?",
+  "ans": "Yes, it is edible.",
+  "cands": [
+   "Yes"
+  ],
+  "hit": true,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Catopsilia pomona",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "Asia,Cambodia,Australia"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Austrolestes leda",
+  "q": "Where is this insect native?",
+  "ans": "Europe",
+  "cands": [
+   "eastern Australia"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Calidris subruficollis",
+  "q": "How many eggs does this bird typically lay?",
+  "ans": "3-12 eggs",
+  "cands": [
+   "four"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Haldea striatula",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "7–10 inches",
+   "7–10 inches",
+   "7–10 inches"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Santa Fe Reservoir",
+  "q": "Which rivers flow into this reservoir?",
+  "ans": "The rivers that flow into the reservoir are the Mississippi, Missouri, and Ohio Rivers.",
+  "cands": [
+   "Tordera River"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Menger Hotel",
+  "q": "Where does this hotel derive its name from?",
+  "ans": "The hotel is named after the nearby Mount Rushmore.",
+  "cands": [
+   "William and Mary Menger"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Holocnemus pluchei",
+  "q": "Which animals eat this species?",
+  "ans": "Predators",
+  "cands": [
+   "Portia fimbriata and Portia labiata",
+   "Portia fimbriata and Portia labiata",
+   "Portia fimbriata and Portia labiata."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Anaxyrus fowleri",
+  "q": "In which time of year does this species lay eggs?",
+  "ans": "Spring",
+  "cands": [
+   "spring",
+   "spring",
+   "spring"
+  ],
+  "hit": true,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Psidium cattleyanum",
+  "q": "Which animals eats the fruits / leaves of this plant?",
+  "ans": "Monkeys",
+  "cands": [
+   "Human"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Prospero autumnale",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "Mediterranean region from Portugal and Morocco east to Turkey and the Caucasus, plus Great BritainMediterranean region from Portugal and Morocco east to Turkey and the Caucasus, plus Great Britain"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Crotalus pyrrhus",
+  "q": "In this reptile venomous?",
+  "ans": "Yes, some reptiles are venomous.",
+  "cands": [
+   "Yes",
+   "Yes",
+   "Yes"
+  ],
+  "hit": true,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Central Scherbakov Park of Culture and Leisure",
+  "q": "When were the latest renovations or repairs in this park?",
+  "ans": "2023",
+  "cands": [
+   "2006"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Baliati Zamindari",
+  "q": "In which country is this palace located?",
+  "ans": "France",
+  "cands": [
+   "Bangladesh"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Scupi",
+  "q": "In what country is this place located?",
+  "ans": "United States",
+  "cands": [
+   "Macedonia"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Halten Lighthouse",
+  "q": "How frequently does this lighthouse give a light signal?",
+  "ans": "Every 10 seconds.",
+  "cands": [
+   "every four seconds"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Otospermophilus variegatus",
+  "q": "How does this animal protect itself against predators?",
+  "ans": "Camo, fight, run away.",
+  "cands": [
+   "make menacing movements and even throw debris"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Halten Lighthouse",
+  "q": "How tall is this lighthouse?",
+  "ans": "150 feet",
+  "cands": [
+   "29.5-metre"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Loxosceles reclusa",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "woodpiles and sheds, closets, garages, plenum spaces, cellars, and other places that are dry and generally undisturbed"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Calidris canutus",
+  "q": "What is the wingspan of this bird in cm?",
+  "ans": "100 cm",
+  "cands": [
+   "47–53 cm (19–21 in)"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Ravning Bridge",
+  "q": "When was this bridge built?",
+  "ans": "1936",
+  "cands": [
+   "980 AD"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Alcelaphus buselaphus",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "dry savannas and wooded grasslands, hartebeest"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Saltram House",
+  "q": "In which country is this house located?",
+  "ans": "United States",
+  "cands": [
+   "England",
+   "England"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Balderhead Reservoir",
+  "q": "In which country is this reservoir located?",
+  "ans": "Lake Victoria",
+  "cands": [
+   "England"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Hyla intermedia",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "Italy, Slovenia, Switzerland, San Marino"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Anaxyrus fowleri",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "open woodlands, sand prairies, meadows, and beaches",
+   "open woodlands, sand prairies, meadows, and beaches",
+   "woodlands, sand prairies, meadows, and beaches."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Silent Valley Reservoir",
+  "q": "In which country is this reservoir located?",
+  "ans": "Lake Victoria",
+  "cands": [
+   "Northern Ireland"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Cercocarpus ledifolius",
+  "q": "What kind of medical usage has this plant?",
+  "ans": "Medicinal use",
+  "cands": [
+   "Native American groups,Paiute and Shoshone."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Khaplu Palace",
+  "q": "How many rooms does this hotel have?",
+  "ans": "100 rooms.",
+  "cands": [
+   "21"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Vulpes vulpes",
+  "q": "To how many children does a female typically give birth?",
+  "ans": "Two",
+  "cands": [
+   "13 kits"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Kandy Lake",
+  "q": "Which birds live near this reservoir?",
+  "ans": "Waterfowl, ducks, geese, and herons.",
+  "cands": [
+   "Indian cormorant, white egret crane, wood stork and pelican"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Silent Valley Reservoir",
+  "q": "What dam is located next to this reservoir?",
+  "ans": "Lake Mead Dam",
+  "cands": [
+   "Silent Valley Dam"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Dendraster excentricus",
+  "q": "How big is an adult of this animal?",
+  "ans": "Adults range from 1 to 2 meters in length.",
+  "cands": [
+   "76 mm",
+   "till 120mm",
+   "76 mm to 120 mm"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Chelydra serpentina",
+  "q": "How old does this reptile become?",
+  "ans": "100 years",
+  "cands": [
+   "100 years."
+  ],
+  "hit": true,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "375 Pearl Street",
+  "q": "How many floors are there in this building?",
+  "ans": "10 floors.",
+  "cands": [
+   "32"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Melanitta perspicillata",
+  "q": "What is the typical weight of this bird when mature?",
+  "ans": "10-20 grams",
+  "cands": [
+   "900 to 1050 gram"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Baptisia bracteata",
+  "q": "Is this plant poisonous?",
+  "ans": "Yes, it is.",
+  "cands": [
+   "yes"
+  ],
+  "hit": true,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Chordeiles acutipennis",
+  "q": "How many eggs does this bird typically lay?",
+  "ans": "3-12 eggs",
+  "cands": [
+   "two"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Cantacuzino Palace",
+  "q": "In which city is this palace located?",
+  "ans": "Versailles",
+  "cands": [
+   "Bucharest"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Panteleymonovsky Bridge",
+  "q": "Which river does this bridge cross?",
+  "ans": "The Mississippi River.",
+  "cands": [
+   "Fontanka River"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Santa Fe Reservoir",
+  "q": "What dam is located next to this reservoir?",
+  "ans": "Lake Mead Dam",
+  "cands": [
+   "Santa Fe dam"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "U.S. Bancorp Tower",
+  "q": "Is this the tallest building in the city?",
+  "ans": "Yes, it is.",
+  "cands": [
+   "No"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Frangula alnus",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "3–6 m (10–20 ft), occasionally to 7 m (23 ft) tall"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Monfero Abbey",
+  "q": "What is the architectural style of this monastery?",
+  "ans": "Romanesque",
+  "cands": [
+   "Baroque"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Crotalus pyrrhus",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "hillsides, canyons, talus slopes and rock ledges.",
+   "hillsides, canyons, talus slopes and rock ledges",
+   "hillsides,canyons, talus slopes and rock ledges"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Madison Square and Madison Square Park",
+  "q": "How large is this square?",
+  "ans": "10 feet by 10 feet.",
+  "cands": [
+   "6.2-acre"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Entoloma abortivum",
+  "q": "Is this fungus edible?",
+  "ans": "Yes, it is edible.",
+  "cands": [
+   "Yes",
+   "yes",
+   "Yes"
+  ],
+  "hit": true,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Umayyad Palace",
+  "q": "In which city is this palace located?",
+  "ans": "Versailles",
+  "cands": [
+   "Amman"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Alcázar de Colón",
+  "q": "In which city is this museum located?",
+  "ans": "New York City",
+  "cands": [
+   "Santo Domingo city"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Cercocarpus ledifolius",
+  "q": "Which animals eats the fruits / leaves of this plant?",
+  "ans": "Monkeys",
+  "cands": [
+   "deer year-round."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Altunizade Mosque",
+  "q": "What is the architectural style of this mosque?",
+  "ans": "Arabesque and Islamic architecture.",
+  "cands": [
+   "Baroque Revival architecture"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Royal Pavilion",
+  "q": "Who lived here that was a member of a royal family?",
+  "ans": "Queen Elizabeth II",
+  "cands": [
+   "William IV"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Pavonia lasiopetala",
+  "q": "Which animals eats the fruits / leaves of this plant?",
+  "ans": "Monkeys",
+  "cands": [
+   "livestock"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Svensky Monastery",
+  "q": "Who designed this monastery?",
+  "ans": "Bernard of Clairvaux",
+  "cands": [
+   "Ivan Fyodorovich Michurin"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Pantherophis vulpinus",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "woodland, prairie, farmland, pastures and marshlands",
+   "woodland, prairie, farmland, pastures and marshlands.",
+   "woodland, prairie, farmland, pastures and marshlands"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Arena da Amazônia",
+  "q": "How many people can this stadium host?",
+  "ans": "10,000",
+  "cands": [
+   "44,300"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Strongylocentrotus droebachiensis",
+  "q": "How big is an adult of this animal?",
+  "ans": "Adults range from 1 to 2 meters in length.",
+  "cands": [
+   "50 mm",
+   "50-87mm",
+   "50 mm to 87mm"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Rhinella arenarum",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "small ponds or bogs with stagnant water, in dry, temperate habitats, mostly in open areas",
+   "small ponds or bogs with stagnant water, in dry, temperate habitats, open areas",
+   "small ponds or bogs with stagnant water, dry, temperate habitats, open areas"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Millennium Tower (Rotterdam)",
+  "q": "In which city is this hotel located?",
+  "ans": "New York City",
+  "cands": [
+   "Rotterdam",
+   "Rotterdam"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Arena da Amazônia",
+  "q": "Where does this stadium derive its name from?",
+  "ans": "The stadium is named after the city of Chicago.",
+  "cands": [
+   "Amazon rainforest"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Lower Peirce Reservoir",
+  "q": "Which rivers flow into this reservoir?",
+  "ans": "The rivers that flow into the reservoir are the Mississippi, Missouri, and Ohio Rivers.",
+  "cands": [
+   "Kallang River"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Arena da Amazônia",
+  "q": "Who designed this stadium?",
+  "ans": "The stadium was designed by Santiago Calatrava.",
+  "cands": [
+   "Gerkan, Marg and Partners"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Sentinel Island Light",
+  "q": "In which year whas this lighthouse built?",
+  "ans": "1859",
+  "cands": [
+   "1930"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Princes Street Gardens",
+  "q": "In which country is this park located?",
+  "ans": "United States",
+  "cands": [
+   "Scotland"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Kelletia kelletii",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "subtidal kelp forests, rocky reefs, and cobble-sand interfaces"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Tragelaphus scriptus",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "rain forests, montane forests, forest-savanna mosaic, savanna, bushveld and woodland"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Lower Peirce Reservoir",
+  "q": "What is the surface area of this reservoir?",
+  "ans": "Surface area not provided, please measure or calculate.",
+  "cands": [
+   "6 hectares"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Costaconvexa centrostrigaria",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "most of North America",
+   "most of North America",
+   "North America"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Esplanade Zagreb Hotel",
+  "q": "Where does this hotel derive its name from?",
+  "ans": "The hotel is named after the nearby Mount Rushmore.",
+  "cands": [
+   "field\", probably because it was built on a vast plain to the west of the station"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Desmognathus quadramaculatus",
+  "q": "How many eggs does this species lay?",
+  "ans": "10-20 eggs",
+  "cands": [
+   "fifteen to forty eggs"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Brough of Birsay",
+  "q": "What lighthouse is located on this island?",
+  "ans": "Lighthouse on the island",
+  "cands": [
+   "Brough of Birsay Lighthouse"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Philoscia muscorum",
+  "q": "What is the common name for this animal?",
+  "ans": "Dog",
+  "cands": [
+   "common striped woodlouse or fast woodlouse"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Junco hyemalis",
+  "q": "How many eggs does this bird typically lay?",
+  "ans": "3-12 eggs",
+  "cands": [
+   "two clutches of four eggs"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Eleftheria square",
+  "q": "What does this square derive its name from?",
+  "ans": "Square",
+  "cands": [
+   "a competition held at the suggestion of the then Mayor of Nicosia"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Doris montereyensis",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "Alaska, California",
+   "Alaska,  California.",
+   "Alaska, California."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Les Ferreres Aqueduct",
+  "q": "Which river does this bridge cross?",
+  "ans": "The Mississippi River.",
+  "cands": [
+   "Francolí river"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "National Palace (Mexico)",
+  "q": "Who designed this palace?",
+  "ans": "Napoleon I",
+  "cands": [
+   "Rodrigo de Pontocillos"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Crotalus scutulatus",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "high desert, lower mountain slopes, scrub brush",
+   "high desert,  lower mountain,  scrub brush",
+   "high desert, lower mountain slopes and scrub brush"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Erigeron compositus",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "more than 25 cm"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Baratang Island",
+  "q": "What is the most famous building on this island?",
+  "ans": "The Leaning Tower of Pisa.",
+  "cands": [
+   "limestone caves, the Mud Volcano, Parrot Island, and Baludera Beach"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Alligator mississippiensis",
+  "q": "How many egg does this reptile typically lay?",
+  "ans": "10-20 eggs",
+  "cands": [
+   "20 to 50 white eggs,"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Dryobates albolarvatus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "western North America"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Calliteara pudibunda",
+  "q": "What is the wingspan of this insect in mm?",
+  "ans": "20",
+  "cands": [
+   "40–60 mm"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "FirstEnergy Stadium",
+  "q": "What is the name of the main club which plays in this stadium?",
+  "ans": "Manchester United",
+  "cands": [
+   "Cleveland Browns"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Olympiastadion (Munich)",
+  "q": "What was the score for the first match ever held in this stadium?",
+  "ans": "1-0",
+  "cands": [
+   "4–1"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Menger Hotel",
+  "q": "Who designed this hotel?",
+  "ans": "The hotel was designed by Frank Lloyd Wright.",
+  "cands": [
+   "John M. Fries"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Kim Il-sung Square",
+  "q": "When was this square created?",
+  "ans": "1920",
+  "cands": [
+   "1954"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Hippocampus abdominalis",
+  "q": "What is the habitat of this fish? ",
+  "ans": "Freshwater lakes and rivers.",
+  "cands": [
+   "algae, seagrasses and rocky reefs"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Anthothoe albocincta",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "Australia and New Zealand.",
+   "coasts of Australia and New Zealand.",
+   "Australia and New Zealand."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Sylvilagus bachmani",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "western coastal regions of North America."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Casa Na Bolom",
+  "q": "Where does this hotel derive its name from?",
+  "ans": "The hotel is named after the nearby Mount Rushmore.",
+  "cands": [
+   "Mayan word for jaguar, \"bolom.\""
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Anaxyrus terrestris",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "southeastern United States,"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Gallirallus australis",
+  "q": "What is the habitat of this bird? ",
+  "ans": "Forest, savanna, and grasslands.",
+  "cands": [
+   "orests, sub-alpine grassland, sand dunes, rocky shores and modified semi-urban environments."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Keno City Mining Museum",
+  "q": "When was this building built?",
+  "ans": "1930",
+  "cands": [
+   "1922"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Little Moreton Hall",
+  "q": "In which country is this house located?",
+  "ans": "United States",
+  "cands": [
+   "England",
+   "England."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Calliteara pudibunda",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "Europe, Anatolia, Caucasus, western Siberia, eastern Transbaikalia and the Amur basin in south-eastern Russia, Korea, China and northern Vietnam."
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Tragelaphus scriptus",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "all plant matter"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Mont-Saint-Michel Abbey",
+  "q": "Who founded this monastery?",
+  "ans": "St. Benedict",
+  "cands": [
+   "Louis XI"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Sceloporus olivaceus",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "mesquite trees, over areas with a significant amount of ground leaf litter, but they are often found in suburban areas basking on fences or climbing telephone poles"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Anaxyrus fowleri",
+  "q": "How big does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "5 to 9.5 cm",
+   "5 to 9.5 cm",
+   "5 to 9.5 cm"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Sepia apama",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "crustaceans and fish"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Boselaphus tragocamelus",
+  "q": "To how many children does a female typically give birth?",
+  "ans": "Two",
+  "cands": [
+   "single calf or twins (even triplets at times)"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Penthorum sedoides",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "10 to 80 centimeters"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Chrysemys picta",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "fresh waters with soft bottoms, basking sites, and aquatic vegetation"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Entoloma abortivum",
+  "q": "On what does this fungi typically grow? ",
+  "ans": "Wood, bark, and other organic matter.",
+  "cands": [
+   "wood and in leaf litter",
+   "wood and in leaf litter",
+   "wood and in leaf litter"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Maiden Castle, Dorset",
+  "q": "What kind of remains are there in this place?",
+  "ans": "Remains of ancient civilizations.",
+  "cands": [
+   "Iron Age settlement of Duropolis"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Menger Hotel",
+  "q": "In which city is this hotel located?",
+  "ans": "New York City",
+  "cands": [
+   "San Antonio"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Girella nigricans",
+  "q": "In which part(s) of the world does this fish live?",
+  "ans": "The Atlantic Ocean, Mediterranean Sea, and parts of the Indian Ocean.",
+  "cands": [
+   "Eastern Pacific",
+   "Eastern Pacific",
+   "Eastern Pacific"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Altunizade Mosque",
+  "q": "How many minarets are there in this mosque?",
+  "ans": "Three",
+  "cands": [
+   "one"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ },
+ {
+  "title": "Praça da Figueira",
+  "q": "When were the latest renovations or repairs in this place?",
+  "ans": "2023",
+  "cands": [
+   "1999/2000"
+  ],
+  "hit": false,
+  "qtype": "templated",
+  "trunc": false
+ }
+]

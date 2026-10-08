@@ -1,0 +1,16 @@
+%% picins.sty --- minimal local stub
+%%
+%% The real picins package was withdrawn from TeX Live and CTAN (non-free
+%% licence), so CjC.cls' \RequirePackage{picins} fails on a current
+%% installation.  CjC.cls only ever calls \parpic, and only inside its own
+%% `biography' environment; that environment is redefined in paper_cjc.tex
+%% with a two-column minipage, so nothing here has to actually float a
+%% picture.  This stub exists purely so the class loads.
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{picins}[2026/10/01 v0.1 stub for CjC.cls]
+
+% Fallback in case something still calls \parpic: place the content in its
+% own paragraph rather than failing.
+\newcommand\parpic[2][]{\par\noindent#2\par}
+
+\endinput

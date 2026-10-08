@@ -1,0 +1,142 @@
+{
+ "criterion": "alias(answers_match)",
+ "n_anchored": 649,
+ "grader": "alias",
+ "source_new": {
+  "qwen3-vl-2b": "results_adjudicate/syc8_qwen3-vl-2b_text.json",
+  "qwen3-vl-4b": "results_adjudicate/syc8_qwen3-vl-4b_text.json",
+  "qwen3-vl-8b": "results_adjudicate/syc8_qwen3-vl-8b_text.json",
+  "qwen2.5-vl-3b": "results_adjudicate/syc8_qwen2.5-vl-3b_text.json",
+  "qwen2.5-vl-7b": "results_adjudicate/syc8_qwen2.5-vl-7b_text.json"
+ },
+ "predictions": {
+  "sign": "pos",
+  "range_pp": {
+   "qwen3": [
+    12.0,
+    28.0
+   ],
+   "qwen25": [
+    22.0,
+    34.0
+   ]
+  }
+ },
+ "per_family": {
+  "qwen3": {
+   "small": "Qwen3-VL 2B",
+   "large": "Qwen3-VL 8B",
+   "arms": {
+    "adjudicate": {
+     "delta_pp": 2.439024390243902,
+     "p": 1.0,
+     "n_paired": 41,
+     "pkd_small": 0.04878048780487805,
+     "pkd_large": 0.07317073170731707,
+     "flip_up": 0,
+     "flip_down": 1
+    },
+    "adjudicate_len": {
+     "delta_pp": 0.0,
+     "p": 1.0,
+     "n_paired": 29,
+     "pkd_small": 0.1724137931034483,
+     "pkd_large": 0.1724137931034483,
+     "flip_up": 0,
+     "flip_down": 0
+    },
+    "own_only": {
+     "delta_pp": 5.566218809980805,
+     "p": 0.0031126898483937607,
+     "n_paired": 521,
+     "pkd_small": 0.6525911708253359,
+     "pkd_large": 0.708253358925144,
+     "flip_up": 31,
+     "flip_down": 60
+    },
+    "prior": {
+     "delta_pp": 17.738359201773836,
+     "p": 2.7421554294015713e-21,
+     "n_paired": 451,
+     "pkd_small": 0.7095343680709535,
+     "pkd_large": 0.8869179600886918,
+     "flip_up": 3,
+     "flip_down": 83
+    }
+   },
+   "anchors": {
+    "own_only": 5.566218809980805,
+    "prior": 17.738359201773836
+   },
+   "sign_pred_correct": true,
+   "in_predicted_range": false,
+   "between_anchors": false,
+   "len_arm": {
+    "delta_pp": 0.0,
+    "p": 1.0,
+    "n_paired": 29,
+    "same_sign": false,
+    "shift_pp": -2.439024390243902
+   }
+  },
+  "qwen25": {
+   "small": "Qwen2.5-VL 3B",
+   "large": "Qwen2.5-VL 7B",
+   "arms": {
+    "adjudicate": {
+     "delta_pp": 2.2857142857142856,
+     "p": 0.5412561893463135,
+     "n_paired": 175,
+     "pkd_small": 0.32571428571428573,
+     "pkd_large": 0.3485714285714286,
+     "flip_up": 10,
+     "flip_down": 14
+    },
+    "adjudicate_len": {
+     "delta_pp": 8.000000000000002,
+     "p": 0.022655844688415527,
+     "n_paired": 150,
+     "pkd_small": 0.24,
+     "pkd_large": 0.32,
+     "flip_up": 6,
+     "flip_down": 18
+    },
+    "own_only": {
+     "delta_pp": 15.853658536585364,
+     "p": 1.5349117001661815e-13,
+     "n_paired": 492,
+     "pkd_small": 0.4451219512195122,
+     "pkd_large": 0.6036585365853658,
+     "flip_up": 20,
+     "flip_down": 98
+    },
+    "prior": {
+     "delta_pp": 23.478260869565215,
+     "p": 1.582067810090848e-15,
+     "n_paired": 230,
+     "pkd_small": 0.5173913043478261,
+     "pkd_large": 0.7521739130434782,
+     "flip_up": 1,
+     "flip_down": 55
+    }
+   },
+   "anchors": {
+    "own_only": 15.853658536585364,
+    "prior": 23.478260869565215
+   },
+   "sign_pred_correct": true,
+   "in_predicted_range": false,
+   "between_anchors": false,
+   "len_arm": {
+    "delta_pp": 8.000000000000002,
+    "p": 0.022655844688415527,
+    "n_paired": 150,
+    "same_sign": true,
+    "shift_pp": 5.714285714285716
+   }
+  }
+ },
+ "verdict": "预测成功",
+ "sign_all_pos": true,
+ "all_in_predicted_range": false
+}

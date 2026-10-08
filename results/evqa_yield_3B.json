@@ -1,0 +1,5605 @@
+[
+ {
+  "title": "Xerocomus subtomentosus",
+  "q": "On what does this fungi typically grow? ",
+  "ans": "Wood, bark, and other organic matter.",
+  "cands": [
+   "hardwood and conifer trees"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Megastraea undosa",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "coast of California",
+   "coast of California.",
+   "coast of California."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pisaster ochraceus",
+  "q": "How big is an adult of this animal?",
+  "ans": "Adults range from 1 to 2 meters in length.",
+  "cands": [
+   "10 to 25 centimeters",
+   "10 to 25 centimeters"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Emys orbicularis",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "southern and central Europe, West Asia and North Africa."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Rallus aquaticus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "temperate Eurasia from Iceland and Ireland discontinuously to North Africa, Saudi Arabia and western China"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Daphne mezereum",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "Europe and Western Asia, north to northern Scandinavia and Russia"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Mentzelia involucrata",
+  "q": "Can I eat this plant or it fruits?",
+  "ans": "Yes, it fruits.",
+  "cands": [
+   "yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Abudefduf troschelii",
+  "q": "In which part(s) of the world does this fish live?",
+  "ans": "The Atlantic Ocean, Mediterranean Sea, and parts of the Indian Ocean.",
+  "cands": [
+   "Eastern Pacific Ocean",
+   "Eastern Pacific Ocean",
+   "Eastern Pacific Ocean"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Thamnophis ordinoides",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "around 13–38 in (33–97 cm)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Chiton glaucus",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "intertidal or subtidal zones",
+   "intertidal or subtidal zones",
+   "intertidal or subtidal zones"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Panthera leo",
+  "q": "Which animals eat this mammal?",
+  "ans": "Carnivores",
+  "cands": [
+   "Crocodiles"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cladonia rangiferina",
+  "q": "On what does this fungi typically grow? ",
+  "ans": "Wood, bark, and other organic matter.",
+  "cands": [
+   "soil over rock."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Triturus cristatus",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "deciduous woodlands or groves, conifer woods, hedgerows, scrub, swampy meadows, or quarrie"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pantherophis alleghaniensis",
+  "q": "In this reptile venomous?",
+  "ans": "Yes, some reptiles are venomous.",
+  "cands": [
+   "nonvenomous"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Crotalus viridis",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "western United States, southwestern Canada, and northern Mexico",
+   "western United States, southwestern Canada, and northern Mexico",
+   "western United States, southwestern Canada, and northern Mexico."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cyathus stercoreus",
+  "q": "Does this fungus have medical use?",
+  "ans": "Yes, some fungi have medical uses.",
+  "cands": [
+   "Yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Picus viridis",
+  "q": "What is the wingspan of this bird in cm?",
+  "ans": "100 cm",
+  "cands": [
+   "30–36 cm (12–14 in),45–51 cm (18–20 in)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Echinometra mathaei",
+  "q": "What is a common parasite for this animal?",
+  "ans": "Tapeworms",
+  "cands": [
+   "Athanas areteformi,",
+   "Athanas areteformi"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Phlyctenactis tuberculosa",
+  "q": "Who first described this animal?",
+  "ans": "Linnaeus",
+  "cands": [
+   "Jean René Constant Quoy  and Joseph Paul Gaimard",
+   "Jean René Constant Quoy, Joseph Paul Gaimard.",
+   "Jean René Constant Quoy and Joseph Paul Gaimard"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Crotaphopeltis hotamboeia",
+  "q": "What does this reptile eat?",
+  "ans": "This reptile eats insects, small mammals, and other reptiles.",
+  "cands": [
+   "amphibians",
+   "amphibians",
+   "amphibians"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Porophyllum gracile",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "70 centimeters in maximum length"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Caladenia carnea",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "90–150 mm (4–6 in) long and 3–4 mm (0.1–0.2 in) wide."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Zootoca vivipara",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "meadows, swamps, and other damp environment"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Marmota caligata",
+  "q": "Which animals eat this mammal?",
+  "ans": "Carnivores",
+  "cands": [
+   "golden eagles, grizzly , black bears, lynxes, wolves, etc"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Patiriella regularis",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "algae, barnacles and invertebrates.",
+   "algae, barnacles and invertebrates",
+   "algae, barnacles and invertebrates"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cladonia furcata",
+  "q": "Does this fungus have medical use?",
+  "ans": "Yes, some fungi have medical uses.",
+  "cands": [
+   "yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Empusa pennata",
+  "q": "Where is this insect native?",
+  "ans": "Europe",
+  "cands": [
+   "Mediterranean Region , Spain, southern France etc."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Thomisus onustus",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "bees (Apoidea), butterflies (Lepidoptera), hoverflies (Syrphidae), diptera, hymenoptera, and other spiders."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hypholoma fasciculare",
+  "q": "On what does this fungi typically grow? ",
+  "ans": "Wood, bark, and other organic matter.",
+  "cands": [
+   "the dead wood of both deciduous and coniferous trees."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Basiliscus plumifrons",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "3 feet (91 cm)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Nerodia sipedon",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "streams, lakes, and ponds, as well as wetlands"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Coracina novaehollandiae",
+  "q": "Where does this animal reside in winter?",
+  "ans": "South America",
+  "cands": [
+   "Australia"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lithospermum officinale",
+  "q": "What kind of medical usage has this plant?",
+  "ans": "Medicinal use",
+  "cands": [
+   "natural medicinal remedy for various ailments"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Scolopendra heros",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "insects, small vertebrates, including rodents, reptiles, and amphibians"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Anaxyrus americanus",
+  "q": "After what or who was this species named?",
+  "ans": "This species was named after Charles Darwin.",
+  "cands": [
+   "Anaxyrus americanus"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sphecius speciosus",
+  "q": "Which period of the year is this insect active?",
+  "ans": "Spring",
+  "cands": [
+   "late June or early July"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Gavia pacifica",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Pacific coast"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cyprinus carpio",
+  "q": "What does this fish eat?",
+  "ans": "Fish eat fish, plankton, and small invertebrates.",
+  "cands": [
+   "aquatic plants,insects, crustaceans , crawfish, and benthic worms."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Smilax bona-nox",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "eastern part of the U.S.",
+   "eastern part of the U.S.",
+   "U.S"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Panulirus interruptus",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "sea urchins, clams, mussels and worms."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Palthis angulalis",
+  "q": "What is the wingspan of this insect in mm?",
+  "ans": "20",
+  "cands": [
+   "20–26 mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Plexippus paykulli",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "Diptera, Hemiptera, Hymenoptera, Lepidoptera, Odonata, Orthoptera and Aranea"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Bathytoshia brevicaudata",
+  "q": "Who first described this animal?",
+  "ans": "Linnaeus",
+  "cands": [
+   "Frederick Hutton"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tyrannus savana",
+  "q": "What is the typical weight of this bird when mature?",
+  "ans": "10-20 grams",
+  "cands": [
+   "28–32 g (0.99–1.13 oz)."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Microcentrum retinerve",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "North America."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sphecius speciosus",
+  "q": "Where is the nest of this insect?",
+  "ans": "Under leaves or in soil.",
+  "cands": [
+   "hunt cicadas and provision their nests"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Bufo bankorensis",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "broadleaf forests, cultivated fields, mixed forests, and orchards.",
+   "broadleaf forests, cultivated fields, mixed forests, and orchards",
+   "broadleaf forests, cultivated fields, mixed forests, and orchards"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Bixa orellana",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "6–10 m"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Thelacantha brevispina",
+  "q": "How big is an adult of this species typically?",
+  "ans": "Adults typically range from 10 to 20 cm in length.",
+  "cands": [
+   "3 to 10 mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Boselaphus tragocamelus",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "short bushes and scattered trees in scrub forests and grassy plains.agricultural lands, but hardly occur in dense woods. roams in the prairies, scrub forests and oak forests."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cuculus canorus",
+  "q": "What is the typical weight of this bird when mature?",
+  "ans": "10-20 grams",
+  "cands": [
+   "Males 130 grams (4.6 oz) and females 110 grams (3.9 oz)."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Chiton glaucus",
+  "q": "Who are the preditors of this animal?",
+  "ans": "Predators include wolves, bears, and cougars.",
+  "cands": [
+   "sea stars, crabs, sea snails, birds, and fish",
+   "sea stars, crabs, sea snails, birds, and fish",
+   "sea stars, crabs, sea snails, birds, and fish."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sternotherus odoratus",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "wetland habitats and littoral zones",
+   "wetland habitats and littoral zones",
+   "wetland habitats and littoral zones"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Larus occidentalis",
+  "q": "What does this bird eat?",
+  "ans": "This bird eats insects.",
+  "cands": [
+   "seal and sea lion carcasses and roadkill, as well as cockles, starfish, limpets and snails"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Littorina obtusata",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "the Baltic Sea, European waters, Mediterranean Sea, Northeast Atlantic Ocean",
+   "Baltic Sea,  European waters,  Mediterranean Sea, Northeast Atlantic Ocean",
+   "Baltic Sea, European waters, Mediterranean Sea,Northeast Atlantic Ocean"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Eupsittula canicularis",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "western Mexico to Costa Rica"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Crotophaga sulcirostris",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "southern Texas, central Mexico, The Bahamas, Central America, northern Colombia, Venezuela, coastal Ecuador and Peru"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Morpho helenor",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "Central and South America from Mexico to Argentina"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Coronella austriaca",
+  "q": "In this reptile venomous?",
+  "ans": "Yes, some reptiles are venomous.",
+  "cands": [
+   "non-venomous"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Zenaida macroura",
+  "q": "What is the wingspan of this bird in cm?",
+  "ans": "100 cm",
+  "cands": [
+   "37–45 cm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Americoliva sayana",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "bivalves and small crustaceans"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Fomitopsis pinicola",
+  "q": "Is this fungus edible?",
+  "ans": "Yes, it is edible.",
+  "cands": [
+   "No",
+   "no",
+   "No"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Kaloula pulchra",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "northeastern India, and Nepal, to southern India and Sri Lanka to southern China (especially Hainan) and Myanmar,"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sternotherus carinatus",
+  "q": "How old does this reptile become?",
+  "ans": "100 years",
+  "cands": [
+   "20 and 50 years"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Gambusia affinis",
+  "q": "Is this fish poisonous for humans?",
+  "ans": "Yes, some fish can be toxic to humans.",
+  "cands": [
+   "mosquitofish has been harmful"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Nephila pilipes",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "forests and gardens",
+   "forests and gardens",
+   "forests and gardens"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Rhabdomys pumilio",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "southern half of Africa"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cupido minimus",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "Europe, Asia Minor, Transcaucasia, Tian-Shan, western Siberia,etc"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Protonotaria citrea",
+  "q": "What does this bird eat?",
+  "ans": "This bird eats insects.",
+  "cands": [
+   "low foliage, mainly for insects and snails."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Eulamprus quoyii",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "115mm",
+   "115mm",
+   "115mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Anaxyrus quercicus",
+  "q": "How big does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "18 to 19.4 mm (0.71 to 0.76 in)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sterna striata",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "New Zealand and Australia"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pinicola enucleator",
+  "q": "Where does this animal reside in winter?",
+  "ans": "South America",
+  "cands": [
+   "United States."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Agaricus augustus",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "8–30 cm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Armillaria mellea",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "3 to 15 cm (1 to 6 in)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Canis latrans",
+  "q": "Which animals eat this mammal?",
+  "ans": "Carnivores",
+  "cands": [
+   "American black and grizzly bears, American alligators, large Canada lynx and golden eagles"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Urocyon cinereoargenteus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "southern half of North America, southern Canada  to the northern part of South America"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tadorna ferruginea",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "north west Africa and Ethiopia."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tadarida brasiliensis",
+  "q": "To how many children does a female typically give birth?",
+  "ans": "Two",
+  "cands": [
+   "one young being born"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Nyssa sylvatica",
+  "q": "Is this plant poisonous?",
+  "ans": "Yes, it is.",
+  "cands": [
+   "No"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Polypedates leucomystax",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "dry forests,lowland forests,moist montane forests,moist shrubland,wet or flooded lowland grassland, rivers, intermittent rivers, freshwater lakes, intermittent freshwater lakes, freshwater marshes, intermittent freshwater marshes, freshwater springs, rocky shores, coastal freshwater lagoons, arable land, pastureland, plantations, rural gardens, urban areas, water storage areas, ponds, aquaculture ponds, irrigated land, seasonally flooded agricultural land,"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Anicla infecta",
+  "q": "Which period of the year is this insect active?",
+  "ans": "Spring",
+  "cands": [
+   "June to September",
+   "June to September",
+   "June to September"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Aseroe rubra",
+  "q": "Which animals eat this fungus?",
+  "ans": "Mushroom-eating animals, such as woodpeckers and certain birds.",
+  "cands": [
+   "flies"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Esox niger",
+  "q": "What does this fish eat?",
+  "ans": "Fish eat fish, plankton, and small invertebrates.",
+  "cands": [
+   "smaller fishs, snakes, worms, mice, crayfish etc."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lythrum alatum",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "central and eastern United States and Ontario"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Plestiodon skiltonianus",
+  "q": "What does this reptile eat?",
+  "ans": "This reptile eats insects, small mammals, and other reptiles.",
+  "cands": [
+   "Crickets, beetles, moths, grasshoppers,"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Idia rotundalis",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "detritus,dead leaves."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Phoca vitulina",
+  "q": "To how many children does a female typically give birth?",
+  "ans": "Two",
+  "cands": [
+   "single pups"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Nerodia erythrogaster",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "river, floodplains, lakes, ponds, any natural wetlands",
+   "river, floodlands ,ponds, any natural wetland",
+   "river, floodplains, lakes,pond and natural wetlands"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Arothron hispidus",
+  "q": "What does this fish eat?",
+  "ans": "Fish eat fish, plankton, and small invertebrates.",
+  "cands": [
+   "calcareous or coralline algae, molluscs, tunicates, sponges, corals, zoanthids, crabs, polychaetes, starfish, urchins, krill, and silversides."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Leucoma salicis",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "Salix and Populus species"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Callospermophilus lateralis",
+  "q": "How old does this animal typically become?",
+  "ans": "10 years",
+  "cands": [
+   "seven years."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Calliostoma ligatum",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "Alaska, California.",
+   "Alaska, California",
+   "Alaska, California."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Larus occidentalis",
+  "q": "Which animals eat this bird?",
+  "ans": "Eagles, hawks, and owls.",
+  "cands": [
+   "other birds, especially ducklings,"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sphecius speciosus",
+  "q": "Where is this insect native?",
+  "ans": "Europe",
+  "cands": [
+   "North America"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Crotalus cerastes",
+  "q": "What does this reptile eat?",
+  "ans": "This reptile eats insects, small mammals, and other reptiles.",
+  "cands": [
+   "lizard,desert rodents"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Rana arvalis",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "Austria, Belarus, Belgium, Czech Republic etc"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tachycineta albiventer",
+  "q": "How many eggs does this bird typically lay?",
+  "ans": "3-12 eggs",
+  "cands": [
+   "three to six"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Phalera bucephala",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "trees and shrubs"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cyclophora packardi",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "Comptonia, Quercus"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Plocepasser mahali",
+  "q": "What is the habitat of this bird? ",
+  "ans": "Forest, savanna, and grasslands.",
+  "cands": [
+   "dry regions with woodland or wooded grassland"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Macrodiplax cora",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "South Asia,Australia"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cornus nuttallii",
+  "q": "What kind of medical usage has this plant?",
+  "ans": "Medicinal use",
+  "cands": [
+   "blood purifier, lung strengthener, stomach treatment etc"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Salvator merianae",
+  "q": "What does this reptile eat?",
+  "ans": "This reptile eats insects, small mammals, and other reptiles.",
+  "cands": [
+   "fish, anurans, other lizards, snakes etc"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hippodamia convergens",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "unhatched eggs,honeydew, nectar and pollen"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Testudo graeca",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "Morocco and Spain"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Salvadora hexalepis",
+  "q": "In this reptile venomous?",
+  "ans": "Yes, some reptiles are venomous.",
+  "cands": [
+   "No"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Callithrix penicillata",
+  "q": "How does this animal protect itself against predators?",
+  "ans": "Camo, fight, run away.",
+  "cands": [
+   "vocalizations and visual scanning"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lacerta bilineata",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "green humid areas, temperate forest, the edges of woods, shrubland, open grassland, arable land, and pastureland"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hippodamia variegata",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "Australia, South Africa, Kenya, India",
+   "Australia, South Africa, Kenya, India",
+   "Australia, South Africa, Kenya, India"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Bombina variegata",
+  "q": "How many eggs does this species lay?",
+  "ans": "10-20 eggs",
+  "cands": [
+   "73 eggs"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Volvopluteus gloiocephalus",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "5–15 cm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Bothriechis schlegelii",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "Central and South America"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Masticophis flagellum",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "United States and Mexico."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cervus elaphus",
+  "q": "How long is this animal typically pregnant?",
+  "ans": "150 days",
+  "cands": [
+   "240 to 262 days"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Daphne mezereum",
+  "q": "Can I eat this plant or it fruits?",
+  "ans": "Yes, it fruits.",
+  "cands": [
+   "No"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Polites themistocles",
+  "q": "Where is this insect native?",
+  "ans": "Europe",
+  "cands": [
+   "North America"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Apostichopus californicus",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "organic matter"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hericium erinaceus",
+  "q": "How large is the mycelium of this fungus?",
+  "ans": "The size of the mycelium can vary greatly depending on the species, but it typically covers a large area, often spanning hundreds or thousands of square meters in some cases.",
+  "cands": [
+   "6–8 x 8–10 um size"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Morella cerifera",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "14m tall"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Litoria fallax",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "Australia , Queensland , Ulladulla, New South Wales"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Scaphinotus angusticollis",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "North America"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Phascolarctos cinereus",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "eucalypt leaves, Acacia, Allocasuarina, Callitris, Leptospermum, and Melaleuc"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Luxilus chrysocephalus",
+  "q": "How big does this fish become typically?",
+  "ans": "Varies by species, but generally up to 10 feet long.",
+  "cands": [
+   "nine inches"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Agrocybe pediades",
+  "q": "Is this fungus edible?",
+  "ans": "Yes, it is edible.",
+  "cands": [
+   "yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Primula elatior",
+  "q": "How do the seeds of this plant spread?",
+  "ans": "Wind, water, animals, or by falling from the plant.",
+  "cands": [
+   "bedding, grown from seed as a biennial, and discarded after flowering."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Capreolus capreolus",
+  "q": "Which animals eat this mammal?",
+  "ans": "Carnivores",
+  "cands": [
+   "Persian leopard"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Acanthocercus atricollis",
+  "q": "When is the mating period?",
+  "ans": "Spring",
+  "cands": [
+   "males August to September and females August to December."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Nasua narica",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "southeastern Arizona,New Mexic, and Central America"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pantherophis guttatus",
+  "q": "When is the mating period?",
+  "ans": "Spring",
+  "cands": [
+   "60–90 day"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Phrynosoma hernandesi",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "15 cm (about 6 inches),"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Oedipoda caerulescens",
+  "q": "Where is this insect native?",
+  "ans": "Europe",
+  "cands": [
+   "Europe, North Africa and Asia",
+   "Europe, North Africa and Asia",
+   "Europe, North Africa and Asia"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Polistes dominula",
+  "q": "Which animal eats this insect?",
+  "ans": "Birds",
+  "cands": [
+   "birds"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Geosciurus inauris",
+  "q": "To how many children does a female typically give birth?",
+  "ans": "Two",
+  "cands": [
+   "1-3 pups"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Porpita porpita",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "the Pacific, Atlantic, Indian oceans, the Mediterranean Sea and eastern Arabian Sea.",
+   "Pacific, Atlantic, Indian oceans, Mediterranean Sea, eastern Arabian Sea",
+   "Pacific, Atlantic, and Indian oceans"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Epimecis hortaria",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "Magnolia, Asimina, Populus, Sassafras and Liriodendron."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Camponotus niveosetosus",
+  "q": "Where is this insect native?",
+  "ans": "Europe",
+  "cands": [
+   "eastern Afrotropics."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Turdus iliacus",
+  "q": "What does this bird eat?",
+  "ans": "This bird eats insects.",
+  "cands": [
+   "insects,earthworms,berries"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Belenois java",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "Australia, Indonesia, and Melanesia"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Diaphania hyalinata",
+  "q": "What is the wingspan of this insect in mm?",
+  "ans": "20",
+  "cands": [
+   "27–30 mm",
+   "27–30 mm",
+   "27–30 mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Monardella villosa",
+  "q": "Which animals eats the fruits / leaves of this plant?",
+  "ans": "Monkeys",
+  "cands": [
+   "butterflies"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cocos nucifera",
+  "q": "Can I eat this plant or it fruits?",
+  "ans": "Yes, it fruits.",
+  "cands": [
+   "yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Myiozetetes similis",
+  "q": "How many eggs does this bird typically lay?",
+  "ans": "3-12 eggs",
+  "cands": [
+   "two to four"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Aphonopelma hentzi",
+  "q": "How big is an adult of this species typically?",
+  "ans": "Adults typically range from 10 to 20 cm in length.",
+  "cands": [
+   "in excess of 4 in (10 cm)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Fundulus diaphanus",
+  "q": "What is the habitat of this fish? ",
+  "ans": "Freshwater lakes and rivers.",
+  "cands": [
+   "clear lakes, ponds, rivers, and estuaries,aquatic vegetation"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Misumenoides formosipes",
+  "q": "How big is an adult of this species typically?",
+  "ans": "Adults typically range from 10 to 20 cm in length.",
+  "cands": [
+   "5.0–11.3 millimetres (0.20–0.44 in)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cairina moschata",
+  "q": "What does this bird eat?",
+  "ans": "This bird eats insects.",
+  "cands": [
+   "grains, corn, grass, insects"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Erigeron compositus",
+  "q": "How do the seeds of this plant spread?",
+  "ans": "Wind, water, animals, or by falling from the plant.",
+  "cands": [
+   "through rhizomes"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Schizophyllum commune",
+  "q": "In what recipe is this fungus used?",
+  "ans": "Stroganoff",
+  "cands": [
+   "Manipuri-style pancakes called paaknam"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Clitocybe nebularis",
+  "q": "Is this fungus edible?",
+  "ans": "Yes, it is edible.",
+  "cands": [
+   "yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Certhia brachydactyla",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Europe and into north Africa"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Dasypus novemcinctus",
+  "q": "To how many children does a female typically give birth?",
+  "ans": "Two",
+  "cands": [
+   "A single egg"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Alliaria petiolata",
+  "q": "In which season does this plant give flowers?",
+  "ans": "Spring",
+  "cands": [
+   "spring"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Batrachoseps attenuatus",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "grasslands and riparian zone"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Gymnosporangium juniperi-virginianae",
+  "q": "In what recipe is this fungus used?",
+  "ans": "Stroganoff",
+  "cands": [
+   "cedars to reduce infection apples junipers"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Diplodus vulgaris",
+  "q": "In which part(s) of the world does this fish live?",
+  "ans": "The Atlantic Ocean, Mediterranean Sea, and parts of the Indian Ocean.",
+  "cands": [
+   "Mediterranean Sea, Black Sea, Eastern Atlantic Ocean",
+   "Mediterranean Sea, Black Sea,  Eastern Atlantic Ocean",
+   "Mediterranean Sea, Black Sea and Eastern Atlantic Ocean"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Iva frutescens",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "coastal eastern North America, Gulf Coast to Texas."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Typha latifolia",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "0.75 to 1 m (2 to 3 ft) of water depth."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Aplodinotus grunniens",
+  "q": "How big does this fish become typically?",
+  "ans": "Varies by species, but generally up to 10 feet long.",
+  "cands": [
+   "15 mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cladonia furcata",
+  "q": "On what does this fungi typically grow? ",
+  "ans": "Wood, bark, and other organic matter.",
+  "cands": [
+   "moss, humus, and soil"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Taricha torosa",
+  "q": "In which region is this a non-native or invasive species?",
+  "ans": "North America",
+  "cands": [
+   "southern California"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Betula pendula",
+  "q": "What kind of medical usage has this plant?",
+  "ans": "Medicinal use",
+  "cands": [
+   "allergy to tree,epidermolysis bullosa"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lampropeltis californiae",
+  "q": "When is the mating period?",
+  "ans": "Spring",
+  "cands": [
+   "40–65 days"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Connochaetes taurinus",
+  "q": "How long is this animal typically pregnant?",
+  "ans": "150 days",
+  "cands": [
+   "8.5 months"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Seiurus aurocapilla",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "eastern North America and winters in Central America, many Caribbean islands, Florida and northern Venezuela."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Martes foina",
+  "q": "Which animals eat this mammal?",
+  "ans": "Carnivores",
+  "cands": [
+   "Red foxes, lynxes and mountain lions"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Kukulcania hibernalis",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "USA,Caribbean, to southern Brazil, Uruguay and Argentina"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cinnyris jugularis",
+  "q": "What is the habitat of this bird? ",
+  "ans": "Forest, savanna, and grasslands.",
+  "cands": [
+   "mangrove habitat,fairly densely populated areas, even forming their nests in human dwellings"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tadorna ferruginea",
+  "q": "What is the habitat of this bird? ",
+  "ans": "Forest, savanna, and grasslands.",
+  "cands": [
+   "large wetlands and rivers with mud flats, shingle banks, sluggish rivers, ponds, flooded grassland, marshes and brackish lagoons."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Gentiana lutea",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "mountains of central and southern Europe"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pictilabrus laticlavius",
+  "q": "How big does this fish become typically?",
+  "ans": "Varies by species, but generally up to 10 feet long.",
+  "cands": [
+   "180 millimeters",
+   "180 millimetres",
+   "95 millimetres"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Amanita jacksonii",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "cap is 8–12 cm wide"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sciurus niger",
+  "q": "How long is this animal typically pregnant?",
+  "ans": "150 days",
+  "cands": [
+   "44 to 45 days"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Woodworthia maculata",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "forested areas, and rocky areas",
+   "forested areas, rocky areas",
+   "forested areas,  rocky areas"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Kinosternon integrum",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "Endemic to Mexico, it is found in Aguascalientes, Colima, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Michoacán, México, Morelos, Nayarit, Oaxaca, Puebla, Queretaro, San Luis Potosí, Sinaloa, Sonora, Tamaulipas and Zacatecas."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Chlorophyllum molybdites",
+  "q": "With which other fungus is this fungus often confused?",
+  "ans": "Mushroom",
+  "cands": [
+   "Lepiota procera and L. rhacodes"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Macropus agilis",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "northern Australia and southern New Guinea."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tegula funebralis",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "rocky intertidal zones",
+   "rocky intertidal zones",
+   "rocky intertidal zones"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Buergeria robusta",
+  "q": "How big does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "4–8 cm",
+   "4-8cm",
+   "4–8 cm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sylvilagus floridanus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "North America."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Usnea longissima",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "15 to 30 cm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cyprinodon variegatus",
+  "q": "What is the habitat of this fish? ",
+  "ans": "Freshwater lakes and rivers.",
+  "cands": [
+   "salt marsh"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Clathrus ruber",
+  "q": "On what does this fungi typically grow? ",
+  "ans": "Wood, bark, and other organic matter.",
+  "cands": [
+   "woody debris, in lawns, gardens, and cultivated soil."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tyrannus savana",
+  "q": "Where does this animal reside in winter?",
+  "ans": "South America",
+  "cands": [
+   "Amazonia"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Funambulus palmarum",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "India (south of the Vindhyas) and Sri Lanka"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Platynota rostrana",
+  "q": "Where is this insect native?",
+  "ans": "Europe",
+  "cands": [
+   "United States",
+   "United states, central and south america, West indies",
+   "United states, Central America to South America,West Indies"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Setophaga americana",
+  "q": "What is the wingspan of this bird in cm?",
+  "ans": "100 cm",
+  "cands": [
+   "16 to 18 cm (6.3 to 7.1 in)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Passerina cyanea",
+  "q": "What does this bird eat?",
+  "ans": "This bird eats insects.",
+  "cands": [
+   "insects, seeds and berries, including caterpillars, grasshoppers, spiders, beetles, and grass seeds"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Neogobius melanostomus",
+  "q": "In which part(s) of the world does this fish live?",
+  "ans": "The Atlantic Ocean, Mediterranean Sea, and parts of the Indian Ocean.",
+  "cands": [
+   "Central Eurasia,Black Sea and Caspian Sea."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Fundulus heteroclitus",
+  "q": "In which part(s) of the world does this fish live?",
+  "ans": "The Atlantic Ocean, Mediterranean Sea, and parts of the Indian Ocean.",
+  "cands": [
+   "United States and Canada."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Mus musculus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "round homes and commercial structures, as well as in open fields and agricultural lands"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Corylus cornuta",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "throughout most of North America."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Mercenaria mercenaria",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "clams, oysters, and mussels."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Triaenodon obesus",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "bony fishes, including eels, squirrelfishes, snappers, damselfishes, parrotfishes, surgeonfishes, triggerfishes and goatfishes"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Macropus agilis",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "dry open woodland, heaths, dunes and grassland."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Neophron percnopterus",
+  "q": "How many eggs does this bird typically lay?",
+  "ans": "3-12 eggs",
+  "cands": [
+   "two eggs"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Rhododendron columbianum",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "western United States",
+   "eastern United States and western Canada",
+   "western United States"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Agaricus xanthodermus",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "5–15 cm (2–6 in) in diameter."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Galerina marginata",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "6 cm (2+3⁄8 in)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Platycryptus undatus",
+  "q": "How does these animals survive winter?",
+  "ans": "Hibernate or migrate.",
+  "cands": [
+   "silken shelters",
+   "silken shelters",
+   "silken shelters."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Heloderma suspectum",
+  "q": "How old does this reptile become?",
+  "ans": "100 years",
+  "cands": [
+   "40 years"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Campostoma anomalum",
+  "q": "What is the habitat of this fish? ",
+  "ans": "Freshwater lakes and rivers.",
+  "cands": [
+   "riffles and pools"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tursiops truncatus",
+  "q": "How does this animal protect itself against predators?",
+  "ans": "Camo, fight, run away.",
+  "cands": [
+   "intelligence"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ophisaurus attenuatus",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "United States."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Crocus vernus",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "Alps, the Pyrenees, and the Balkans"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pantherophis guttatus",
+  "q": "How old does this reptile become?",
+  "ans": "100 years",
+  "cands": [
+   "23 years or more"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Indotyphlops braminus",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "Africa,Asia,Australia, America, and Oceania"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Vanellus spinosus",
+  "q": "How many eggs does this bird typically lay?",
+  "ans": "3-12 eggs",
+  "cands": [
+   "four"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Megastraea undosa",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "40 mm-145 mm",
+   "40 mm -145 mm",
+   "40 mm -145 mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sterna striata",
+  "q": "What is the habitat of this bird? ",
+  "ans": "Forest, savanna, and grasslands.",
+  "cands": [
+   "coastal areas, white-fronted terns frequent coastal cliffs, offshore rock-stacks and small islands"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Aspidoscelis gularis",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "6.5 to 11 inches (17 to 28 cm)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Helpis minitabunda",
+  "q": "How big is an adult of this species typically?",
+  "ans": "Adults typically range from 10 to 20 cm in length.",
+  "cands": [
+   "8-10mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Crotalus cerastes",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "43 to 80 cm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Geraea canescens",
+  "q": "Is this plant poisonous?",
+  "ans": "Yes, it is.",
+  "cands": [
+   "no",
+   "No",
+   "No"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Laccaria laccata",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "2–6 cm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Asterias rubens",
+  "q": "What is the common name for this animal?",
+  "ans": "Dog",
+  "cands": [
+   "common sea star or sugar starfish"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ornithorhynchus anatinus",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "annelid worms, insect larvae, freshwater shrimp, and freshwater yabby (crayfish)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hypomyces chrysospermus",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "10–30 by 5–12 μm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pogonomyrmex californicus",
+  "q": "Where is this insect native?",
+  "ans": "Europe",
+  "cands": [
+   "North America"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hippocampus histrix",
+  "q": "How big does this fish become typically?",
+  "ans": "Varies by species, but generally up to 10 feet long.",
+  "cands": [
+   "15–17 cm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Centruroides vittatus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "South-Central US states and northern Mexico, Iowa, Kentucky, Louisiana, Mississippi, Missouri, North Carolina, Tennessee, Arizona, California, and Colorado"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cercopithecus mitis",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Central and East Africa, ranging from the upper Congo River basin east to the East African Rift and south to northern Angola and Zambia."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Kelletia kelletii",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "Mexico to USA"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sciurus vulgaris",
+  "q": "How long is this animal typically pregnant?",
+  "ans": "150 days",
+  "cands": [
+   "38 to 39 days"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hyla arenicolor",
+  "q": "How many eggs does this species lay?",
+  "ans": "10-20 eggs",
+  "cands": [
+   "100 or more eggs"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hermissenda opalescens",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "Northern California, Mexico",
+   "Northern California, Mexico",
+   "Northern California, Mexico."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lepisosteus platyrhincus",
+  "q": "In which part(s) of the world does this fish live?",
+  "ans": "The Atlantic Ocean, Mediterranean Sea, and parts of the Indian Ocean.",
+  "cands": [
+   "US"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cavia aperea",
+  "q": "How long is this animal typically pregnant?",
+  "ans": "150 days",
+  "cands": [
+   "The gestation period is about 62 days and females can have five litters in a year."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hipparchia semele",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "Europe,western Russia,northern.western Europe."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Toxostoma rufum",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "eastern and central United States, southern and central Canada"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ursus americanus",
+  "q": "How long is this animal typically pregnant?",
+  "ans": "150 days",
+  "cands": [
+   "235 days"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Bombina variegata",
+  "q": "In which region is this a non-native or invasive species?",
+  "ans": "North America",
+  "cands": [
+   "southern Europe and southern Germany"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Agrimonia pilosa",
+  "q": "Is this plant poisonous?",
+  "ans": "Yes, it is.",
+  "cands": [
+   "flowering plant in the family Rosacea"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Rostrhamus sociabilis",
+  "q": "What is the typical weight of this bird when mature?",
+  "ans": "10-20 grams",
+  "cands": [
+   "300 to 570 g (11 to 20 oz)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Semnopithecus entellus",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "tropical dry forests and subtropical or tropical dry shrubland."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ramaria stricta",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "10 cm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Batrachoseps major",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "northern Baja California in Mexico and Southern California in the United States."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Laccaria laccata",
+  "q": "Is this fungus edible?",
+  "ans": "Yes, it is edible.",
+  "cands": [
+   "Yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Hypholoma lateritium",
+  "q": "How large is the mycelium of this fungus?",
+  "ans": "The size of the mycelium can vary greatly depending on the species, but it typically covers a large area, often spanning hundreds or thousands of square meters in some cases.",
+  "cands": [
+   "3.5–10 cm in diameter"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cupido minimus",
+  "q": "Where is this insect native?",
+  "ans": "Europe",
+  "cands": [
+   "Europe, Asia Minor, Transcaucasia, Tian-Shan, western Siberia, etc"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pacifastacus leniusculus",
+  "q": "How long does this animal take care of its children?",
+  "ans": "1 year",
+  "cands": [
+   "2–3 years"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Colias croceus",
+  "q": "What is the wingspan of this insect in mm?",
+  "ans": "20",
+  "cands": [
+   "46–54 millimetres"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Parthenocissus quinquefolia",
+  "q": "Is this plant poisonous?",
+  "ans": "Yes, it is.",
+  "cands": [
+   "yes",
+   "yes",
+   "Yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Lithobates septentrionalis",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "United States, New York and Canada"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Acanthocercus atricollis",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "at high densities in the Kruger National Park."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Capra hircus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Southwest Asia and Eastern Europe"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Acer macrophyllum",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "48 metres",
+   "48 metres",
+   "48 metres"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Neverita duplicata",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "bivalves",
+   "bivalves",
+   "bivalves"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pseudechis porphyriacus",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "1.25 m"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Colaptes chrysoides",
+  "q": "What is the habitat of this bird? ",
+  "ans": "Forest, savanna, and grasslands.",
+  "cands": [
+   "most frequently builds its nest hole in a saguaro cactus, excavating a nest hole nearer to the top than to the ground"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Culaea inconstans",
+  "q": "At what depth does this fish typically occur?",
+  "ans": "100 meters",
+  "cands": [
+   "~ 2,400m"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Mephitis mephitis",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "insects"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Leucosticte tephrocotis",
+  "q": "What is the wingspan of this bird in cm?",
+  "ans": "100 cm",
+  "cands": [
+   "33 cm (13 in)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lophonetta specularioides",
+  "q": "What is the typical weight of this bird when mature?",
+  "ans": "10-20 grams",
+  "cands": [
+   "over a kilogram."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Xylocopa virginica",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "nectar and pollen"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cardiospermum halicacabum",
+  "q": "Is this plant poisonous?",
+  "ans": "Yes, it is.",
+  "cands": [
+   "Yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Zygaena lonicerae",
+  "q": "Which period of the year is this insect active?",
+  "ans": "Spring",
+  "cands": [
+   "June to early August",
+   "June to August"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Polistes chinensis",
+  "q": "Where is the nest of this insect?",
+  "ans": "Under leaves or in soil.",
+  "cands": [
+   "trees , bushes ,  branches , leaves etc"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pogonias cromis",
+  "q": "How big does this fish become typically?",
+  "ans": "Varies by species, but generally up to 10 feet long.",
+  "cands": [
+   "12 to 24 inches"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Calvatia gigantea",
+  "q": "Is this fungus edible?",
+  "ans": "Yes, it is edible.",
+  "cands": [
+   "Yes, When its young"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Natrix natrix",
+  "q": "What does this reptile eat?",
+  "ans": "This reptile eats insects, small mammals, and other reptiles.",
+  "cands": [
+   "amphibians"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tiliqua scincoides",
+  "q": "How many egg does this reptile typically lay?",
+  "ans": "10-20 eggs",
+  "cands": [
+   "5 to 25 live young",
+   "5 to 25",
+   "5 to 25"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ranoidea caerulea",
+  "q": "After what or who was this species named?",
+  "ans": "This species was named after Charles Darwin.",
+  "cands": [
+   "Litoria caerulea"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Entoloma hochstetteri",
+  "q": "With which other fungus is this fungus often confused?",
+  "ans": "Mushroom",
+  "cands": [
+   "E. hochstetteri, E. virescens"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Dorosoma cepedianum",
+  "q": "Which animals eat this fish?",
+  "ans": "Sharks, tuna, and other large predatory fish.",
+  "cands": [
+   "game fish"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Anicla infecta",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "beets, grasses and tobacco",
+   "beets, grasses and tobacco",
+   "beets, grasses and tobacco"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Marmota monax",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "low-elevation forests, small woodlots, fields, pastures, and hedgerows"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sylvilagus audubonii",
+  "q": "Which animals eat this mammal?",
+  "ans": "Carnivores",
+  "cands": [
+   "Birds, mustelids, coyote, bobcat, wolves, mountain lions, snakes, weasels, humans, and even squirrels, cats and dogs."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Thalassoma bifasciatum",
+  "q": "Which animals eat this fish?",
+  "ans": "Sharks, tuna, and other large predatory fish.",
+  "cands": [
+   "greater soapfish, roughtail stingray, and the trumpetfish"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Panellus stipticus",
+  "q": "With which other fungus is this fungus often confused?",
+  "ans": "Mushroom",
+  "cands": [
+   "The ruddy panus mushroom"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Misumena vatia",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "North America and Europe",
+   "North America and Europe",
+   "North America and Europe."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Nyssus coloripes",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Australia and New Zealand",
+   "Australia and New Zealand.",
+   "Australia and New Zealand."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Uta stansburiana",
+  "q": "What does this reptile eat?",
+  "ans": "This reptile eats insects, small mammals, and other reptiles.",
+  "cands": [
+   "Arthropods"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Gopherus agassizii",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "25 to 36 cm (10 to 14 in),"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Natrix natrix",
+  "q": "In this reptile venomous?",
+  "ans": "Yes, some reptiles are venomous.",
+  "cands": [
+   "yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Conepatus leuconotus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Mexico"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Nymphalis xanthomelas",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "eastern Europe and Asia"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ageratum conyzoides",
+  "q": "Is this plant poisonous?",
+  "ans": "Yes, it is.",
+  "cands": [
+   "mass poisoning incident in Ethiopia as a result of contamination of grain with A. conyzoides"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Suillus granulatus",
+  "q": "With which other fungus is this fungus often confused?",
+  "ans": "Mushroom",
+  "cands": [
+   "Suillus luteus"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ochotona princeps",
+  "q": "How does this animal protect itself against predators?",
+  "ans": "Camo, fight, run away.",
+  "cands": [
+   "calls and songs"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Chamaeleo chamaeleon",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "20–40 cm (8–16 inches),"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pitangus sulphuratus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Lower Rio Grande Valley in southern Texas south through Central America to southern Argentina"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Taeniura lymma",
+  "q": "Who first described this animal?",
+  "ans": "Linnaeus",
+  "cands": [
+   "Peter Forsskål"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Stellaria media",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "Asia, Europe, North America etc."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pseudechis porphyriacus",
+  "q": "What does this reptile eat?",
+  "ans": "This reptile eats insects, small mammals, and other reptiles.",
+  "cands": [
+   "frogs, reptiles and small mammals."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Taricha torosa",
+  "q": "If this animal releases toxic substances, what are its effects?",
+  "ans": "Toxic reactions vary, but can include poisoning, allergic reactions, or severe health issues.",
+  "cands": [
+   "kill most vertebrates including humans."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ceratosoma amoenum",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "southern Australia and northern New Zealand."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Kaloula pulchra",
+  "q": "How big does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "5.4 to 7.0 cm (2.1 to 2.8 in)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Notechis scutatus",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "wetlands, creeks, dams, and other habitat around watercourses",
+   "wetlands, creeks, dams, and other habitat around watercourses, or at shelter"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Zizeeria karsandra",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "southern Mediterranean"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Dolomedes triton",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "ponds, lake shores"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cygnus olor",
+  "q": "What does this bird eat?",
+  "ans": "This bird eats insects.",
+  "cands": [
+   "vegetation,aquatic plants and agricultural crop plants"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Calidris canutus",
+  "q": "What is the typical weight of this bird when mature?",
+  "ans": "10-20 grams",
+  "cands": [
+   "100 and 200 g (3.5 and 7.1 oz)."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sabella spallanzanii",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "northeastern Atlantic Ocean and the Mediterranean Sea."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Rostrhamus sociabilis",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "South America, the Caribbean, and central and southern Florida in the United States"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Teloschistes chrysophthalmus",
+  "q": "On what does this fungi typically grow? ",
+  "ans": "Wood, bark, and other organic matter.",
+  "cands": [
+   "twigs"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Rana luteiventris",
+  "q": "How many eggs does this species lay?",
+  "ans": "10-20 eggs",
+  "cands": [
+   "up to 1300 eggs"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Dascyllus trimaculatus",
+  "q": "In which part(s) of the world does this fish live?",
+  "ans": "The Atlantic Ocean, Mediterranean Sea, and parts of the Indian Ocean.",
+  "cands": [
+   "Indo-Pacific from the Red Sea and East Africa, to the Pitcairn Islands, southern Japan, and Australia"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Amanita flavoconia",
+  "q": "Is this fungus edible?",
+  "ans": "Yes, it is edible.",
+  "cands": [
+   "No"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Mangora acalypha",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Palearctic realm",
+   "Palearctic realm.",
+   "meadows, forests and gardens"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Speyeria aglaja",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "larvae, Viola canina and Viola riviniana."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Boisea trivittata",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "seeds of boxelder, maple, and ash trees"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Carcina quercana",
+  "q": "Where is this insect native?",
+  "ans": "Europe",
+  "cands": [
+   "Europe",
+   "Europe",
+   "Europe"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Vanellus vanellus",
+  "q": "What is the wingspan of this bird in cm?",
+  "ans": "100 cm",
+  "cands": [
+   "67–87 cm (26–34 in)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Oreaster reticulatus",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "Atlantic Ocean and the Caribbean Sea.",
+   "western Atlantic Ocean, Caribbean Sea.",
+   "western Atlantic Ocean and the Caribbean Sea"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Stigmochelys pardalis",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "40 cm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Leucauge argyra",
+  "q": "If this species has a web, what are the features of this web?",
+  "ans": "Spins, sticky, and complex.",
+  "cands": [
+   "Yes"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Clemensia albata",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "Pacific Coast south to Monterey Bay in west-central California"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Stigmochelys pardalis",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "grasslands, thorn-scrub, mesic brushland, and savannas"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lithospermum officinale",
+  "q": "In which season does this plant give flowers?",
+  "ans": "Spring",
+  "cands": [
+   "June – July"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Peniocereus greggii",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "Arizona, New Mexico, Texas (USA)",
+   "Arizona, New Mexico, Texas (USA)",
+   "Arizona, New Mexico, Texas (USA); and Chihuahua, Coahuila, Durango, Sonora, and Zacatecas (Mexico)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cigaritis vulcanus",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "nectar",
+   "Nectar",
+   "Nectar"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Crocodylus porosus",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "India's east coast,Southeast Asia and Micronesia."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Strobilomyces strobilaceus",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "The stipe is up to 14 cm (5.5 in) long and 2 cm (0.8 in) thick."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Apatura iris",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "throughout Europe and china",
+   "Europe, China",
+   "Europe"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Polistes dominula",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "caterpillars, insects"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Alaus oculatus",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "nectar and plant juice",
+   "nectar and plant juice",
+   "nectar and plant juice."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Myodes glareolus",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "buds, bark, seeds, nuts, leaves and fruits,insects and small invertebrates"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Echinometra mathaei",
+  "q": "What is the common name for this animal?",
+  "ans": "Dog",
+  "cands": [
+   "burrowing urchin,",
+   "burrowing urchin",
+   "burrowing urchin"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Macropus rufogriseus",
+  "q": "To how many children does a female typically give birth?",
+  "ans": "Two",
+  "cands": [
+   "one"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Calpodes ethlius",
+  "q": "Where is this insect native?",
+  "ans": "Europe",
+  "cands": [
+   "United States from southern Florida and southern Texas."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cigaritis vulcanus",
+  "q": "What is the wingspan of this insect in mm?",
+  "ans": "20",
+  "cands": [
+   "26–34 mm",
+   "26–34 mm.",
+   "26–34 mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pseudemys concinna",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "Virginia south to central Georgia, west to eastern Texas, Oklahoma, and north to southern India"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Callistege mi",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "Europe, Siberia, the Russian Far East and Asia Minor"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ramphastos ambiguus",
+  "q": "What is the habitat of this bird? ",
+  "ans": "Forest, savanna, and grasslands.",
+  "cands": [
+   "forest"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Magallana gigas",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "80 to 400 mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ostracion meleagris",
+  "q": "In which part(s) of the world does this fish live?",
+  "ans": "The Atlantic Ocean, Mediterranean Sea, and parts of the Indian Ocean.",
+  "cands": [
+   "Indian and Pacific Oceans"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Asclepias speciosa",
+  "q": "Can I eat this plant or it fruits?",
+  "ans": "Yes, it fruits.",
+  "cands": [
+   "speciosa can be boiled and eaten"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Girella zebra",
+  "q": "What is a common parasite for this animal?",
+  "ans": "Tapeworms",
+  "cands": [
+   "flatworms",
+   "flatworms",
+   "flatworms"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Latrodectus hasselti",
+  "q": "If this species has a web, what are the features of this web?",
+  "ans": "Spins, sticky, and complex.",
+  "cands": [
+   "irregular-looking tangle"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Vidua macroura",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Sahara Desert"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Mustela nivalis",
+  "q": "How long is this animal typically pregnant?",
+  "ans": "150 days",
+  "cands": [
+   "34- to 37-day"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Irpex lacteus",
+  "q": "On what does this fungi typically grow? ",
+  "ans": "Wood, bark, and other organic matter.",
+  "cands": [
+   "angiosperm branches and trunks"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lactarius xanthogalactus",
+  "q": "On what does this fungi typically grow? ",
+  "ans": "Wood, bark, and other organic matter.",
+  "cands": [
+   "grow scattered or in groups on the ground under conifers and hardwood"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Thamnophis marcianus",
+  "q": "In this reptile venomous?",
+  "ans": "Yes, some reptiles are venomous.",
+  "cands": [
+   "they do in fact produce a mild neurotoxic venom."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cetonia aurata",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "compost, manure, leaf mould, or rotting wood"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cantharellus californicus",
+  "q": "Is this fungus edible?",
+  "ans": "Yes, it is edible.",
+  "cands": [
+   "wild edible"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Thamnophis marcianus",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "southwestern United States, Mexico, and Central America"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ameiurus melas",
+  "q": "What does this fish eat?",
+  "ans": "Fish eat fish, plankton, and small invertebrates.",
+  "cands": [
+   "grains, other plant matter, insects, dead or living fish, and crustaceans"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Macrolepiota clelandii",
+  "q": "Is this fungus edible?",
+  "ans": "Yes, it is edible.",
+  "cands": [
+   "M. clelandii) are edible."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hibiscus trionum",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "Old World tropics and subtropics"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Crotaphopeltis hotamboeia",
+  "q": "How old does this reptile become?",
+  "ans": "100 years",
+  "cands": [
+   "between 10 and 15 years",
+   "10 and 15 years",
+   "between 10 and 15 years"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Littorina obtusata",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "littoral and sublittoral zone",
+   "littoral and sublittoral zone",
+   "littoral and sublittoral zone"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Scorpis lineolata",
+  "q": "What does this fish eat?",
+  "ans": "Fish eat fish, plankton, and small invertebrates.",
+  "cands": [
+   "plankton over rock reef"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hydnellum peckii",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "10.5 cm (4+1⁄8 in)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Phasianus colchicus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Asia and parts of Europe, Balkans the Black and Caspian Seas to Manchuria, Siberia, Korea, Mainland China, and Taiwan"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pitangus sulphuratus",
+  "q": "What is the habitat of this bird? ",
+  "ans": "Forest, savanna, and grasslands.",
+  "cands": [
+   "open grassland with scattered trees to urban areas"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Coleonyx variegatus",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "creosote bush and sagebrush desert, pinyon-juniper woodland,"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Rhinichthys atratulus",
+  "q": "Which animals eat this fish?",
+  "ans": "Sharks, tuna, and other large predatory fish.",
+  "cands": [
+   "Many larger fish,smallmouth bass, brook trout, brown trout, and rainbow trout"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Mola mola",
+  "q": "At what depth does this fish typically occur?",
+  "ans": "100 meters",
+  "cands": [
+   "greater than 200 m"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cervus elaphus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Morocco and Tunisia, including Australia, New Zealand, the United States, Canada, Peru, Uruguay, Chile and Argentina"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sphaerophoria scripta",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "aphids, nectar and pollen",
+   "aphids, nectar and pollen"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sphenodon punctatus",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "New Zealand"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Aphonopelma iodius",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "United States"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pomacanthus paru",
+  "q": "What does this fish eat?",
+  "ans": "Fish eat fish, plankton, and small invertebrates.",
+  "cands": [
+   "comprises sponges, algae, bryozoans, zoantharians,etc"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Badumna longinqua",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "grasslands, riparian forests and wetlands"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Buccinum undatum",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "height 10 cm and width is 6 cm",
+   "height of 10 cm , width of 6 cm",
+   "height of 10 cm and  width is 6 cm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sympetrum danae",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "northern Europe, Asia, and North America",
+   "northern Europe, Asia, and North America",
+   "Europe, Asia, and North America."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Parkesia noveboracensis",
+  "q": "What is the habitat of this bird? ",
+  "ans": "Forest, savanna, and grasslands.",
+  "cands": [
+   "red mangrove, white mangrove, red mangrove, black mangrove, and scrub."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Clavulinopsis fusiformis",
+  "q": "Which animals eat this fungus?",
+  "ans": "Mushroom-eating animals, such as woodpeckers and certain birds.",
+  "cands": [
+   "spindle-shaped yellow coral,"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Myiodynastes maculatus",
+  "q": "How many eggs does this bird typically lay?",
+  "ans": "3-12 eggs",
+  "cands": [
+   "two or three creamy-white eggs"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Peribatodes rhomboidaria",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "Europe ,Near East and the Maghreb"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Urocyon cinereoargenteus",
+  "q": "Which animals eat this mammal?",
+  "ans": "Carnivores",
+  "cands": [
+   "domestic dog or the coyote"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tegula funebralis",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "rock encrusting algae, macroscopic algae, or organic detritus",
+   "rock encrusting algae, macroscopic algae, or organic detritus",
+   "rock encrusting algae, macroscopic algae, or organic detritus"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Mentha canadensis",
+  "q": "Can I eat this plant or it fruits?",
+  "ans": "Yes, it fruits.",
+  "cands": [
+   "people use mint tea for bad breath or toothache, or to cure hiccups"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Androsace septentrionalis",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "North America, Asia, and Europe"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cydalima perspectalis",
+  "q": "Which period of the year is this insect active?",
+  "ans": "Spring",
+  "cands": [
+   "April/May to September"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tursiops truncatus",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "temperate oceans, and the Indo-Pacific bottlenose dolphin"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Coscinasterias muricata",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "western Indo-Pacific region"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Naso lituratus",
+  "q": "In which part(s) of the world does this fish live?",
+  "ans": "The Atlantic Ocean, Mediterranean Sea, and parts of the Indian Ocean.",
+  "cands": [
+   "Indian Ocean and the Pacific Ocean",
+   "Indian Ocean and the Pacific Ocean",
+   "Indian Ocean and the Pacific Ocean."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cylindropuntia californica",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "Baja california Mexico southernmost part in the United States"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Coluber constrictor",
+  "q": "In this reptile venomous?",
+  "ans": "Yes, some reptiles are venomous.",
+  "cands": [
+   "No"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Gaylussacia baccata",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "150 cm (5 feet) tall",
+   "150 cm (5 feet) tall"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lithobates sphenocephalus",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "cool, clear water, murky waters of coastal and floodplain swamps, twilight zones of caves,abandoned mines."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Acraea issoria",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "western Himalayas, eastern Himalayas"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Leptodeira septentrionalis",
+  "q": "What does this reptile eat?",
+  "ans": "This reptile eats insects, small mammals, and other reptiles.",
+  "cands": [
+   "frogs and their eggs",
+   "frogs and their eggs",
+   "frogs and their eggs"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Salticus scenicus",
+  "q": "How do these animals catch their prey?",
+  "ans": "They use speed, stealth, and specialized senses to catch prey.",
+  "cands": [
+   "courtship dance"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sepia apama",
+  "q": "Who are the preditors of this animal?",
+  "ans": "Predators include wolves, bears, and cougars.",
+  "cands": [
+   "bottlenose dolphins"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Urocyon cinereoargenteus",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "rocky, wooded, brushy regions"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Osteopilus septentrionalis",
+  "q": "How many eggs does this species lay?",
+  "ans": "10-20 eggs",
+  "cands": [
+   "several hundred eggs to over a thousand"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Spisula solidissima",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "offshore,low intertidal and surf zones"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Diloma aethiops",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "rocky intertidal areas",
+   "rocky intertidal areas",
+   "rocky intertidal areas"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Chlorociboria aeruginascens",
+  "q": "On what does this fungi typically grow? ",
+  "ans": "Wood, bark, and other organic matter.",
+  "cands": [
+   "bark-free wood",
+   "bark-free wood"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Rana cascadae",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "forests, temperate grassland, rivers, swamps etc."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Macropus giganteus",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "grasses"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Melanitta deglandi",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "North American"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Smilax glauca",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "5 meters",
+   "5 meters",
+   "5 meters"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pomoxis annularis",
+  "q": "At what depth does this fish typically occur?",
+  "ans": "100 meters",
+  "cands": [
+   "6–12 feet"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Oxybelis aeneus",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "Americas",
+   "Americas",
+   "America"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Austracantha minax",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "blanket shrubs, tree branches, or man-made structures"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Urobatis halleri",
+  "q": "Who first described this animal?",
+  "ans": "Linnaeus",
+  "cands": [
+   "Round stingrays"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Leptoptilos crumenifer",
+  "q": "What does this bird eat?",
+  "ans": "This bird eats insects.",
+  "cands": [
+   "carrion, scraps, and faeces, almost any animal matter"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Leptinotarsa decemlineata",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "buffalo bur, Solanum rostratum"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Anthopleura xanthogrammica",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "sea urchins, small fish,crabs, detached mussels"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lampornis clemenciae",
+  "q": "Where does this animal reside in winter?",
+  "ans": "South America",
+  "cands": [
+   "south,southeastern Arizona."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ostracion meleagris",
+  "q": "How big does this fish become typically?",
+  "ans": "Varies by species, but generally up to 10 feet long.",
+  "cands": [
+   "25 centimetres"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Corytophanes cristatus",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "primary and secondary mesic rain-forest"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Declana floccosa",
+  "q": "What is the wingspan of this insect in mm?",
+  "ans": "20",
+  "cands": [
+   "27–35 mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lasiurus borealis",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "eastern North America"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Turdus iliacus",
+  "q": "Where does this animal reside in winter?",
+  "ans": "South America",
+  "cands": [
+   "wintering in western, central and southern Europe"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pekania pennanti",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "snowshoe hare,porcupines"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Apatura iris",
+  "q": "What is the wingspan of this insect in mm?",
+  "ans": "20",
+  "cands": [
+   "70–80 millimetres",
+   "70–80 millimetres",
+   "70–80 millimetres"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Graphium sarpedon",
+  "q": "Where is this insect native?",
+  "ans": "Europe",
+  "cands": [
+   "South and Southeast Asia, eastern Australia."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Protonotaria citrea",
+  "q": "What is the wingspan of this bird in cm?",
+  "ans": "100 cm",
+  "cands": [
+   "22 cm (8.75 in)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Erythrina herbacea",
+  "q": "Can I eat this plant or it fruits?",
+  "ans": "Yes, it fruits.",
+  "cands": [
+   "Yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Calidris melanotos",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "North America and Asia"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ageratum conyzoides",
+  "q": "What kind of medical usage has this plant?",
+  "ans": "Medicinal use",
+  "cands": [
+   "traditional cultures, against dysentery and diarrhea"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Austracantha minax",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Australia"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Equus asinus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Uganda, Tanzania, Botswana, Niger, Burkina Faso, Mali, and Senegal."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cantharellus californicus",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "5–30 centimetres"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Anemonia viridis",
+  "q": "Is this animal edible?",
+  "ans": "Yes, it is edible.",
+  "cands": [
+   "This species is widely consumed in southwestern Spain"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Camptogramma bilineata",
+  "q": "Which period of the year is this insect active?",
+  "ans": "Spring",
+  "cands": [
+   "June to August."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Polioptila melanura",
+  "q": "How many eggs does this bird typically lay?",
+  "ans": "3-12 eggs",
+  "cands": [
+   "Three to five"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Dicamptodon tenebrosus",
+  "q": "If this animal releases toxic substances, what are its effects?",
+  "ans": "Toxic reactions vary, but can include poisoning, allergic reactions, or severe health issues.",
+  "cands": [
+   "nausea"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Deroceras reticulatum",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "Europe, North Africa and the Atlantic Islands"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Kaloula pulchra",
+  "q": "If this animal releases toxic substances, what are its effects?",
+  "ans": "Toxic reactions vary, but can include poisoning, allergic reactions, or severe health issues.",
+  "cands": [
+   "inflate their lungs and secrete a noxious white substance."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ambystoma jeffersonianum",
+  "q": "After what or who was this species named?",
+  "ans": "This species was named after Charles Darwin.",
+  "cands": [
+   "Jefferson College in Pennsylvania."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Aepyceros melampus",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "woodlands"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Enoplognatha ovata",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "Lithuania"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Notophthalmus viridescens",
+  "q": "How big does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "5 in"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Opheodrys vernalis",
+  "q": "When is the mating period?",
+  "ans": "Spring",
+  "cands": [
+   "late spring or summer"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Gastrophryne carolinensis",
+  "q": "If this animal releases toxic substances, what are its effects?",
+  "ans": "Toxic reactions vary, but can include poisoning, allergic reactions, or severe health issues.",
+  "cands": [
+   "discourage predators",
+   "discourage predators",
+   "discourage predators"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cydalima perspectalis",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "leaves and shoots of Buxus species"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Aythya marila",
+  "q": "What is the wingspan of this bird in cm?",
+  "ans": "100 cm",
+  "cands": [
+   "71–84 cm (28–33 in)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Clarkia rubicunda",
+  "q": "In which season does this plant give flowers?",
+  "ans": "Spring",
+  "cands": [
+   "June and July."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Oligocottus maculosus",
+  "q": "Which animals eat this fish?",
+  "ans": "Sharks, tuna, and other large predatory fish.",
+  "cands": [
+   "diving birds, predatory fishes"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Colias interior",
+  "q": "Which period of the year is this insect active?",
+  "ans": "Spring",
+  "cands": [
+   "June to August",
+   "June to August",
+   "June to August"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Alcelaphus buselaphus",
+  "q": "To how many children does a female typically give birth?",
+  "ans": "Two",
+  "cands": [
+   "Single calf"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hypsiglena jani",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "southwestern United States and adjacent northeastern Mexico."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Rupicapra rupicapra",
+  "q": "Which animals eat this mammal?",
+  "ans": "Carnivores",
+  "cands": [
+   "humans"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lethocerus americanus",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "insects, small crustaceans, tadpoles, snails, and small fish",
+   "insects, small crustaceans, tadpoles, snails, and small fish",
+   "insects, small crustaceans (crabs/crayfish), tadpoles, snails, and small fish"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Latrodectus hesperus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "western regions of North America."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Verpa bohemica",
+  "q": "With which other fungus is this fungus often confused?",
+  "ans": "Mushroom",
+  "cands": [
+   "yes"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Orthonama obstipata",
+  "q": "Where is this insect native?",
+  "ans": "Europe",
+  "cands": [
+   "Europe",
+   "Europe",
+   "Europe"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Leucopaxillus gentianeus",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "4–12 centimeters",
+   "4–12 centimetres",
+   "4–12 centimetres wide and  4–6 centimetres long"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Connochaetes taurinus",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "short-grass plains"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Phyllidia ocellata",
+  "q": "Is this an invasive species?",
+  "ans": "Yes, it is an invasive species.",
+  "cands": [
+   "central Indo-West Pacific Ocean."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lepomis gibbosus",
+  "q": "Is this fish poisonous for humans?",
+  "ans": "Yes, some fish can be toxic to humans.",
+  "cands": [
+   "people consider the meat of a pumpkinseed to be good-tasting"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Artemisia tridentata",
+  "q": "In which season does this plant give flowers?",
+  "ans": "Spring",
+  "cands": [
+   "summer or fall"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hystrix cristata",
+  "q": "To how many children does a female typically give birth?",
+  "ans": "Two",
+  "cands": [
+   "One or two"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hemidactylus mabouia",
+  "q": "What does this reptile eat?",
+  "ans": "This reptile eats insects, small mammals, and other reptiles.",
+  "cands": [
+   "isopods, centipedes, spiders, scorpions, cockroaches, beetles, moths, flies, mosquitoes, anoles and other geckos,Orthoptera species."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Olios giganteus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "United States and Mexico."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Orthonama obstipata",
+  "q": "What is the wingspan of this insect in mm?",
+  "ans": "20",
+  "cands": [
+   "18–21 mm",
+   "18–21 mm",
+   "18–21 mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Rumina decollata",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "Mediterranean excluding south-east Mediterranean"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Nucella lapillus",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "west Atlantic coast of North America"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Opheodrys aestivus",
+  "q": "What does this reptile eat?",
+  "ans": "This reptile eats insects, small mammals, and other reptiles.",
+  "cands": [
+   "insects, arthropods, snails, and frogs",
+   "insects ,arthropods, snails, tree frogs",
+   "insects, arthropods, snails and tree frogs"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lynx rufus",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "wooded areas, semidesert, urban edge, forest edge, and swampland environments"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Viscum album",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "30–100 centimetres"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Charadra dispulsa",
+  "q": "What is the wingspan of this insect in mm?",
+  "ans": "20",
+  "cands": [
+   "34 mm",
+   "34 mm.",
+   "34 mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Clathrus columnatus",
+  "q": "Which animals eat this fungus?",
+  "ans": "Mushroom-eating animals, such as woodpeckers and certain birds.",
+  "cands": [
+   "Psilopyga fasciata"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Asota caricae",
+  "q": "What is the wingspan of this insect in mm?",
+  "ans": "20",
+  "cands": [
+   "51–58 mm",
+   "51–58 mm",
+   "51–58 mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Oncorhynchus kisutch",
+  "q": "What does this fish eat?",
+  "ans": "Fish eat fish, plankton, and small invertebrates.",
+  "cands": [
+   "plankton and aquatic invertebrates in the benthos and water column, such as Chironomids, midge larvae, and terrestrial insects"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Urocyon cinereoargenteus",
+  "q": "How long is this animal typically pregnant?",
+  "ans": "150 days",
+  "cands": [
+   "53 days"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hordeum murinum",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "30 cm in height"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Mimus gilvus",
+  "q": "What does this bird eat?",
+  "ans": "This bird eats insects.",
+  "cands": [
+   "vegetation, insects, arthropods, seeds, small fruits, berries, larger cultivated fruits, lizards, bird and lizard eggs, the contents of bird feeders, and human food"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Neoscona crucifera",
+  "q": "How big is an adult of this species typically?",
+  "ans": "Adults typically range from 10 to 20 cm in length.",
+  "cands": [
+   "9.5–19 millimeters",
+   "9.5–19 millimeters",
+   "9.5–19 millimeter"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Mareca americana",
+  "q": "What is the habitat of this bird? ",
+  "ans": "Forest, savanna, and grasslands.",
+  "cands": [
+   "open wetlands,grassland or marshes"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ursus arctos",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "variety of northern temperate forest"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lepisosteus osseus",
+  "q": "In which part(s) of the world does this fish live?",
+  "ans": "The Atlantic Ocean, Mediterranean Sea, and parts of the Indian Ocean.",
+  "cands": [
+   "east coasts of North and Central America,US,Texas, and southern New Mexico."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Oplismenus hirtellus",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "every continent in the world except Antarctica, growing mostly in coastal tropic and subtropic regions as well as tropical and subtropical islands"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Alcelaphus buselaphus",
+  "q": "How does this animal protect itself against predators?",
+  "ans": "Camo, fight, run away.",
+  "cands": [
+   "By horns"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ocypode ceratophthalmus",
+  "q": "What is the common name for this animal?",
+  "ans": "Dog",
+  "cands": [
+   "O. ceratophthalmus"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Epiactis prolifera",
+  "q": "How big is an adult of this animal?",
+  "ans": "Adults range from 1 to 2 meters in length.",
+  "cands": [
+   "three centimeters high and five centimeters in diameter",
+   "three centimetres high ,five centimetres in diameter",
+   "three centimetres high and five centimetres diameter"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Epidalea calamita",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "coastal sites."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sceloporus magister",
+  "q": "When is the mating period?",
+  "ans": "Spring",
+  "cands": [
+   "spring and summer",
+   "spring and summer",
+   "spring and summer"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Dendragapus obscurus",
+  "q": "What is the habitat of this bird? ",
+  "ans": "Forest, savanna, and grasslands.",
+  "cands": [
+   "conifer and mixed forests in mountainous regions"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Littorina littorea",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "rocky shores"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Kukulcania hibernalis",
+  "q": "How do these animals catch their prey?",
+  "ans": "They use speed, stealth, and specialized senses to catch prey.",
+  "cands": [
+   "its legs to comb webbing across its cribellum, caught in their webs"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pseudevernia furfuracea",
+  "q": "On what does this fungi typically grow? ",
+  "ans": "Wood, bark, and other organic matter.",
+  "cands": [
+   "on the bark of firs and pines"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pholcus phalangioides",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "insects, other spiders, and other small invertebrates"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sceloporus occidentalis",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "Arizona, New Mexico, California, Idaho, Nevada, Oregon, Utah, Washington, Northern Mexico"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Basiliscus vittatus",
+  "q": "How many egg does this reptile typically lay?",
+  "ans": "10-20 eggs",
+  "cands": [
+   "2–18 eggs"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Wisteria sinensis",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "20–30 m (66–98 ft)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Galeopsis bifida",
+  "q": "Is this plant poisonous?",
+  "ans": "Yes, it is.",
+  "cands": [
+   "yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Oblada melanura",
+  "q": "What is the habitat of this fish? ",
+  "ans": "Freshwater lakes and rivers.",
+  "cands": [
+   "seagrass and rocky bottoms"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Agkistrodon piscivorus",
+  "q": "What does this reptile eat?",
+  "ans": "This reptile eats insects, small mammals, and other reptiles.",
+  "cands": [
+   "mammals, birds, amphibians, fish, snakes, small turtles"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cantao ocellatus",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "sap of plants"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Juniperus horizontalis",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "10–30 centimetres"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Dacrydium cupressinum",
+  "q": "What kind of medical usage has this plant?",
+  "ans": "Medicinal use",
+  "cands": [
+   "burns and cuts"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Certhia brachydactyla",
+  "q": "Where does this animal reside in winter?",
+  "ans": "South America",
+  "cands": [
+   "under eaves of buildings."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Girella nigricans",
+  "q": "What does this fish eat?",
+  "ans": "Fish eat fish, plankton, and small invertebrates.",
+  "cands": [
+   "algae, sessile invertebrates",
+   "algae,sessile invertebrates",
+   "algae,sessile invertebrates"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Gyromitra esculenta",
+  "q": "With which other fungus is this fungus often confused?",
+  "ans": "Mushroom",
+  "cands": [
+   "Gyromitra esculenta"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Vireo gilvus",
+  "q": "What is the habitat of this bird? ",
+  "ans": "Forest, savanna, and grasslands.",
+  "cands": [
+   "open deciduous and mixed woods from Alaska to Mexico and the Florida Panhandle"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Oulactis muscosa",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "small mussels."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Chordeiles acutipennis",
+  "q": "What is the habitat of this bird? ",
+  "ans": "Forest, savanna, and grasslands.",
+  "cands": [
+   "including stumps and boulders or flat house roofs"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pseudechis porphyriacus",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "east coast of Australia"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pseudaspis cana",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "2 m"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Vidua macroura",
+  "q": "What is the habitat of this bird? ",
+  "ans": "Forest, savanna, and grasslands.",
+  "cands": [
+   "grassland, scrubs and savannah etc"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lampropeltis getula",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "grassland, woodland, desert, low mountains, and riparian zone",
+   "Grassland, woodland, desert , mountain, riparian zone",
+   "grassland, desert, woodland, low mountains, riparian zone"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Limonium sinuatum",
+  "q": "In which season does this plant give flowers?",
+  "ans": "Spring",
+  "cands": [
+   "Summer",
+   "summer"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Astraeus hygrometricus",
+  "q": "Does this fungus have medical use?",
+  "ans": "Yes, some fungi have medical uses.",
+  "cands": [
+   "hemostatic agent, stop wound bleeding, reduce chilblains, against burns"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Damaliscus pygargus",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "South Africa, Lesotho and Namibia"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hemidactylus turcicus",
+  "q": "What is the habitat of this reptile? ",
+  "ans": "Desert",
+  "cands": [
+   "coastal regions, and shrublands"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cantareus apertus",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "Europe, North Africa",
+   "Europe,  North Africa.",
+   "Europe and North Africa."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sauromalus ater",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "20 in",
+   "20 in",
+   "20 in"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sparisoma viride",
+  "q": "At what depth does this fish typically occur?",
+  "ans": "100 meters",
+  "cands": [
+   "between 15 and 80 ft (5–25 m), but can be found from 10 to 165 ft (3–50 m)",
+   "15 and 80 ft (5–25 m), but can be found from 10 to 165 ft (3–50 m)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Nyctemera annulata",
+  "q": "What is the wingspan of this insect in mm?",
+  "ans": "20",
+  "cands": [
+   "35–45 mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Limax cinereoniger",
+  "q": "What is a common parasite for this animal?",
+  "ans": "Tapeworms",
+  "cands": [
+   "nematodes"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Girella zebra",
+  "q": "In which part(s) of the world does this fish live?",
+  "ans": "The Atlantic Ocean, Mediterranean Sea, and parts of the Indian Ocean.",
+  "cands": [
+   "Indo-Pacific",
+   "Indo-Pacific",
+   "Indo-Pacific"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Thamnophis saurita",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "Eastern North America"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Charadrius semipalmatus",
+  "q": "What is the habitat of this bird? ",
+  "ans": "Forest, savanna, and grasslands.",
+  "cands": [
+   "open ground on beaches or flats"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sphyraena barracuda",
+  "q": "How big does this fish become typically?",
+  "ans": "Varies by species, but generally up to 10 feet long.",
+  "cands": [
+   "60–100 cm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Charadra dispulsa",
+  "q": "Where is this insect native?",
+  "ans": "Europe",
+  "cands": [
+   "Texas, Mexico",
+   "Texas, Mexico",
+   "Texas and Mexico"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Culaea inconstans",
+  "q": "How big does this fish become typically?",
+  "ans": "Varies by species, but generally up to 10 feet long.",
+  "cands": [
+   "3 to 5 cm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Actaea rubra",
+  "q": "In which country or region does this plant grow?",
+  "ans": "Australia",
+  "cands": [
+   "Alaska it ranges from the Kenai Peninsula, through Kodiak Island, Bristol Bay, and up the Yukon River"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ogdoconta cinereola",
+  "q": "What is the wingspan of this insect in mm?",
+  "ans": "20",
+  "cands": [
+   "9.5–14.5 mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Camptogramma bilineata",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "Europe and east across the Palearctic to the Altai Mountains."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Attulus fasciger",
+  "q": "How big is an adult of this species typically?",
+  "ans": "Adults typically range from 10 to 20 cm in length.",
+  "cands": [
+   "3–4 millimeters"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Stereum hirsutum",
+  "q": "Is this fungus edible?",
+  "ans": "Yes, it is edible.",
+  "cands": [
+   "No"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tachycineta albiventer",
+  "q": "Where does this animal reside in winter?",
+  "ans": "South America",
+  "cands": [
+   "Guianas, Venezuela, and Colombia."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Californiconus californicus",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "eastern Pacific Ocean, coast of California"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Ameiurus natalis",
+  "q": "How big does this fish become typically?",
+  "ans": "Varies by species, but generally up to 10 feet long.",
+  "cands": [
+   "6 to 14 inches"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Belenois aurota",
+  "q": "In which country or region does this insect live?",
+  "ans": "Asia",
+  "cands": [
+   "Sri Lanka, the Himalayas from Kashmir to Sikkim, southern India, Persia and Arabia to East Africa, Sub-Saharan Africa"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Carcinus maenas",
+  "q": "How big is an adult of this animal?",
+  "ans": "Adults range from 1 to 2 meters in length.",
+  "cands": [
+   "width of 90 mm (3+1⁄2 in)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Morone americana",
+  "q": "How big does this fish become typically?",
+  "ans": "Varies by species, but generally up to 10 feet long.",
+  "cands": [
+   "49.5 cm (19.5 in)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Bombina orientalis",
+  "q": "After what or who was this species named?",
+  "ans": "This species was named after Charles Darwin.",
+  "cands": [
+   "European fire-bellied toad and the Apennine yellow-bellied toad"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Bufotes balearicus",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "Italy , Corsica."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Mus musculus",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "unattended food, leftovers and garden produce"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Prunus laurocerasus",
+  "q": "In which season does this plant give fruits?",
+  "ans": "Summer",
+  "cands": [
+   "autumn",
+   "autumn"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Rhizocarpon geographicum",
+  "q": "On what does this fungi typically grow? ",
+  "ans": "Wood, bark, and other organic matter.",
+  "cands": [
+   "rocks"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Leukoma staminea",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "microscopic algae"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Arion ater",
+  "q": "Who are the preditors of this animal?",
+  "ans": "Predators include wolves, bears, and cougars.",
+  "cands": [
+   "hedgehog, badger, shrew, mole, mouse, frog"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Lon zabulon",
+  "q": "Where is the nest of this insect?",
+  "ans": "Under leaves or in soil.",
+  "cands": [
+   "host plant leaves."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pantherophis spiloides",
+  "q": "How many egg does this reptile typically lay?",
+  "ans": "10-20 eggs",
+  "cands": [
+   "5 to 27 eggs"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Crotalus ruber",
+  "q": "In this reptile venomous?",
+  "ans": "Yes, some reptiles are venomous.",
+  "cands": [
+   "venomous"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Tegula brunnea",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "Eastern Pacific Ocean",
+   "Eastern Pacific Ocean",
+   "Eastern Pacific Ocean"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sarkidiornis melanotos",
+  "q": "What does this bird eat?",
+  "ans": "This bird eats insects.",
+  "cands": [
+   "small fish, invertebrates, and seeds"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Bufotes viridis",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "mainland Europe"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Monacanthus chinensis",
+  "q": "What is the habitat of this fish? ",
+  "ans": "Freshwater lakes and rivers.",
+  "cands": [
+   "reefs and soft sediments",
+   "reefs and soft sediments",
+   "reefs and soft sediments"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Argiope keyserlingi",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "east coast of Australia",
+   "east coast of Australia",
+   "east coast of Australia"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Acris crepitans",
+  "q": "How many eggs does this species lay?",
+  "ans": "10-20 eggs",
+  "cands": [
+   "One egg"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Zachrysia provisoria",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "USA",
+   "USA",
+   "USA"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pycnopodia helianthoides",
+  "q": "Who first described this animal?",
+  "ans": "Linnaeus",
+  "cands": [
+   "IUCN"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Halictus scabiosae",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "nectar and pollen of various flowers, especially on Asteraceae species"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Osmia bicornis",
+  "q": "Where is the nest of this insect?",
+  "ans": "Under leaves or in soil.",
+  "cands": [
+   "key holes, empty snail shells, plant stems, and empty beetle hollows"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Kobus kob",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "flat areas,close to permanent water,"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Monardella villosa",
+  "q": "In which season does this plant give flowers?",
+  "ans": "Spring",
+  "cands": [
+   "May to August."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Misumenoides formosipes",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "heterogeneous habitat"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Gambelia wislizenii",
+  "q": "When is the mating period?",
+  "ans": "Spring",
+  "cands": [
+   "May to June"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Agrilus planipennis",
+  "q": "Is this a threatened species?",
+  "ans": "Yes, it is a threatened species.",
+  "cands": [
+   "yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Glyptemys insculpta",
+  "q": "When is the mating period?",
+  "ans": "Spring",
+  "cands": [
+   "fall and spring"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Leccinum aurantiacum",
+  "q": "Is this fungus edible?",
+  "ans": "Yes, it is edible.",
+  "cands": [
+   "It is considered edible."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Arothron meleagris",
+  "q": "At what depth does this fish typically occur?",
+  "ans": "100 meters",
+  "cands": [
+   "3–24 metres."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Zenaida macroura",
+  "q": "Where does this animal reside in winter?",
+  "ans": "South America",
+  "cands": [
+   "southern Central America"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Zootoca vivipara",
+  "q": "How old does this reptile become?",
+  "ans": "100 years",
+  "cands": [
+   "5 to 6 years"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Corylus cornuta",
+  "q": "In which season does this plant give flowers?",
+  "ans": "Spring",
+  "cands": [
+   "spring"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Myodes glareolus",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "woodland, hedgerows and dense vegetation"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sciurus carolinensis",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "tree bark, tree buds, flowers, berries, many types of seeds and acorns, walnuts, and other nuts, fungi"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Spilornis cheela",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "tropical Asia"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Chlorociboria aeruginascens",
+  "q": "With which other fungus is this fungus often confused?",
+  "ans": "Mushroom",
+  "cands": [
+   "C. aeruginosa",
+   "C. aeruginosa"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sternotherus odoratus",
+  "q": "What does this reptile eat?",
+  "ans": "This reptile eats insects, small mammals, and other reptiles.",
+  "cands": [
+   "Mollusks, insect, and crustacean",
+   "Mollusks, insects, crustaceans",
+   "Mollusks,insects, crustaceans"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Leccinum aurantiacum",
+  "q": "On what does this fungi typically grow? ",
+  "ans": "Wood, bark, and other organic matter.",
+  "cands": [
+   "aspen and has white scales on the stipe"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Larus michahellis",
+  "q": "What is the wingspan of this bird in cm?",
+  "ans": "100 cm",
+  "cands": [
+   "120 to 155 cm in wingspan"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cladonia stellaris",
+  "q": "Which animals eat this fungus?",
+  "ans": "Mushroom-eating animals, such as woodpeckers and certain birds.",
+  "cands": [
+   "reindeer and caribou",
+   "reindeer and caribou",
+   "reindeer, caribou"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tragopogon porrifolius",
+  "q": "Can I eat this plant or it fruits?",
+  "ans": "Yes, it fruits.",
+  "cands": [
+   "yes",
+   "yes",
+   "Yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Aporia crataegi",
+  "q": "Which period of the year is this insect active?",
+  "ans": "Spring",
+  "cands": [
+   "April and July."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Diadophis punctatus",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "25–38 cm (10–15 in) in length,"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Girella nigricans",
+  "q": "At what depth does this fish typically occur?",
+  "ans": "100 meters",
+  "cands": [
+   "1 to 32 m",
+   "1 to 32 m",
+   "1 to 32 m"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Orectolobus halei",
+  "q": "How big is an adult of this animal?",
+  "ans": "Adults range from 1 to 2 meters in length.",
+  "cands": [
+   "2.9 metres (9.5 ft)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tamiasciurus douglasii",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "seeds,"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Sedum obtusatum",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "3 centimeters long"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Octopus vulgaris",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "shallow, rocky, coastal waters, often no deeper than 200 m (660 feet)."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Varanus salvator",
+  "q": "What does this reptile eat?",
+  "ans": "This reptile eats insects, small mammals, and other reptiles.",
+  "cands": [
+   "fish, frogs, rodents, birds, turtles, crabs, crocodiles,crocodile eggs and snakes"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Boletinellus merulioides",
+  "q": "What is the typical size of this fungi?",
+  "ans": "Small to medium-sized, often less than 1 cm in diameter.",
+  "cands": [
+   "5–12 cm (2.0–4.7 in)."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tachyglossus aculeatus",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "native mammal, and in coastal and highland regions"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Remiz pendulinus",
+  "q": "What does this bird eat?",
+  "ans": "This bird eats insects.",
+  "cands": [
+   "insects and spiders but will also eat seeds"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Mirounga angustirostris",
+  "q": "How long is this animal typically pregnant?",
+  "ans": "150 days",
+  "cands": [
+   "11 months."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pittosporum crassifolium",
+  "q": "How big can this plant become?",
+  "ans": "Up to 10 feet tall.",
+  "cands": [
+   "5 metres",
+   "5 metres",
+   "5 metres"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Leptodeira septentrionalis",
+  "q": "In this reptile venomous?",
+  "ans": "Yes, some reptiles are venomous.",
+  "cands": [
+   "Yes",
+   "yes",
+   "Yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Corvus corone",
+  "q": "What is the typical weight of this bird when mature?",
+  "ans": "10-20 grams",
+  "cands": [
+   "400–600 grams"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Serranus scriba",
+  "q": "What does this fish eat?",
+  "ans": "Fish eat fish, plankton, and small invertebrates.",
+  "cands": [
+   "cephalopods, bivalves, crustaceans, fishes, and worms."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Girella tricuspidata",
+  "q": "In which part(s) of the world does this fish live?",
+  "ans": "The Atlantic Ocean, Mediterranean Sea, and parts of the Indian Ocean.",
+  "cands": [
+   "eastern Australia and New Zealand"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Hydrochoerus hydrochaeris",
+  "q": "How long is this animal typically pregnant?",
+  "ans": "150 days",
+  "cands": [
+   "130–150 days"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Gastrophryne olivacea",
+  "q": "What is the habitat of this animal? ",
+  "ans": "Habitat: Rainforests, deserts, grasslands, and urban areas.",
+  "cands": [
+   "moist ground, leaf litter, and under rocks or fallen logs",
+   "moist ground or in leaf litter, and under rocks or fallen logs",
+   "moist ground, leaf litter, under rocks, fallen logs"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pantherophis alleghaniensis",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "United States east of the Apalachicola River in Florida, east of the Chattahoochee River in Georgia, east of the Appalachian Mountains, north to southeastern New York and western Vermont, eastern Pennsylvania, Maryland, South Carolina, North Carolina, Georgia, south to the Florida Keys"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Emerita analoga",
+  "q": "How big is an adult of this animal?",
+  "ans": "Adults range from 1 to 2 meters in length.",
+  "cands": [
+   "35 mm long and 25 mm wide",
+   "35 mm long,25 mm wide",
+   "35 mm long and 25mm wide"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Dendrocygna bicolor",
+  "q": "What does this bird eat?",
+  "ans": "This bird eats insects.",
+  "cands": [
+   "plant material, animal items, insects"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Nectarinia famosa",
+  "q": "What does this bird eat?",
+  "ans": "This bird eats insects.",
+  "cands": [
+   "sunbirds,nectar,insects"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Mullus surmuletus",
+  "q": "How big does this fish become typically?",
+  "ans": "Varies by species, but generally up to 10 feet long.",
+  "cands": [
+   "40 centimetres"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Masticophis taeniatus",
+  "q": "In this part of the world does this animal live?",
+  "ans": "Yes, it lives here.",
+  "cands": [
+   "western United States and northern Mexico"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Scinax ruber",
+  "q": "In which part of the world does this animal live?",
+  "ans": "Africa",
+  "cands": [
+   "Amazonian and northern coastal South America, and Panama",
+   "Amazonian and northern coastal South America, Panama,,",
+   "Amazonian, northern coastal South America and Panama"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pteroglossus torquatus",
+  "q": "What does this bird eat?",
+  "ans": "This bird eats insects.",
+  "cands": [
+   "fruit-eater,insects, lizards, eggs, and other small prey."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Argiope argentata",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "butterflies and moths",
+   "butterflies and moths",
+   "butterflies and moths"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Pleurotus ostreatus",
+  "q": "Is this fungus edible?",
+  "ans": "Yes, it is edible.",
+  "cands": [
+   "Yes",
+   "yes",
+   "Yes"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Philanthus triangulum",
+  "q": "Where is this insect native?",
+  "ans": "Europe",
+  "cands": [
+   "Europe"
+  ],
+  "hit": true
+ },
+ {
+  "title": "Phalera bucephala",
+  "q": "What is the wingspan of this insect in mm?",
+  "ans": "20",
+  "cands": [
+   "55–68 mm"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Marmota marmota",
+  "q": "To how many children does a female typically give birth?",
+  "ans": "Two",
+  "cands": [
+   "one and seven babies"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Aspidoscelis tigris",
+  "q": "How many egg does this reptile typically lay?",
+  "ans": "10-20 eggs",
+  "cands": [
+   "two clutches"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Tragelaphus strepsiceros",
+  "q": "In which country or region does this animal live?",
+  "ans": "Australia",
+  "cands": [
+   "eastern and southern Africa"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Balanus glandula",
+  "q": "How big is an adult of this animal?",
+  "ans": "Adults range from 1 to 2 meters in length.",
+  "cands": [
+   "22 mm (0.9 in)"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Antilocapra americana",
+  "q": "To how many children does a female typically give birth?",
+  "ans": "Two",
+  "cands": [
+   "Twin fawns"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Epiactis prolifera",
+  "q": "How long does this animal take care of its children?",
+  "ans": "1 year",
+  "cands": [
+   "three months",
+   "three months",
+   "three months"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Marmota marmota",
+  "q": "How old does this animal typically become?",
+  "ans": "10 years",
+  "cands": [
+   "15–18 years."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Cyanocitta cristata",
+  "q": "Where does this animal reside in winter?",
+  "ans": "South America",
+  "cands": [
+   "northern US and southern Canadian Pacific Coast"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Anthanassa tulcis",
+  "q": "What does this insect eat?",
+  "ans": "Grass",
+  "cands": [
+   "Beloperone guttata, Ruellia species and flower nectar."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Araneus marmoreus",
+  "q": "How do these animals catch their prey?",
+  "ans": "They use speed, stealth, and specialized senses to catch prey.",
+  "cands": [
+   "\"signal\" thread attached to the center that notifies the spider"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Brachystola magna",
+  "q": "Which period of the year is this insect active?",
+  "ans": "Spring",
+  "cands": [
+   "spring and reach adulthood in August."
+  ],
+  "hit": false
+ },
+ {
+  "title": "Crotalus adamanteus",
+  "q": "How large does this animal become typically?",
+  "ans": "10 feet long",
+  "cands": [
+   "2.4-2.5 m"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Navanax inermis",
+  "q": "What does this animal eat?",
+  "ans": "Fish.",
+  "cands": [
+   "sea slugs, nudibranchs, and small fish",
+   "sea slugs, small fish, nudibranchs",
+   "sea slugs, nudibranchs and small fish"
+  ],
+  "hit": false
+ },
+ {
+  "title": "Antigone canadensis",
+  "q": "Which animals eat this bird?",
+  "ans": "Eagles, hawks, and owls.",
+  "cands": [
+   "Mammals, Corvids, smaller raptors"
+  ],
+  "hit": false
+ }
+]

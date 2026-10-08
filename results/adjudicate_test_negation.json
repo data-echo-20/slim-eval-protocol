@@ -1,0 +1,142 @@
+{
+ "criterion": "alias(answers_match)+negation",
+ "n_anchored": 649,
+ "grader": "negation",
+ "source_new": {
+  "qwen3-vl-2b": "results_adjudicate/syc8_qwen3-vl-2b_text.json",
+  "qwen3-vl-4b": "results_adjudicate/syc8_qwen3-vl-4b_text.json",
+  "qwen3-vl-8b": "results_adjudicate/syc8_qwen3-vl-8b_text.json",
+  "qwen2.5-vl-3b": "results_adjudicate/syc8_qwen2.5-vl-3b_text.json",
+  "qwen2.5-vl-7b": "results_adjudicate/syc8_qwen2.5-vl-7b_text.json"
+ },
+ "predictions": {
+  "sign": "pos",
+  "range_pp": {
+   "qwen3": [
+    12.0,
+    28.0
+   ],
+   "qwen25": [
+    22.0,
+    34.0
+   ]
+  }
+ },
+ "per_family": {
+  "qwen3": {
+   "small": "Qwen3-VL 2B",
+   "large": "Qwen3-VL 8B",
+   "arms": {
+    "adjudicate": {
+     "delta_pp": 46.111111111111114,
+     "p": 2.1382117680737565e-50,
+     "n_paired": 360,
+     "pkd_small": 0.43333333333333335,
+     "pkd_large": 0.8944444444444445,
+     "flip_up": 0,
+     "flip_down": 166
+    },
+    "adjudicate_len": {
+     "delta_pp": 45.63953488372093,
+     "p": 1.0947644252537633e-47,
+     "n_paired": 344,
+     "pkd_small": 0.4738372093023256,
+     "pkd_large": 0.9302325581395349,
+     "flip_up": 0,
+     "flip_down": 157
+    },
+    "own_only": {
+     "delta_pp": 12.05432937181664,
+     "p": 4.907183565421113e-10,
+     "n_paired": 589,
+     "pkd_small": 0.6213921901528013,
+     "pkd_large": 0.7419354838709677,
+     "flip_up": 31,
+     "flip_down": 102
+    },
+    "prior": {
+     "delta_pp": 28.000000000000004,
+     "p": 8.300367026720877e-45,
+     "n_paired": 575,
+     "pkd_small": 0.6313043478260869,
+     "pkd_large": 0.9113043478260869,
+     "flip_up": 3,
+     "flip_down": 164
+    }
+   },
+   "anchors": {
+    "own_only": 12.05432937181664,
+    "prior": 28.000000000000004
+   },
+   "sign_pred_correct": true,
+   "in_predicted_range": false,
+   "between_anchors": false,
+   "len_arm": {
+    "delta_pp": 45.63953488372093,
+    "p": 1.0947644252537633e-47,
+    "n_paired": 344,
+    "same_sign": true,
+    "shift_pp": -0.47157622739018734
+   }
+  },
+  "qwen25": {
+   "small": "Qwen2.5-VL 3B",
+   "large": "Qwen2.5-VL 7B",
+   "arms": {
+    "adjudicate": {
+     "delta_pp": 15.670103092783505,
+     "p": 9.242431266316357e-15,
+     "n_paired": 485,
+     "pkd_small": 0.6,
+     "pkd_large": 0.756701030927835,
+     "flip_up": 14,
+     "flip_down": 90
+    },
+    "adjudicate_len": {
+     "delta_pp": 29.03225806451613,
+     "p": 4.116489201690665e-33,
+     "n_paired": 465,
+     "pkd_small": 0.4860215053763441,
+     "pkd_large": 0.7763440860215054,
+     "flip_up": 8,
+     "flip_down": 143
+    },
+    "own_only": {
+     "delta_pp": 21.746575342465757,
+     "p": 4.417192007039093e-25,
+     "n_paired": 584,
+     "pkd_small": 0.4486301369863014,
+     "pkd_large": 0.666095890410959,
+     "flip_up": 20,
+     "flip_down": 147
+    },
+    "prior": {
+     "delta_pp": 33.70165745856353,
+     "p": 3.4977172149731774e-50,
+     "n_paired": 543,
+     "pkd_small": 0.5524861878453039,
+     "pkd_large": 0.8895027624309392,
+     "flip_up": 4,
+     "flip_down": 187
+    }
+   },
+   "anchors": {
+    "own_only": 21.746575342465757,
+    "prior": 33.70165745856353
+   },
+   "sign_pred_correct": true,
+   "in_predicted_range": false,
+   "between_anchors": false,
+   "len_arm": {
+    "delta_pp": 29.03225806451613,
+    "p": 4.116489201690665e-33,
+    "n_paired": 465,
+    "same_sign": true,
+    "shift_pp": 13.362154971732627
+   }
+  }
+ },
+ "verdict": "预测成功",
+ "sign_all_pos": true,
+ "all_in_predicted_range": false
+}

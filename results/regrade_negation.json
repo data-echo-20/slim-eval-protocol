@@ -1,0 +1,187 @@
+{
+ "Qwen3-VL 2B": {
+  "ctx_only": {
+   "both_new": 22,
+   "rescued": 0,
+   "both_orig": 22
+  },
+  "orig": {
+   "both_new": 18,
+   "rescued": 0,
+   "both_orig": 18
+  },
+  "ctx_hedge": {
+   "both_new": 67,
+   "rescued": 189,
+   "both_orig": 256
+  },
+  "neutral": {
+   "both_new": 25,
+   "rescued": 1,
+   "both_orig": 26
+  },
+  "own_only": {
+   "both_new": 36,
+   "rescued": 0,
+   "both_orig": 36
+  },
+  "len_ctrl": {
+   "both_new": 43,
+   "rescued": 3,
+   "both_orig": 46
+  },
+  "prior": {
+   "both_new": 33,
+   "rescued": 4,
+   "both_orig": 37
+  }
+ },
+ "Qwen3-VL 4B": {
+  "ctx_only": {
+   "both_new": 43,
+   "rescued": 5,
+   "both_orig": 48
+  },
+  "orig": {
+   "both_new": 17,
+   "rescued": 9,
+   "both_orig": 26
+  },
+  "ctx_hedge": {
+   "both_new": 37,
+   "rescued": 670,
+   "both_orig": 707
+  },
+  "neutral": {
+   "both_new": 19,
+   "rescued": 4,
+   "both_orig": 23
+  },
+  "own_only": {
+   "both_new": 30,
+   "rescued": 23,
+   "both_orig": 53
+  },
+  "len_ctrl": {
+   "both_new": 92,
+   "rescued": 293,
+   "both_orig": 385
+  },
+  "prior": {
+   "both_new": 53,
+   "rescued": 262,
+   "both_orig": 315
+  }
+ },
+ "Qwen3-VL 8B": {
+  "ctx_only": {
+   "both_new": 17,
+   "rescued": 4,
+   "both_orig": 21
+  },
+  "orig": {
+   "both_new": 15,
+   "rescued": 1,
+   "both_orig": 16
+  },
+  "ctx_hedge": {
+   "both_new": 36,
+   "rescued": 738,
+   "both_orig": 774
+  },
+  "neutral": {
+   "both_new": 21,
+   "rescued": 17,
+   "both_orig": 38
+  },
+  "own_only": {
+   "both_new": 43,
+   "rescued": 95,
+   "both_orig": 138
+  },
+  "len_ctrl": {
+   "both_new": 148,
+   "rescued": 377,
+   "both_orig": 525
+  },
+  "prior": {
+   "both_new": 88,
+   "rescued": 185,
+   "both_orig": 273
+  }
+ },
+ "Qwen2.5-VL 3B": {
+  "ctx_only": {
+   "both_new": 14,
+   "rescued": 0,
+   "both_orig": 14
+  },
+  "orig": {
+   "both_new": 11,
+   "rescued": 0,
+   "both_orig": 11
+  },
+  "ctx_hedge": {
+   "both_new": 69,
+   "rescued": 588,
+   "both_orig": 657
+  },
+  "neutral": {
+   "both_new": 28,
+   "rescued": 4,
+   "both_orig": 32
+  },
+  "own_only": {
+   "both_new": 33,
+   "rescued": 14,
+   "both_orig": 47
+  },
+  "len_ctrl": {
+   "both_new": 104,
+   "rescued": 76,
+   "both_orig": 180
+  },
+  "prior": {
+   "both_new": 76,
+   "rescued": 75,
+   "both_orig": 151
+  }
+ },
+ "Qwen2.5-VL 7B": {
+  "ctx_only": {
+   "both_new": 34,
+   "rescued": 6,
+   "both_orig": 40
+  },
+  "orig": {
+   "both_new": 12,
+   "rescued": 1,
+   "both_orig": 13
+  },
+  "ctx_hedge": {
+   "both_new": 42,
+   "rescued": 771,
+   "both_orig": 813
+  },
+  "neutral": {
+   "both_new": 33,
+   "rescued": 99,
+   "both_orig": 132
+  },
+  "own_only": {
+   "both_new": 49,
+   "rescued": 113,
+   "both_orig": 162
+  },
+  "len_ctrl": {
+   "both_new": 81,
+   "rescued": 204,
+   "both_orig": 285
+  },
+  "prior": {
+   "both_new": 78,
+   "rescued": 425,
+   "both_orig": 503
+  }
+ }
+}
